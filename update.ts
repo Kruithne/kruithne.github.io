@@ -15,7 +15,7 @@ for (const line of lines) {
 		parsing_inventory = false;
 		for (const [key, value] of inventory) {
 			if (!included.has(key)) {
-				lines_out.push(key + '\t' + value + (is_complete_set ? '' : '\t' + 'MISSING'));
+				lines_out.push(key + '\t' + value + (is_complete_set ? '' : '\t' + '#MISSING'));
 				included.add(key);
 			}
 		}
@@ -103,15 +103,27 @@ for (const line of lines) {
 				for (const inventory_item of inventory_items) {
 					const td = inventory_item.childNodes[2];
 					const item_id = td.childNodes[1].textContent;
-					const item_name = inventory_item.childNodes[3].textContent;
+					let item_name = inventory_item.childNodes[3].textContent;
 
-					// TODO: Trim col24 from set names?
-					// TODO: Trim (Complete Set with Stand and Accessories) from names?
+					// item_id may be %d-%d, if that is the case, check that the first number
+					// does not appear at the start of item_name
+
+					const matches = item_id.match(/(\d+)-(\d+)/);
+					if (matches) {
+						const first_number = matches[1];
+						if (item_name.startsWith(first_number))
+							item_name = item_name.substring(first_number.length).trim();
+					}
+
+					// Remove (Complete Set with Stand and Accessories) from item_name
+					item_name = item_name.replace(/\(Complete Set with Stand and Accessories\)/, '').trim();
 
 					console.log({ item_id, item_name });
 					inventory.set(item_id, item_name);
 				}
 			}
+		} else {
+			lines_out.push(line);
 		}
 
 		// https://www.bricklink.com/catalogItemInv.asp?S=71037-2&v=0&bt=0&sortBy=0&sortAsc=A&viewItemType=S
@@ -128,11 +140,11 @@ for (const line of lines) {
 				} else {
 					console.log('Failed to get name for %s', parts[0]);
 				}
-
-				lines_out.push(parts.join('\t'));
 			} else {
 				included.add(parts[0]);
 			}
+
+			lines_out.push(parts.join('\t'));
 		} else {
 			lines_out.push(line);
 		}
@@ -143,7 +155,7 @@ if (parsing_inventory) {
 	parsing_inventory = false;
 	for (const [key, value] of inventory) {
 		if (!included.has(key)) {
-			lines_out.push(key + '\t' + value + (is_complete_set ? '' : '\t' + 'MISSING'));
+			lines_out.push(key + '\t' + value + (is_complete_set ? '' : '\t' + '#MISSING'));
 			included.add(key);
 		}
 	}
@@ -177,14 +189,18 @@ for (const line of lines_out) {
 		html += '\t\t\t<tr>\n';
 		html += '\t\t\t\t<th><a href="https://www.bricklink.com/v2/catalog/catalogitem.page?S=' + parts[0] + '">' + parts[0] + '</a></th>\n';
 		html += '\t\t\t\t<th>' + parts[1] + '</th>\n';
+		html += '\t\t\t\t<th></th>\n';
 		html += '\t\t\t</tr>\n';
 	} else {
 		if (line.trim().length === 0)
 			continue;
 		const parts = line.split('\t');
-		html += '\t\t\t<tr' + (parts.length === 3 ? ' class="missing"' : '') + '>\n';
+		html += '\t\t\t<tr' + (parts.length === 3 ? (parts[2] === '#MISSING' ? ' class="missing"' : ' class="partial"') : '') + '>\n';
 		html += '\t\t\t\t<td><a href="https://www.bricklink.com/v2/catalog/catalogitem.page?S=' + parts[0] + '">' + parts[0] + '</a></td>\n';
-		html += '\t\t\t\t<td>' + parts[1] ?? '' + '</td>\n';
+		html += '\t\t\t\t<td>' + (parts[1] ?? '') + '</td>\n';
+
+		const notes = parts[2] !== undefined && parts[2] !== '#MISSING' ? parts[2] : '';
+		html += '\t\t\t\t<td>' + (notes ?? '') + '</td>\n';
 		html += '\t\t\t</tr>\n';
 	}
 }

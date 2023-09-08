@@ -27,6 +27,14 @@ th {
 	background-color: #2f2546;
 }
 
+td {
+	background-color: #1b2e1d;
+}
+
 .missing td {
 	background-color: #442727 !important;
+}
+
+.partial td {
+	background-color: #6d4736 !important;
 }

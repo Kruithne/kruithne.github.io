@@ -1,24 +1,56 @@
-// 71037-2
-col24-1
-col24-12
-col24-11
-col24-10
-col24-9
-col24-8
-col24-7
-col24-6
-col24-5
-col24-4
-col24-3
-col24-2
+// 71037-2	Minifigure, Series 24 (Complete Series of 12 Complete Minifigure Sets)
+col24-1	col24 Football Referee, Series 24
+col24-12	col24 Newspaper Kid, Series 24
+col24-11	col24 Rockin' Horse Rider, Series 24
+col24-10	col24 Rococo Aristocrat, Series 24
+col24-9	col24 Potter, Series 24
+col24-8	col24 Conservationist, Series 24
+col24-7	col24 Orc, Series 24
+col24-6	col24 T-Rex Costume Fan, Series 24
+col24-5	col24 Falconer, Series 24
+col24-4	col24 Carrot Mascot, Series 24
+col24-3	col24 Brown Astronaut and Spacebaby, Series 24
+col24-2	col24 Robot Warrior, Series 24
+col24-3	col24 Brown Astronaut and Spacebaby, Series 24	#MISSING
+col24-4	col24 Carrot Mascot, Series 24	#MISSING
+col24-8	col24 Conservationist, Series 24	#MISSING
+col24-5	col24 Falconer, Series 24	#MISSING
+col24-1	col24 Football Referee, Series 24	#MISSING
+col24-12	col24 Newspaper Kid, Series 24	#MISSING
+col24-7	col24 Orc, Series 24	#MISSING
+col24-9	col24 Potter, Series 24	#MISSING
+col24-2	col24 Robot Warrior, Series 24	#MISSING
+col24-11	col24 Rockin' Horse Rider, Series 24	#MISSING
+col24-10	col24 Rococo Aristocrat, Series 24	#MISSING
+col24-6	col24 T-Rex Costume Fan, Series 24	#MISSING
 
-// 71034-2
-col23-1
-col23-4
-col23-2
-col23-5
-col23-3
-col23-6
-col23-10
+// 71034-2	Minifigure, Series 23 (Complete Series of 12 Complete Minifigure Sets)
+col23-1	col23 Nutcracker, Series 23
+col23-4	col23 Reindeer Costume, Series 23
+col23-2	col23 Sugar Fairy, Series 23
+col23-5	col23 Holiday Elf, Series 23
+col23-3	col23 Snowman, Series 23
+col23-6	col23 Cardboard Robot, Series 23
+col23-10	col23 Ferry Captain, Series 23
+col23-6	col23 Cardboard Robot, Series 23
+col23-10	col23 Ferry Captain, Series 23
+col23-12	col23 Green Dragon Costume, Series 23
+col23-5	col23 Holiday Elf, Series 23
+col23-11	col23 Knight of the Yellow Castle, Series 23
+col23-1	col23 Nutcracker, Series 23
+col23-7	col23 Popcorn Costume, Series 23
+col23-4	col23 Reindeer Costume, Series 23
+col23-3	col23 Snowman, Series 23
+col23-2	col23 Sugar Fairy, Series 23
+col23-9	col23 Turkey Costume, Series 23
+col23-8	col23 Wolf Costume, Series 23
 
-// 30588-1	COMPLETE
+// 30588-1	Kids' Playground polybag
+cty1333	Child - Girl, White Halter Top with Green Apples and Lime Spots, Medium Blue Short Legs, Dark Brown Hair with Buns, Freckles, Reddish Brown Backpack
+cty1332	Skateboarder - Boy, Banana Shirt, Dark Azure Helmet, Backpack, Medium Blue Short Legs
+
+// 7279-1	Police Minifigure Collection
+cty0201	Police - Jail Prisoner Jacket over Prison Stripes, Dark Bluish Gray Legs, Dark Bluish Gray Knit Cap, Gold Tooth, Backpack	Missing part 92590
+cty0027a	Police - City Leather Jacket with Gold Badge and 'POLICE' on Back, White Helmet, Trans-Brown Visor, Silver Sunglasses
+cty0199	Police - City Suit with Blue Tie and Badge, Black Legs, White Short Bill Cap, Crooked Smile
+cty0200	Police - Jail Prisoner 50380 Prison Stripes, Dark Bluish Gray Legs, Black Knit Cap, Smirk and Stubble Beard
