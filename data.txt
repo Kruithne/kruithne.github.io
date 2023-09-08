@@ -228,4 +228,4 @@ colhp-11	colhp Professor Trelawney, Harry Potter, Series 1	#MISSING
 colhp-20	colhp Queenie Goldstein, Harry Potter, Series 1	#MISSING
 colhp-3	colhp Ron Weasley in School Robes, Harry Potter, Series 1	#MISSING
 colhp-18	colhp Tina Goldstein, Harry Potter, Series 1	#MISSING
-// colhp-9	Lord Voldemort, Harry Potter, Series 1 (Complete Set with Stand and Accessories)
+colhp-9	Lord Voldemort, Harry Potter, Series 1 (Complete Set with Stand and Accessories)
