@@ -204,3 +204,6 @@ cty1481	Girl - Dark Orange Hair, Bright Pink Hoodie, Sand Blue Short Legs
 cty1482	Grocery Store Customer - Male, Bright Light Yellow Shirt, Medium Nougat Hair, Prosthetic Leg
 cty1480	Mr. Produce
 cty1479	Peapod Costume Girl - Green Jacket
+
+// 71022-2
+// colhp-9
