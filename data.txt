@@ -197,3 +197,5 @@ cty0201	Police - Jail Prisoner Jacket over Prison Stripes, Dark Bluish Gray Legs
 cty0027a	Police - City Leather Jacket with Gold Badge and 'POLICE' on Back, White Helmet, Trans-Brown Visor, Silver Sunglasses
 cty0199	Police - City Suit with Blue Tie and Badge, Black Legs, White Short Bill Cap, Crooked Smile
 cty0200	Police - Jail Prisoner 50380 Prison Stripes, Dark Bluish Gray Legs, Black Knit Cap, Smirk and Stubble Beard
+
+// 60347-1	COMPLETE
