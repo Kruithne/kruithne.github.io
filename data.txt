@@ -198,4 +198,9 @@ cty0027a	Police - City Leather Jacket with Gold Badge and 'POLICE' on Back, Whit
 cty0199	Police - City Suit with Blue Tie and Badge, Black Legs, White Short Bill Cap, Crooked Smile
 cty0200	Police - Jail Prisoner 50380 Prison Stripes, Dark Bluish Gray Legs, Black Knit Cap, Smirk and Stubble Beard
 
-// 60347-1	COMPLETE
+// 60347-1	Grocery Store
+cty1483	Forklift Driver - Female, Neon Yellow Safety Vest, Dark Blue Legs, White Cap with Bright Light Yellow Hair
+cty1481	Girl - Dark Orange Hair, Bright Pink Hoodie, Sand Blue Short Legs
+cty1482	Grocery Store Customer - Male, Bright Light Yellow Shirt, Medium Nougat Hair, Prosthetic Leg
+cty1480	Mr. Produce
+cty1479	Peapod Costume Girl - Green Jacket
