@@ -1,0 +1,24 @@
+// 71037-2
+col24-1
+col24-12
+col24-11
+col24-10
+col24-9
+col24-8
+col24-7
+col24-6
+col24-5
+col24-4
+col24-3
+col24-2
+
+// 71034-2
+col23-1
+col23-4
+col23-2
+col23-5
+col23-3
+col23-6
+col23-10
+
+// 30588-1	COMPLETE

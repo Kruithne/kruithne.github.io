@@ -8,6 +8,7 @@ body {
 table, th, td {
 	border: 1px solid #5a458b;
 	border-collapse: collapse;
+	text-align: left;
 }
 
 table {

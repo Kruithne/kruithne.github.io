@@ -1,0 +1,11 @@
+{
+  "name": "minifigures",
+  "module": "update.ts",
+  "devDependencies": {
+    "bun-types": "^1.0.1"
+  },
+  "type": "module",
+  "dependencies": {
+    "node-html-parser": "^6.1.8"
+  }
+}
