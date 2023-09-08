@@ -45,26 +45,148 @@ col23-2	col23 Sugar Fairy, Series 23
 col23-9	col23 Turkey Costume, Series 23
 col23-8	col23 Wolf Costume, Series 23
 
-// 71032-2	COMPLETE
+// 71032-2	Minifigure, Series 22 (Complete Series of 12 Complete Minifigure Sets)
+col22-9	col22 Birdwatcher, Series 22
+col22-2	col22 Chili Costume Fan, Series 22
+col22-6	col22 Figure Skating Champion, Series 22
+col22-8	col22 Forest Elf, Series 22
+col22-5	col22 Horse and Groom, Series 22
+col22-7	col22 Night Protector, Series 22
+col22-10	col22 Raccoon Costume Fan, Series 22
+col22-1	col22 Robot Repair Tech, Series 22
+col22-4	col22 Snow Guardian, Series 22
+col22-11	col22 Space Creature, Series 22
+col22-3	col22 Troubadour, Series 22
+col22-12	col22 Wheelchair Racer, Series 22
 
-// 71029-2	COMPLETE
+// 71029-2	Minifigure, Series 21 (Complete Series of 12 Complete Minifigure Sets)
+col21-9	col21 Airplane Girl, Series 21
+col21-11	col21 Alien, Series 21
+col21-8	col21 Ancient Warrior, Series 21
+col21-7	col21 Beekeeper, Series 21
+col21-12	col21 Cabaret Singer, Series 21
+col21-6	col21 Centaur Warrior, Series 21
+col21-4	col21 Ladybug Girl, Series 21
+col21-1	col21 Paddle Surfer, Series 21
+col21-5	col21 Pug Costume Guy, Series 21
+col21-3	col21 Shipwreck Survivor, Series 21
+col21-10	col21 Space Police Guy, Series 21
+col21-2	col21 Violin Kid, Series 21
 
 // 71025-2	 COMPLETE
 
-// 71018-2	COMPLETE
+// 71018-2	Minifigure, Series 17 (Complete Series of 16 Complete Minifigure Sets)
+col17-10	col17 Battle Dwarf, Series 17
+col17-7	col17 Butterfly Girl, Series 17
+col17-2	col17 Circus Strongman, Series 17
+col17-9	col17 Connoisseur, Series 17
+col17-4	col17 Corn Cob Guy, Series 17
+col17-14	col17 Dance Instructor, Series 17
+col17-15	col17 Elf Maiden, Series 17
+col17-3	col17 Gourmet Chef, Series 17
+col17-6	col17 Hot Dog Vendor, Series 17
+col17-1	col17 Pro Surfer, Series 17
+col17-11	col17 Retro Space Hero, Series 17
+col17-13	col17 Rocket Boy, Series 17
+col17-8	col17 Roman Gladiator, Series 17
+col17-16	col17 The Mystery Man (Highwayman), Series 17
+col17-5	col17 Veterinarian, Series 17
+col17-12	col17 Yuppie, Series 17
 
-// 71012-2	COMPLETE
+// 71012-2	Minifigure, Disney, Series 1 (Complete Series of 18 Complete Minifigure Sets)
+coldis-4	coldis Aladdin, Disney, Series 1
+coldis-7	coldis Alice, Disney, Series 1
+coldis-2	coldis Alien, Disney, Series 1
+coldis-18	coldis Ariel, Disney, Series 1
+coldis-3	coldis Buzz Lightyear, Disney, Series 1
+coldis-16	coldis Captain Hook, Disney, Series 1
+coldis-8	coldis Cheshire Cat, Disney, Series 1
+coldis-9	coldis Daisy Duck, Disney, Series 1
+coldis-10	coldis Donald Duck, Disney, Series 1
+coldis-5	coldis Genie, Disney, Series 1
+coldis-6	coldis Maleficent, Disney, Series 1
+coldis-12	coldis Mickey Mouse, Disney, Series 1
+coldis-11	coldis Minnie Mouse, Disney, Series 1
+coldis-13	coldis Mr. Incredible, Disney, Series 1
+coldis-15	coldis Peter Pan, Disney, Series 1
+coldis-1	coldis Stitch, Disney, Series 1
+coldis-14	coldis Syndrome, Disney, Series 1
+coldis-17	coldis Ursula, Disney, Series 1
 
-// 71024-2	COMPLETE
+// 71024-2	Minifigure, Disney, Series 2 (Complete Series of 18 Complete Minifigure Sets)
+coldis2-10	coldis2 Anna, Disney, Series 2
+coldis2-7	coldis2 Chip, Disney, Series 2
+coldis2-8	coldis2 Dale, Disney, Series 2
+coldis2-4	coldis2 Dewey Duck, Disney, Series 2
+coldis2-17	coldis2 Edna Mode, Disney, Series 2
+coldis2-9	coldis2 Elsa, Disney, Series 2
+coldis2-18	coldis2 Frozone, Disney, Series 2
+coldis2-13	coldis2 Hades, Disney, Series 2
+coldis2-14	coldis2 Hercules, Disney, Series 2
+coldis2-3	coldis2 Huey Duck, Disney, Series 2
+coldis2-16	coldis2 Jack Skellington, Disney, Series 2
+coldis2-11	coldis2 Jafar, Disney, Series 2
+coldis2-12	coldis2 Jasmine, Disney, Series 2
+coldis2-5	coldis2 Louie Duck, Disney, Series 2
+coldis2-15	coldis2 Sally, Disney, Series 2
+coldis2-6	coldis2 Scrooge McDuck, Disney, Series 2
+coldis2-1	coldis2 Vintage Mickey, Disney, Series 2
+coldis2-2	coldis2 Vintage Minnie, Disney, Series 2
 
-// 71033-2	COMPLETE
+// 71033-2	Minifigure, The Muppets (Complete Series of 12 Complete Minifigure Sets)
+coltm-8	coltm Animal, The Muppets
+coltm-3	coltm Beaker, The Muppets
+coltm-2	coltm Dr. Bunsen Honeydew, The Muppets
+coltm-7	coltm Fozzie Bear, The Muppets
+coltm-4	coltm Gonzo, The Muppets
+coltm-12	coltm Janice, The Muppets
+coltm-5	coltm Kermit the Frog, The Muppets
+coltm-6	coltm Miss Piggy, The Muppets
+coltm-1	coltm Rowlf the Dog, The Muppets
+coltm-10	coltm Statler, The Muppets
+coltm-11	coltm Swedish Chef, The Muppets
+coltm-9	coltm Waldorf, The Muppets
 
-// 71005-2
-colsim-16
+// 71005-2	Minifigure, The Simpsons, Series 1 (Complete Series of 16 Complete Minifigure Sets)
+colsim-16	colsim Mr. Burns, The Simpsons, Series 1
+colsim-11	colsim Apu Nahasapeemapetilon, The Simpsons, Series 1	#MISSING
+colsim-2	colsim Bart Simpson, The Simpsons, Series 1	#MISSING
+colsim-15	colsim Chief Wiggum, The Simpsons, Series 1	#MISSING
+colsim-6	colsim Grampa Simpson, The Simpsons, Series 1	#MISSING
+colsim-1	colsim Homer Simpson, The Simpsons, Series 1	#MISSING
+colsim-13	colsim Itchy, The Simpsons, Series 1	#MISSING
+colsim-8	colsim Krusty the Clown, The Simpsons, Series 1	#MISSING
+colsim-4	colsim Lisa Simpson, The Simpsons, Series 1	#MISSING
+colsim-5	colsim Maggie Simpson, The Simpsons, Series 1	#MISSING
+colsim-3	colsim Marge Simpson, The Simpsons, Series 1	#MISSING
+colsim-9	colsim Milhouse Van Houten, The Simpsons, Series 1	#MISSING
+colsim-16	colsim Mr. Burns, The Simpsons, Series 1	#MISSING
+colsim-7	colsim Ned Flanders, The Simpsons, Series 1	#MISSING
+colsim-12	colsim Nelson Muntz, The Simpsons, Series 1	#MISSING
+colsim-10	colsim Ralph Wiggum, The Simpsons, Series 1	#MISSING
+colsim-14	colsim Scratchy, The Simpsons, Series 1	#MISSING
 
-// 71009-2	COMPLETE
+// 71009-2	Minifigure, The Simpsons, Series 2 (Complete Series of 16 Complete Minifigure Sets)
+colsim2-5	colsim2 Bartman, The Simpsons, Series 2
+colsim2-7	colsim2 Comic Book Guy, The Simpsons, Series 2
+colsim2-1	colsim2 Date Night Homer, The Simpsons, Series 2
+colsim2-2	colsim2 Date Night Marge, The Simpsons, Series 2
+colsim2-16	colsim2 Dr. Hibbert, The Simpsons, Series 2
+colsim2-14	colsim2 Edna Krabappel, The Simpsons, Series 2
+colsim2-6	colsim2 Fallout Boy Milhouse, The Simpsons, Series 2
+colsim2-13	colsim2 Groundskeeper Willie, The Simpsons, Series 2
+colsim2-10	colsim2 Hans Moleman, The Simpsons, Series 2
+colsim2-3	colsim2 Lisa with Snowball II, The Simpsons, Series 2
+colsim2-4	colsim2 Maggie and Santa's Little Helper, The Simpsons, Series 2
+colsim2-8	colsim2 Martin Prince, The Simpsons, Series 2
+colsim2-12	colsim2 Patty, The Simpsons, Series 2
+colsim2-9	colsim2 Professor Frink, The Simpsons, Series 2
+colsim2-11	colsim2 Selma, The Simpsons, Series 2
+colsim2-15	colsim2 Waylon Smithers, The Simpsons, Series 2
 
-// 5004936-1	COMPLETE
+// 5004936-1	Iconic Cave
+col302	Cave Man - Iconic Cave
+col303	Cave Woman - Iconic Cave
 
 // 30588-1	Kids' Playground polybag
 cty1333	Child - Girl, White Halter Top with Green Apples and Lime Spots, Medium Blue Short Legs, Dark Brown Hair with Buns, Freckles, Reddish Brown Backpack
