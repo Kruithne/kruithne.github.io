@@ -1,0 +1,30 @@
+body {
+	background-color: #0d1117;
+	color: #e6edf3;
+	padding: 20px;
+}
+
+table, th, td {
+	border: 1px solid #5a458b;
+	border-collapse: collapse;
+}
+
+table {
+	margin-bottom: 20px;
+}
+
+a {
+	color: #a3c2ee;
+}
+
+th, td {
+	padding: 8px;
+}
+
+th {
+	background-color: #2f2546;
+}
+
+.missing td {
+	background-color: #442727 !important;
+}
