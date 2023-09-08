@@ -45,6 +45,27 @@ col23-2	col23 Sugar Fairy, Series 23
 col23-9	col23 Turkey Costume, Series 23
 col23-8	col23 Wolf Costume, Series 23
 
+// 71032-2	COMPLETE
+
+// 71029-2	COMPLETE
+
+// 71025-2	 COMPLETE
+
+// 71018-2	COMPLETE
+
+// 71012-2	COMPLETE
+
+// 71024-2	COMPLETE
+
+// 71033-2	COMPLETE
+
+// 71005-2
+colsim-16
+
+// 71009-2	COMPLETE
+
+// 5004936-1	COMPLETE
+
 // 30588-1	Kids' Playground polybag
 cty1333	Child - Girl, White Halter Top with Green Apples and Lime Spots, Medium Blue Short Legs, Dark Brown Hair with Buns, Freckles, Reddish Brown Backpack
 cty1332	Skateboarder - Boy, Banana Shirt, Dark Azure Helmet, Backpack, Medium Blue Short Legs
