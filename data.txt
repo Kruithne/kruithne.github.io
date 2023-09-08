@@ -205,5 +205,27 @@ cty1482	Grocery Store Customer - Male, Bright Light Yellow Shirt, Medium Nougat 
 cty1480	Mr. Produce
 cty1479	Peapod Costume Girl - Green Jacket
 
-// 71022-2
-// colhp-9
+// 71022-2	Minifigure, Harry Potter, Series 1 (Complete Series of 22 Complete Minifigure Sets)
+colhp-16	colhp Albus Dumbledore, Harry Potter, Series 1	#MISSING
+colhp-12	colhp Cedric Diggory, Harry Potter, Series 1	#MISSING
+colhp-7	colhp Cho Chang, Harry Potter, Series 1	#MISSING
+colhp-21	colhp Credence Barebone, Harry Potter, Series 1	#MISSING
+colhp-8	colhp Dean Thomas, Harry Potter, Series 1	#MISSING
+colhp-10	colhp Dobby, Harry Potter, Series 1	#MISSING
+colhp-4	colhp Draco Malfoy, Harry Potter, Series 1	#MISSING
+colhp-15	colhp Harry Potter in Pajamas, Harry Potter, Series 1	#MISSING
+colhp-1	colhp Harry Potter in School Robes, Harry Potter, Series 1	#MISSING
+colhp-2	colhp Hermione Granger in School Robes, Harry Potter, Series 1	#MISSING
+colhp-19	colhp Jacob Kowalski, Harry Potter, Series 1	#MISSING
+colhp-9	colhp Lord Voldemort, Harry Potter, Series 1	#MISSING
+colhp-5	colhp Luna Lovegood, Harry Potter, Series 1	#MISSING
+colhp-14	colhp Mad-Eye Moody, Harry Potter, Series 1	#MISSING
+colhp-6	colhp Neville Longbottom, Harry Potter, Series 1	#MISSING
+colhp-17	colhp Newt Scamander, Harry Potter, Series 1	#MISSING
+colhp-22	colhp Percival Graves, Harry Potter, Series 1	#MISSING
+colhp-13	colhp Professor Flitwick, Harry Potter, Series 1	#MISSING
+colhp-11	colhp Professor Trelawney, Harry Potter, Series 1	#MISSING
+colhp-20	colhp Queenie Goldstein, Harry Potter, Series 1	#MISSING
+colhp-3	colhp Ron Weasley in School Robes, Harry Potter, Series 1	#MISSING
+colhp-18	colhp Tina Goldstein, Harry Potter, Series 1	#MISSING
+// colhp-9	Lord Voldemort, Harry Potter, Series 1 (Complete Set with Stand and Accessories)
