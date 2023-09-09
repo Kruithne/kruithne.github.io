@@ -13,9 +13,9 @@ col04-4	Punk Rocker, Series 4	#MISSING
 col04-10	Sailor, Series 4	#MISSING
 col04-11	Soccer Player, Series 4	#MISSING
 col04-9	Street Skater, Series 4	#MISSING
-col04-5	Surfer Girl, Series 4	#MISSING
+col04-5	Surfer Girl, Series 4
 col04-7	The Monster, Series 4	#MISSING
-col04-6	Viking, Series 4	#MISSING
+col04-6	Viking, Series 4
 col04-12	Werewolf, Series 4	#MISSING
 
 // 8805-2	Minifigure, Series 5 (Complete Series of 16 Complete Minifigure Sets) (2011)
@@ -43,7 +43,7 @@ col06-1	Classic Alien, Series 6	#MISSING
 col06-7	Clockwork Robot, Series 6	#MISSING
 col06-6	Flamenco Dancer, Series 6	#MISSING
 col06-16	Genie, Series 6	#MISSING
-col06-2	Highland Battler, Series 6	#MISSING
+col06-2	Highland Battler, Series 6
 col06-13	Intergalactic Girl, Series 6	#MISSING
 col06-4	Lady Liberty, Series 6	#MISSING
 col06-9	Leprechaun, Series 6	#MISSING
