@@ -1,6 +1,18 @@
 # MINIFIGURE SERIES
 
-// 71037-2	COMPLETE
+// 71037-2	Minifigure, Series 24 (Complete Series of 12 Complete Minifigure Sets) (2023)
+col24-3	Brown Astronaut and Spacebaby, Series 24
+col24-4	Carrot Mascot, Series 24
+col24-8	Conservationist, Series 24
+col24-5	Falconer, Series 24
+col24-1	Football Referee, Series 24
+col24-12	Newspaper Kid, Series 24
+col24-7	Orc, Series 24
+col24-9	Potter, Series 24
+col24-2	Robot Warrior, Series 24
+col24-11	Rockin' Horse Rider, Series 24
+col24-10	Rococo Aristocrat, Series 24
+col24-6	T-Rex Costume Fan, Series 24
 
 // 71034-2	Minifigure, Series 23 (Complete Series of 12 Complete Minifigure Sets)
 col23-1	Nutcracker, Series 23
@@ -613,7 +625,8 @@ min092	Villager - Dark Tan Pouch
 // b22hp04uk	Harry Potter - Official Yearbook 2023 (English - UK Edition)
 hp394	Hermione Granger - Striped Sweater, Dark Blue Legs
 
-// 30435-1	COMPLETE
+// 30435-1	Build Your Own Hogwarts Castle polybag (2022)
+hp350	Albus Dumbledore - Magenta Robe, Plain Legs
 
 # NINJAGO
 
