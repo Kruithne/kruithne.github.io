@@ -287,7 +287,12 @@ firec003	Fire - Classic, White Helmet, Trans-Light Blue Visor	#MISSING
 // 5911-1	Johnny Thunder's Plane (2000)
 adv010	Johnny Thunder (Desert)
 
-// 5948-1	COMPLETE
+// 5948-1	Desert Expedition (1998)
+adv039	Baron Von Barron with Pith Helmet and White Epaulettes
+adv040	Dr. Charles Lightning with Backpack
+adv009	Harry Cane
+adv038	Lord Sam Sinister - Suit with 3 Buttons Black - Black Legs, Top Hat
+gen001	Skeleton with Standard Skull
 
 # PHARAOH'S QUEST
 
@@ -305,7 +310,8 @@ cty1476	Sudsy Simon Tub Racer - Stuntz Driver
 # CITY
 
 
-// 60376-1	COMPLETE
+// 60376-1	Arctic Explorer Snowmobile (2023)
+cty1614	Arctic Explorer - Female, Orange Jacket, Dark Orange Braids with Dark Blue Beanie, Freckles, Backpack
 
 // 30588-1	Kids' Playground polybag
 cty1333	Child - Girl, White Halter Top with Green Apples and Lime Spots, Medium Blue Short Legs, Dark Brown Hair with Buns, Freckles, Reddish Brown Backpack
