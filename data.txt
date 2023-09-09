@@ -1,5 +1,7 @@
 # MINIFIGURE SERIES
 
+// 8804-2
+
 // 8805-2	Minifigure, Series 5 (Complete Series of 16 Complete Minifigure Sets) (2011)
 col05-13	Boxer, Series 5
 col05-5	Cave Woman, Series 5	#MISSING
