@@ -268,8 +268,6 @@ ac002	Alien Pilot
 // 6389-1	Fire Control Center (1990)
 firec002	Fire - Classic, Black Male Hair
 firec001	Fire - Classic, White Fire Helmet
-firec002	Fire - Classic, Black Male Hair	#MISSING
-firec001	Fire - Classic, White Fire Helmet	#MISSING
 firec003	Fire - Classic, White Helmet, Trans-Light Blue Visor	#MISSING
 
 # ADVENTURES
