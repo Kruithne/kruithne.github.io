@@ -272,7 +272,8 @@ col303	Cave Woman - Iconic Cave
 
 # SPACE: CLASSIC
 
-// 9780241409695
+// 9780241409695	LEGO Minifigure: A Visual History (New Edition) (Hardcover)
+sp130	Classic Space - Orange with Air Tanks and Updated Helmet
 
 // 6701-1	Minifigure Pack (1983)
 sp005	Classic Space - Red with Air Tanks
@@ -631,7 +632,8 @@ min092	Villager - Dark Tan Pouch
 
 # HARRY POTTER
 
-// b22hp04uk
+// b22hp04uk	Harry Potter - Official Yearbook 2023 (English - UK Edition)
+hp394	Hermione Granger - Striped Sweater, Dark Blue Legs
 
 # NINJAGO
 
