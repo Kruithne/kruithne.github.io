@@ -663,7 +663,6 @@ njo788	Nindroid, Dual Sided Head - Legacy
 
 // 76989-1	Horizon Forbidden West: Tallneck (2022)
 hfw001	Aloy
-hfw002	Watcher
 
 // 40516-1	Everyone is Awesome (2021)
 tls100	Everyone is Awesome Black (Monochrome)
