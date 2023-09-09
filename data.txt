@@ -683,7 +683,10 @@ gen019	Skeleton, Fantasy Era Torso with Standard Skull, Mechanical Arms Straight
 sw0605	Clone Airborne Trooper (Phase 2) - Geonosis Camouflage, Smirk	Missing parts 15391c01 and 4073 from both.
 sw0606	Clone Trooper (Phase 2) - Geonosis Camouflage, Scowl	Missing parts 15391c01 and 4073 from both.
 
-// 7133-1	COMPLETE
+// 7133-1	Bounty Hunter Pursuit (2002)
+sw0100	Anakin Skywalker (Padawan) - Yellow Head
+sw0055a	Obi-Wan Kenobi (Young with Dark Orange Hair, without Headset)
+sw0059	Zam Wesell
 
 # SUPER HEROES
 
