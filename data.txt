@@ -240,9 +240,9 @@ colhp2-3	Hermione Granger, Harry Potter, Series 2	#MISSING
 colhp2-8	James Potter, Harry Potter, Series 2	#MISSING
 colhp2-13	Kingsley Shacklebolt, Harry Potter, Series 2	#MISSING
 colhp2-7	Lily Potter, Harry Potter, Series 2	#MISSING
-colhp2-5	Luna Lovegood, Harry Potter, Series 2	#MISSING
+colhp2-5	Luna Lovegood, Harry Potter, Series 2
 colhp2-14	Moaning Myrtle, Harry Potter, Series 2	#MISSING
-colhp2-16	Neville Longbottom, Harry Potter, Series 2	#MISSING
+colhp2-16	Neville Longbottom, Harry Potter, Series 2
 colhp2-15	Professor Sprout, Harry Potter, Series 2	#MISSING
 colhp2-4	Ron Weasley, Harry Potter, Series 2	#MISSING
 
