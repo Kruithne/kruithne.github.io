@@ -781,7 +781,7 @@ hp394	Hermione Granger - Striped Sweater, Dark Blue Legs
 // 30435-1	Build Your Own Hogwarts Castle polybag (2022)
 hp350	Albus Dumbledore - Magenta Robe, Plain Legs
 
-// 4736-1
+// 4736-1	COMPLETE
 
 # NINJAGO
 
