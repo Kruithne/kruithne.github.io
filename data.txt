@@ -688,6 +688,10 @@ sw0100	Anakin Skywalker (Padawan) - Yellow Head
 sw0055a	Obi-Wan Kenobi (Young with Dark Orange Hair, without Headset)
 sw0059	Zam Wesell
 
+// 7110-1	Landspeeder (1999)
+sw0021	Luke Skywalker (Tatooine)	#MISSING
+sw0023	Obi-Wan Kenobi with Light Gray Hair (Old)
+
 # SUPER HEROES
 
 // 76220-1	Batman versus Harley Quinn (2022)
