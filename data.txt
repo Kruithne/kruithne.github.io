@@ -1,250 +1,250 @@
 # MINIFIGURE SERIES
 // 71037-2	Minifigure, Series 24 (Complete Series of 12 Complete Minifigure Sets)
-col24-1	col24 Football Referee, Series 24
-col24-12	col24 Newspaper Kid, Series 24
-col24-11	col24 Rockin' Horse Rider, Series 24
-col24-10	col24 Rococo Aristocrat, Series 24
-col24-9	col24 Potter, Series 24
-col24-8	col24 Conservationist, Series 24
-col24-7	col24 Orc, Series 24
-col24-6	col24 T-Rex Costume Fan, Series 24
-col24-5	col24 Falconer, Series 24
-col24-4	col24 Carrot Mascot, Series 24
-col24-3	col24 Brown Astronaut and Spacebaby, Series 24
-col24-2	col24 Robot Warrior, Series 24
-col24-3	col24 Brown Astronaut and Spacebaby, Series 24	#MISSING
-col24-4	col24 Carrot Mascot, Series 24	#MISSING
-col24-8	col24 Conservationist, Series 24	#MISSING
-col24-5	col24 Falconer, Series 24	#MISSING
-col24-1	col24 Football Referee, Series 24	#MISSING
-col24-12	col24 Newspaper Kid, Series 24	#MISSING
-col24-7	col24 Orc, Series 24	#MISSING
-col24-9	col24 Potter, Series 24	#MISSING
-col24-2	col24 Robot Warrior, Series 24	#MISSING
-col24-11	col24 Rockin' Horse Rider, Series 24	#MISSING
-col24-10	col24 Rococo Aristocrat, Series 24	#MISSING
-col24-6	col24 T-Rex Costume Fan, Series 24	#MISSING
+col24-1	Football Referee, Series 24
+col24-12	Newspaper Kid, Series 24
+col24-11	Rockin' Horse Rider, Series 24
+col24-10	Rococo Aristocrat, Series 24
+col24-9	Potter, Series 24
+col24-8	Conservationist, Series 24
+col24-7	Orc, Series 24
+col24-6	T-Rex Costume Fan, Series 24
+col24-5	Falconer, Series 24
+col24-4	Carrot Mascot, Series 24
+col24-3	Brown Astronaut and Spacebaby, Series 24
+col24-2	Robot Warrior, Series 24
+col24-3	Brown Astronaut and Spacebaby, Series 24	#MISSING
+col24-4	Carrot Mascot, Series 24	#MISSING
+col24-8	Conservationist, Series 24	#MISSING
+col24-5	Falconer, Series 24	#MISSING
+col24-1	Football Referee, Series 24	#MISSING
+col24-12	Newspaper Kid, Series 24	#MISSING
+col24-7	Orc, Series 24	#MISSING
+col24-9	Potter, Series 24	#MISSING
+col24-2	Robot Warrior, Series 24	#MISSING
+col24-11	Rockin' Horse Rider, Series 24	#MISSING
+col24-10	Rococo Aristocrat, Series 24	#MISSING
+col24-6	T-Rex Costume Fan, Series 24	#MISSING
 
 // 71034-2	Minifigure, Series 23 (Complete Series of 12 Complete Minifigure Sets)
-col23-1	col23 Nutcracker, Series 23
-col23-4	col23 Reindeer Costume, Series 23
-col23-2	col23 Sugar Fairy, Series 23
-col23-5	col23 Holiday Elf, Series 23
-col23-3	col23 Snowman, Series 23
-col23-6	col23 Cardboard Robot, Series 23
-col23-10	col23 Ferry Captain, Series 23
-col23-6	col23 Cardboard Robot, Series 23
-col23-10	col23 Ferry Captain, Series 23
-col23-12	col23 Green Dragon Costume, Series 23
-col23-5	col23 Holiday Elf, Series 23
-col23-11	col23 Knight of the Yellow Castle, Series 23
-col23-1	col23 Nutcracker, Series 23
-col23-7	col23 Popcorn Costume, Series 23
-col23-4	col23 Reindeer Costume, Series 23
-col23-3	col23 Snowman, Series 23
-col23-2	col23 Sugar Fairy, Series 23
-col23-9	col23 Turkey Costume, Series 23
-col23-8	col23 Wolf Costume, Series 23
+col23-1	Nutcracker, Series 23
+col23-4	Reindeer Costume, Series 23
+col23-2	Sugar Fairy, Series 23
+col23-5	Holiday Elf, Series 23
+col23-3	Snowman, Series 23
+col23-6	Cardboard Robot, Series 23
+col23-10	Ferry Captain, Series 23
+col23-6	Cardboard Robot, Series 23
+col23-10	Ferry Captain, Series 23
+col23-12	Green Dragon Costume, Series 23
+col23-5	Holiday Elf, Series 23
+col23-11	Knight of the Yellow Castle, Series 23
+col23-1	Nutcracker, Series 23
+col23-7	Popcorn Costume, Series 23
+col23-4	Reindeer Costume, Series 23
+col23-3	Snowman, Series 23
+col23-2	Sugar Fairy, Series 23
+col23-9	Turkey Costume, Series 23
+col23-8	Wolf Costume, Series 23
 
 // 71032-2	Minifigure, Series 22 (Complete Series of 12 Complete Minifigure Sets)
-col22-9	col22 Birdwatcher, Series 22
-col22-2	col22 Chili Costume Fan, Series 22
-col22-6	col22 Figure Skating Champion, Series 22
-col22-8	col22 Forest Elf, Series 22
-col22-5	col22 Horse and Groom, Series 22
-col22-7	col22 Night Protector, Series 22
-col22-10	col22 Raccoon Costume Fan, Series 22
-col22-1	col22 Robot Repair Tech, Series 22
-col22-4	col22 Snow Guardian, Series 22
-col22-11	col22 Space Creature, Series 22
-col22-3	col22 Troubadour, Series 22
-col22-12	col22 Wheelchair Racer, Series 22
+col22-9	Birdwatcher, Series 22
+col22-2	Chili Costume Fan, Series 22
+col22-6	Figure Skating Champion, Series 22
+col22-8	Forest Elf, Series 22
+col22-5	Horse and Groom, Series 22
+col22-7	Night Protector, Series 22
+col22-10	Raccoon Costume Fan, Series 22
+col22-1	Robot Repair Tech, Series 22
+col22-4	Snow Guardian, Series 22
+col22-11	Space Creature, Series 22
+col22-3	Troubadour, Series 22
+col22-12	Wheelchair Racer, Series 22
 
 // 71029-2	Minifigure, Series 21 (Complete Series of 12 Complete Minifigure Sets)
-col21-9	col21 Airplane Girl, Series 21
-col21-11	col21 Alien, Series 21
-col21-8	col21 Ancient Warrior, Series 21
-col21-7	col21 Beekeeper, Series 21
-col21-12	col21 Cabaret Singer, Series 21
-col21-6	col21 Centaur Warrior, Series 21
-col21-4	col21 Ladybug Girl, Series 21
-col21-1	col21 Paddle Surfer, Series 21
-col21-5	col21 Pug Costume Guy, Series 21
-col21-3	col21 Shipwreck Survivor, Series 21
-col21-10	col21 Space Police Guy, Series 21
-col21-2	col21 Violin Kid, Series 21
+col21-9	Airplane Girl, Series 21
+col21-11	Alien, Series 21
+col21-8	Ancient Warrior, Series 21
+col21-7	Beekeeper, Series 21
+col21-12	Cabaret Singer, Series 21
+col21-6	Centaur Warrior, Series 21
+col21-4	Ladybug Girl, Series 21
+col21-1	Paddle Surfer, Series 21
+col21-5	Pug Costume Guy, Series 21
+col21-3	Shipwreck Survivor, Series 21
+col21-10	Space Police Guy, Series 21
+col21-2	Violin Kid, Series 21
 
 // 71025-2	Minifigure, Series 19 (Complete Series of 16 Complete Minifigure Sets)
-col19-15	col19 Bear Costume Guy, Series 19
-col19-9	col19 Dog Sitter, Series 19
-col19-8	col19 Fire Fighter, Series 19
-col19-14	col19 Fox Costume Girl, Series 19
-col19-3	col19 Fright Knight, Series 19
-col19-11	col19 Galactic Bounty Hunter, Series 19
-col19-12	col19 Gardener, Series 19
-col19-7	col19 Jungle Explorer, Series 19
-col19-4	col19 Monkey King, Series 19
-col19-16	col19 Mountain Biker, Series 19
-col19-6	col19 Mummy Queen, Series 19
-col19-10	col19 Pizza Costume Guy, Series 19
-col19-5	col19 Programmer, Series 19
-col19-13	col19 Rugby Player, Series 19
-col19-2	col19 Shower Guy, Series 19
-col19-1	col19 Video Game Champ, Series 19
+col19-15	Bear Costume Guy, Series 19
+col19-9	Dog Sitter, Series 19
+col19-8	Fire Fighter, Series 19
+col19-14	Fox Costume Girl, Series 19
+col19-3	Fright Knight, Series 19
+col19-11	Galactic Bounty Hunter, Series 19
+col19-12	Gardener, Series 19
+col19-7	Jungle Explorer, Series 19
+col19-4	Monkey King, Series 19
+col19-16	Mountain Biker, Series 19
+col19-6	Mummy Queen, Series 19
+col19-10	Pizza Costume Guy, Series 19
+col19-5	Programmer, Series 19
+col19-13	Rugby Player, Series 19
+col19-2	Shower Guy, Series 19
+col19-1	Video Game Champ, Series 19
 
 // 71018-2	Minifigure, Series 17 (Complete Series of 16 Complete Minifigure Sets)
-col17-10	col17 Battle Dwarf, Series 17
-col17-7	col17 Butterfly Girl, Series 17
-col17-2	col17 Circus Strongman, Series 17
-col17-9	col17 Connoisseur, Series 17
-col17-4	col17 Corn Cob Guy, Series 17
-col17-14	col17 Dance Instructor, Series 17
-col17-15	col17 Elf Maiden, Series 17
-col17-3	col17 Gourmet Chef, Series 17
-col17-6	col17 Hot Dog Vendor, Series 17
-col17-1	col17 Pro Surfer, Series 17
-col17-11	col17 Retro Space Hero, Series 17
-col17-13	col17 Rocket Boy, Series 17
-col17-8	col17 Roman Gladiator, Series 17
-col17-16	col17 The Mystery Man (Highwayman), Series 17
-col17-5	col17 Veterinarian, Series 17
-col17-12	col17 Yuppie, Series 17
+col17-10	Battle Dwarf, Series 17
+col17-7	Butterfly Girl, Series 17
+col17-2	Circus Strongman, Series 17
+col17-9	Connoisseur, Series 17
+col17-4	Corn Cob Guy, Series 17
+col17-14	Dance Instructor, Series 17
+col17-15	Elf Maiden, Series 17
+col17-3	Gourmet Chef, Series 17
+col17-6	Hot Dog Vendor, Series 17
+col17-1	Pro Surfer, Series 17
+col17-11	Retro Space Hero, Series 17
+col17-13	Rocket Boy, Series 17
+col17-8	Roman Gladiator, Series 17
+col17-16	The Mystery Man (Highwayman), Series 17
+col17-5	Veterinarian, Series 17
+col17-12	Yuppie, Series 17
 
 // 71012-2	Minifigure, Disney, Series 1 (Complete Series of 18 Complete Minifigure Sets)
-coldis-4	coldis Aladdin, Disney, Series 1
-coldis-7	coldis Alice, Disney, Series 1
-coldis-2	coldis Alien, Disney, Series 1
-coldis-18	coldis Ariel, Disney, Series 1
-coldis-3	coldis Buzz Lightyear, Disney, Series 1
-coldis-16	coldis Captain Hook, Disney, Series 1
-coldis-8	coldis Cheshire Cat, Disney, Series 1
-coldis-9	coldis Daisy Duck, Disney, Series 1
-coldis-10	coldis Donald Duck, Disney, Series 1
-coldis-5	coldis Genie, Disney, Series 1
-coldis-6	coldis Maleficent, Disney, Series 1
-coldis-12	coldis Mickey Mouse, Disney, Series 1
-coldis-11	coldis Minnie Mouse, Disney, Series 1
-coldis-13	coldis Mr. Incredible, Disney, Series 1
-coldis-15	coldis Peter Pan, Disney, Series 1
-coldis-1	coldis Stitch, Disney, Series 1
-coldis-14	coldis Syndrome, Disney, Series 1
-coldis-17	coldis Ursula, Disney, Series 1
+coldis-4	Aladdin, Disney, Series 1
+coldis-7	Alice, Disney, Series 1
+coldis-2	Alien, Disney, Series 1
+coldis-18	Ariel, Disney, Series 1
+coldis-3	Buzz Lightyear, Disney, Series 1
+coldis-16	Captain Hook, Disney, Series 1
+coldis-8	Cheshire Cat, Disney, Series 1
+coldis-9	Daisy Duck, Disney, Series 1
+coldis-10	Donald Duck, Disney, Series 1
+coldis-5	Genie, Disney, Series 1
+coldis-6	Maleficent, Disney, Series 1
+coldis-12	Mickey Mouse, Disney, Series 1
+coldis-11	Minnie Mouse, Disney, Series 1
+coldis-13	Mr. Incredible, Disney, Series 1
+coldis-15	Peter Pan, Disney, Series 1
+coldis-1	Stitch, Disney, Series 1
+coldis-14	Syndrome, Disney, Series 1
+coldis-17	Ursula, Disney, Series 1
 
 // 71024-2	Minifigure, Disney, Series 2 (Complete Series of 18 Complete Minifigure Sets)
-coldis2-10	coldis2 Anna, Disney, Series 2
-coldis2-7	coldis2 Chip, Disney, Series 2
-coldis2-8	coldis2 Dale, Disney, Series 2
-coldis2-4	coldis2 Dewey Duck, Disney, Series 2
-coldis2-17	coldis2 Edna Mode, Disney, Series 2
-coldis2-9	coldis2 Elsa, Disney, Series 2
-coldis2-18	coldis2 Frozone, Disney, Series 2
-coldis2-13	coldis2 Hades, Disney, Series 2
-coldis2-14	coldis2 Hercules, Disney, Series 2
-coldis2-3	coldis2 Huey Duck, Disney, Series 2
-coldis2-16	coldis2 Jack Skellington, Disney, Series 2
-coldis2-11	coldis2 Jafar, Disney, Series 2
-coldis2-12	coldis2 Jasmine, Disney, Series 2
-coldis2-5	coldis2 Louie Duck, Disney, Series 2
-coldis2-15	coldis2 Sally, Disney, Series 2
-coldis2-6	coldis2 Scrooge McDuck, Disney, Series 2
-coldis2-1	coldis2 Vintage Mickey, Disney, Series 2
-coldis2-2	coldis2 Vintage Minnie, Disney, Series 2
+coldis2-10	Anna, Disney, Series 2
+coldis2-7	Chip, Disney, Series 2
+coldis2-8	Dale, Disney, Series 2
+coldis2-4	Dewey Duck, Disney, Series 2
+coldis2-17	Edna Mode, Disney, Series 2
+coldis2-9	Elsa, Disney, Series 2
+coldis2-18	Frozone, Disney, Series 2
+coldis2-13	Hades, Disney, Series 2
+coldis2-14	Hercules, Disney, Series 2
+coldis2-3	Huey Duck, Disney, Series 2
+coldis2-16	Jack Skellington, Disney, Series 2
+coldis2-11	Jafar, Disney, Series 2
+coldis2-12	Jasmine, Disney, Series 2
+coldis2-5	Louie Duck, Disney, Series 2
+coldis2-15	Sally, Disney, Series 2
+coldis2-6	Scrooge McDuck, Disney, Series 2
+coldis2-1	Vintage Mickey, Disney, Series 2
+coldis2-2	Vintage Minnie, Disney, Series 2
 
 // 71033-2	Minifigure, The Muppets (Complete Series of 12 Complete Minifigure Sets)
-coltm-8	coltm Animal, The Muppets
-coltm-3	coltm Beaker, The Muppets
-coltm-2	coltm Dr. Bunsen Honeydew, The Muppets
-coltm-7	coltm Fozzie Bear, The Muppets
-coltm-4	coltm Gonzo, The Muppets
-coltm-12	coltm Janice, The Muppets
-coltm-5	coltm Kermit the Frog, The Muppets
-coltm-6	coltm Miss Piggy, The Muppets
-coltm-1	coltm Rowlf the Dog, The Muppets
-coltm-10	coltm Statler, The Muppets
-coltm-11	coltm Swedish Chef, The Muppets
-coltm-9	coltm Waldorf, The Muppets
+coltm-8	Animal, The Muppets
+coltm-3	Beaker, The Muppets
+coltm-2	Dr. Bunsen Honeydew, The Muppets
+coltm-7	Fozzie Bear, The Muppets
+coltm-4	Gonzo, The Muppets
+coltm-12	Janice, The Muppets
+coltm-5	Kermit the Frog, The Muppets
+coltm-6	Miss Piggy, The Muppets
+coltm-1	Rowlf the Dog, The Muppets
+coltm-10	Statler, The Muppets
+coltm-11	Swedish Chef, The Muppets
+coltm-9	Waldorf, The Muppets
 
 // 71005-2	Minifigure, The Simpsons, Series 1 (Complete Series of 16 Complete Minifigure Sets)
-colsim-16	colsim Mr. Burns, The Simpsons, Series 1
-colsim-11	colsim Apu Nahasapeemapetilon, The Simpsons, Series 1	#MISSING
-colsim-2	colsim Bart Simpson, The Simpsons, Series 1	#MISSING
-colsim-15	colsim Chief Wiggum, The Simpsons, Series 1	#MISSING
-colsim-6	colsim Grampa Simpson, The Simpsons, Series 1	#MISSING
-colsim-1	colsim Homer Simpson, The Simpsons, Series 1	#MISSING
-colsim-13	colsim Itchy, The Simpsons, Series 1	#MISSING
-colsim-8	colsim Krusty the Clown, The Simpsons, Series 1	#MISSING
-colsim-4	colsim Lisa Simpson, The Simpsons, Series 1	#MISSING
-colsim-5	colsim Maggie Simpson, The Simpsons, Series 1	#MISSING
-colsim-3	colsim Marge Simpson, The Simpsons, Series 1	#MISSING
-colsim-9	colsim Milhouse Van Houten, The Simpsons, Series 1	#MISSING
-colsim-16	colsim Mr. Burns, The Simpsons, Series 1	#MISSING
-colsim-7	colsim Ned Flanders, The Simpsons, Series 1	#MISSING
-colsim-12	colsim Nelson Muntz, The Simpsons, Series 1	#MISSING
-colsim-10	colsim Ralph Wiggum, The Simpsons, Series 1	#MISSING
-colsim-14	colsim Scratchy, The Simpsons, Series 1	#MISSING
+colsim-16	Mr. Burns, The Simpsons, Series 1
+colsim-11	Apu Nahasapeemapetilon, The Simpsons, Series 1	#MISSING
+colsim-2	Bart Simpson, The Simpsons, Series 1	#MISSING
+colsim-15	Chief Wiggum, The Simpsons, Series 1	#MISSING
+colsim-6	Grampa Simpson, The Simpsons, Series 1	#MISSING
+colsim-1	Homer Simpson, The Simpsons, Series 1	#MISSING
+colsim-13	Itchy, The Simpsons, Series 1	#MISSING
+colsim-8	Krusty the Clown, The Simpsons, Series 1	#MISSING
+colsim-4	Lisa Simpson, The Simpsons, Series 1	#MISSING
+colsim-5	Maggie Simpson, The Simpsons, Series 1	#MISSING
+colsim-3	Marge Simpson, The Simpsons, Series 1	#MISSING
+colsim-9	Milhouse Van Houten, The Simpsons, Series 1	#MISSING
+colsim-16	Mr. Burns, The Simpsons, Series 1	#MISSING
+colsim-7	Ned Flanders, The Simpsons, Series 1	#MISSING
+colsim-12	Nelson Muntz, The Simpsons, Series 1	#MISSING
+colsim-10	Ralph Wiggum, The Simpsons, Series 1	#MISSING
+colsim-14	Scratchy, The Simpsons, Series 1	#MISSING
 
 // 71009-2	Minifigure, The Simpsons, Series 2 (Complete Series of 16 Complete Minifigure Sets)
-colsim2-5	colsim2 Bartman, The Simpsons, Series 2
-colsim2-7	colsim2 Comic Book Guy, The Simpsons, Series 2
-colsim2-1	colsim2 Date Night Homer, The Simpsons, Series 2
-colsim2-2	colsim2 Date Night Marge, The Simpsons, Series 2
-colsim2-16	colsim2 Dr. Hibbert, The Simpsons, Series 2
-colsim2-14	colsim2 Edna Krabappel, The Simpsons, Series 2
-colsim2-6	colsim2 Fallout Boy Milhouse, The Simpsons, Series 2
-colsim2-13	colsim2 Groundskeeper Willie, The Simpsons, Series 2
-colsim2-10	colsim2 Hans Moleman, The Simpsons, Series 2
-colsim2-3	colsim2 Lisa with Snowball II, The Simpsons, Series 2
-colsim2-4	colsim2 Maggie and Santa's Little Helper, The Simpsons, Series 2
-colsim2-8	colsim2 Martin Prince, The Simpsons, Series 2
-colsim2-12	colsim2 Patty, The Simpsons, Series 2
-colsim2-9	colsim2 Professor Frink, The Simpsons, Series 2
-colsim2-11	colsim2 Selma, The Simpsons, Series 2
-colsim2-15	colsim2 Waylon Smithers, The Simpsons, Series 2
+colsim2-5	Bartman, The Simpsons, Series 2
+colsim2-7	Comic Book Guy, The Simpsons, Series 2
+colsim2-1	Date Night Homer, The Simpsons, Series 2
+colsim2-2	Date Night Marge, The Simpsons, Series 2
+colsim2-16	Dr. Hibbert, The Simpsons, Series 2
+colsim2-14	Edna Krabappel, The Simpsons, Series 2
+colsim2-6	Fallout Boy Milhouse, The Simpsons, Series 2
+colsim2-13	Groundskeeper Willie, The Simpsons, Series 2
+colsim2-10	Hans Moleman, The Simpsons, Series 2
+colsim2-3	Lisa with Snowball II, The Simpsons, Series 2
+colsim2-4	Maggie and Santa's Little Helper, The Simpsons, Series 2
+colsim2-8	Martin Prince, The Simpsons, Series 2
+colsim2-12	Patty, The Simpsons, Series 2
+colsim2-9	Professor Frink, The Simpsons, Series 2
+colsim2-11	Selma, The Simpsons, Series 2
+colsim2-15	Waylon Smithers, The Simpsons, Series 2
 
 // 71022-2	Minifigure, Harry Potter, Series 1 (Complete Series of 22 Complete Minifigure Sets)
-colhp-9	colhp Lord Voldemort, Harry Potter, Series 1
-colhp-16	colhp Albus Dumbledore, Harry Potter, Series 1	#MISSING
-colhp-12	colhp Cedric Diggory, Harry Potter, Series 1	#MISSING
-colhp-7	colhp Cho Chang, Harry Potter, Series 1	#MISSING
-colhp-21	colhp Credence Barebone, Harry Potter, Series 1	#MISSING
-colhp-8	colhp Dean Thomas, Harry Potter, Series 1	#MISSING
-colhp-10	colhp Dobby, Harry Potter, Series 1	#MISSING
-colhp-4	colhp Draco Malfoy, Harry Potter, Series 1	#MISSING
-colhp-15	colhp Harry Potter in Pajamas, Harry Potter, Series 1	#MISSING
-colhp-1	colhp Harry Potter in School Robes, Harry Potter, Series 1	#MISSING
-colhp-2	colhp Hermione Granger in School Robes, Harry Potter, Series 1	#MISSING
-colhp-19	colhp Jacob Kowalski, Harry Potter, Series 1	#MISSING
-colhp-9	colhp Lord Voldemort, Harry Potter, Series 1	#MISSING
-colhp-5	colhp Luna Lovegood, Harry Potter, Series 1	#MISSING
-colhp-14	colhp Mad-Eye Moody, Harry Potter, Series 1	#MISSING
-colhp-6	colhp Neville Longbottom, Harry Potter, Series 1	#MISSING
-colhp-17	colhp Newt Scamander, Harry Potter, Series 1	#MISSING
-colhp-22	colhp Percival Graves, Harry Potter, Series 1	#MISSING
-colhp-13	colhp Professor Flitwick, Harry Potter, Series 1	#MISSING
-colhp-11	colhp Professor Trelawney, Harry Potter, Series 1	#MISSING
-colhp-20	colhp Queenie Goldstein, Harry Potter, Series 1	#MISSING
-colhp-3	colhp Ron Weasley in School Robes, Harry Potter, Series 1	#MISSING
-colhp-18	colhp Tina Goldstein, Harry Potter, Series 1	#MISSING
+colhp-9	Lord Voldemort, Harry Potter, Series 1
+colhp-16	Albus Dumbledore, Harry Potter, Series 1	#MISSING
+colhp-12	Cedric Diggory, Harry Potter, Series 1	#MISSING
+colhp-7	Cho Chang, Harry Potter, Series 1	#MISSING
+colhp-21	Credence Barebone, Harry Potter, Series 1	#MISSING
+colhp-8	Dean Thomas, Harry Potter, Series 1	#MISSING
+colhp-10	Dobby, Harry Potter, Series 1	#MISSING
+colhp-4	Draco Malfoy, Harry Potter, Series 1	#MISSING
+colhp-15	Harry Potter in Pajamas, Harry Potter, Series 1	#MISSING
+colhp-1	Harry Potter in School Robes, Harry Potter, Series 1	#MISSING
+colhp-2	Hermione Granger in School Robes, Harry Potter, Series 1	#MISSING
+colhp-19	Jacob Kowalski, Harry Potter, Series 1	#MISSING
+colhp-9	Lord Voldemort, Harry Potter, Series 1	#MISSING
+colhp-5	Luna Lovegood, Harry Potter, Series 1	#MISSING
+colhp-14	Mad-Eye Moody, Harry Potter, Series 1	#MISSING
+colhp-6	Neville Longbottom, Harry Potter, Series 1	#MISSING
+colhp-17	Newt Scamander, Harry Potter, Series 1	#MISSING
+colhp-22	Percival Graves, Harry Potter, Series 1	#MISSING
+colhp-13	Professor Flitwick, Harry Potter, Series 1	#MISSING
+colhp-11	Professor Trelawney, Harry Potter, Series 1	#MISSING
+colhp-20	Queenie Goldstein, Harry Potter, Series 1	#MISSING
+colhp-3	Ron Weasley in School Robes, Harry Potter, Series 1	#MISSING
+colhp-18	Tina Goldstein, Harry Potter, Series 1	#MISSING
 
 // 71028-2	Minifigure, Harry Potter, Series 2 (Complete Series of 16 Complete Minifigure Sets)
-colhp2-8	colhp2 James Potter, Harry Potter, Series 2
-colhp2-11	colhp2 George Weasley, Harry Potter, Series 2
-colhp2-12	colhp2 Bellatrix Lestrange, Harry Potter, Series 2	#MISSING
-colhp2-10	colhp2 Fred Weasley, Harry Potter, Series 2	#MISSING
-colhp2-11	colhp2 George Weasley, Harry Potter, Series 2	#MISSING
-colhp2-9	colhp2 Ginny Weasley, Harry Potter, Series 2	#MISSING
-colhp2-6	colhp2 Griphook, Harry Potter, Series 2	#MISSING
-colhp2-1	colhp2 Harry Potter, Harry Potter, Series 2	#MISSING
-colhp2-2	colhp2 Headmaster Albus Dumbledore, Harry Potter, Series 2	#MISSING
-colhp2-3	colhp2 Hermione Granger, Harry Potter, Series 2	#MISSING
-colhp2-8	colhp2 James Potter, Harry Potter, Series 2	#MISSING
-colhp2-13	colhp2 Kingsley Shacklebolt, Harry Potter, Series 2	#MISSING
-colhp2-7	colhp2 Lily Potter, Harry Potter, Series 2	#MISSING
-colhp2-5	colhp2 Luna Lovegood, Harry Potter, Series 2	#MISSING
-colhp2-14	colhp2 Moaning Myrtle, Harry Potter, Series 2	#MISSING
-colhp2-16	colhp2 Neville Longbottom, Harry Potter, Series 2	#MISSING
-colhp2-15	colhp2 Professor Sprout, Harry Potter, Series 2	#MISSING
-colhp2-4	colhp2 Ron Weasley, Harry Potter, Series 2	#MISSING
+colhp2-8	James Potter, Harry Potter, Series 2
+colhp2-11	George Weasley, Harry Potter, Series 2
+colhp2-12	Bellatrix Lestrange, Harry Potter, Series 2	#MISSING
+colhp2-10	Fred Weasley, Harry Potter, Series 2	#MISSING
+colhp2-11	George Weasley, Harry Potter, Series 2	#MISSING
+colhp2-9	Ginny Weasley, Harry Potter, Series 2	#MISSING
+colhp2-6	Griphook, Harry Potter, Series 2	#MISSING
+colhp2-1	Harry Potter, Harry Potter, Series 2	#MISSING
+colhp2-2	Headmaster Albus Dumbledore, Harry Potter, Series 2	#MISSING
+colhp2-3	Hermione Granger, Harry Potter, Series 2	#MISSING
+colhp2-8	James Potter, Harry Potter, Series 2	#MISSING
+colhp2-13	Kingsley Shacklebolt, Harry Potter, Series 2	#MISSING
+colhp2-7	Lily Potter, Harry Potter, Series 2	#MISSING
+colhp2-5	Luna Lovegood, Harry Potter, Series 2	#MISSING
+colhp2-14	Moaning Myrtle, Harry Potter, Series 2	#MISSING
+colhp2-16	Neville Longbottom, Harry Potter, Series 2	#MISSING
+colhp2-15	Professor Sprout, Harry Potter, Series 2	#MISSING
+colhp2-4	Ron Weasley, Harry Potter, Series 2	#MISSING
 
 // 5004936-1	Iconic Cave
 col302	Cave Man - Iconic Cave
