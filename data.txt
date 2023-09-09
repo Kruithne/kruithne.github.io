@@ -287,6 +287,8 @@ firec003	Fire - Classic, White Helmet, Trans-Light Blue Visor	#MISSING
 // 5911-1	Johnny Thunder's Plane (2000)
 adv010	Johnny Thunder (Desert)
 
+// 5948-1	COMPLETE
+
 # PHARAOH'S QUEST
 
 // 30090-1	Desert Glider polybag (2011)
@@ -301,6 +303,9 @@ cty1398	Clemmons - Stuntz Driver, Bright Light Orange Chicken Head Helmet, White
 cty1476	Sudsy Simon Tub Racer - Stuntz Driver
 
 # CITY
+
+
+// 60376-1	COMPLETE
 
 // 30588-1	Kids' Playground polybag
 cty1333	Child - Girl, White Halter Top with Green Apples and Lime Spots, Medium Blue Short Legs, Dark Brown Hair with Buns, Freckles, Reddish Brown Backpack
