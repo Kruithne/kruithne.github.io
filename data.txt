@@ -611,6 +611,8 @@ sh802	Doctor Strange - Plastic Cape, Brooch
 // 242316-1	Black Panther with Jet paper bag (2023)
 sh807	Black Panther - Claw Necklace, Pearl Dark Gray Highlights
 
+// 76253-1	COMPLETE
+
 # STAR WARS
 
 // 75322-1	Hoth AT-ST (2022)
