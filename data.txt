@@ -366,6 +366,18 @@ cty1287	Firefighter Bob without Air Tanks
 // 952209-1	Firefighter Woman with Jet foil pack (2022)
 cty1502	Fire - Reflective Stripes, Bright Light Orange Suit, White Helmet, Breathing Apparatus, Sunglasses
 
+// 952303-1	COMPLETE
+
+// 952305-1	COMPLETE
+
+// 952302-1	COMPLETE
+
+// 952304-1	COMPLETE
+
+// 952307-1	COMPLETE
+
+// 952306-1	COMPLETE
+
 // 60268-1	Advent Calendar 2020, City (2020)
 60268-3	Advent Calendar 2020, City (Day  2) - Duke Detain
 60268-20	Advent Calendar 2020, City (Day 19) - Rooky Partnur
@@ -472,6 +484,14 @@ jw004	ACU Trooper - Male, Black Aviator Cap with Trans-Brown Visor, Light Nougat
 // 76940-1	T. rex Dinosaur Fossil Exhibition (2021)
 jw075	Darius
 
+// 122328-1	COMPLETE
+
+// 122223-1	COMPLETE
+
+// 122331-1	COMPLETE
+
+// 30390-1	COMPLETE
+
 # MARVEL
 
 // 40525-1	Endgame Battle blister pack (2022)
@@ -492,6 +512,12 @@ sh683	Carnage - Medium Appendages
 
 // 682303-1	Miles Morales with Skateboard paper bag (2023)
 sh679	Spider-Man (Miles Morales) - Dark Red Hood
+
+// 242318-1	COMPLETE
+
+// 242317-1	COMPLETE
+
+// 242316-1	COMPLETE
 
 # STAR WARS
 
@@ -546,6 +572,14 @@ sw0778	Luke Skywalker (Tatooine, White Legs, Stern / Smile Face Print)
 
 // 912291-1	Luke Skywalker paper bag (2022)
 sw1143	Luke Skywalker (Hoth, Balaclava Head)
+
+// 912305-1	COMPLETE
+
+// 912302-1	COMPLETE
+
+// 912303-1	COMPLETE
+
+// 912307-1	COMPLETE
 
 // 8092-1	Luke's Landspeeder (2010)
 sw0161a	C-3PO - Pearl Gold with Pearl Gold Hands
@@ -602,11 +636,27 @@ sh849	Batman - Light Bluish Gray Scuba Mask
 // 212221-1	Robin foil pack #3 (2022)
 sh822	Robin - Neck Bracket
 
+// 682305-1	COMPLETE
+
+// 682304-1	COMPLETE
+
+// 212326-1	COMPLETE
+
+// 212327-1	COMPLETE
+
 # MINECRAFT
 
 // 21165-1	The Bee Farm (2020)
 min091	Beekeeper
 min092	Villager - Dark Tan Pouch
+
+// 662305-1	COMPLETE
+
+// 662303-1	COMPLETE
+
+// 662309-1	COMPLETE
+
+// 662302-1	COMPLETE
 
 # HARRY POTTER
 
@@ -645,6 +695,31 @@ njo796	Lloyd (Golden Oni) - Hair
 
 // 892302-1	Golden Dragon Jay paper bag (2023)
 njo755	Jay (Golden Dragon)
+
+// 892304-1	COMPLETE
+
+// 892291-1	COMPLETE
+
+// 112322-1	COMPLETE
+
+// 892308-1	Kai paper bag (2023)
+njo811	Kai - Dragons Rising	missing 68504 (ordered)
+
+// 892305-1	COMPLETE
+
+// 892309-1	COMPLETE
+
+// 112324-1	COMPLETE
+
+// 892303-1	COMPLETE
+
+// 892306-1	COMPLETE
+
+// 112323-1	COMPLETE
+
+// 112109-1	COMPLETE
+
+// 112325-1	COMPLETE
 
 # OTHER
 
