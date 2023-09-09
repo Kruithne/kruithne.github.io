@@ -776,6 +776,12 @@ min146	Knight - Flat Silver Armor
 min132	Cave Explorer
 min012	Creeper
 
+# INDIANA JONES
+
+// 77013-1	COMPLETE
+
+// 77012-1	COMPLETE
+
 # HARRY POTTER
 
 // b22hp04uk	Harry Potter - Official Yearbook 2023 (English - UK Edition)
