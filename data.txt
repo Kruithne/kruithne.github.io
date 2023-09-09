@@ -1,5 +1,7 @@
 # MINIFIGURE SERIES
 
+// 8805-2
+
 // 71037-2	Minifigure, Series 24 (Complete Series of 12 Complete Minifigure Sets) (2023)
 col24-3	Brown Astronaut and Spacebaby, Series 24
 col24-4	Carrot Mascot, Series 24
