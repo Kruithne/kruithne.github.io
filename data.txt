@@ -246,7 +246,25 @@ colhp2-16	Neville Longbottom, Harry Potter, Series 2	#MISSING
 colhp2-15	Professor Sprout, Harry Potter, Series 2	#MISSING
 colhp2-4	Ron Weasley, Harry Potter, Series 2	#MISSING
 
-// 71038-2	COMPLETE
+// 71038-2	Minifigure, Disney 100 (Complete Series of 18 Complete Minifigure Sets) (2023)
+coldis100-8	Aurora, Disney 100
+coldis100-17	Baymax, Disney 100
+coldis100-13	Cruella de Vil & Dalmatian Puppy, Disney 100
+coldis100-6	Dr. Facilier, Disney 100
+coldis100-10	Ernesto de la Cruz, Disney 100
+coldis100-3	Jiminy Cricket, Disney 100
+coldis100-11	Miguel & Dante, Disney 100
+coldis100-9	Mulan, Disney 100
+coldis100-1	Oswald the Lucky Rabbit, Disney 100
+coldis100-2	Pinocchio, Disney 100
+coldis100-12	Pocahontas, Disney 100
+coldis100-15	Prince John, Disney 100
+coldis100-7	Queen of Hearts, Disney 100
+coldis100-14	Robin Hood, Disney 100
+coldis100-4	Sorcerer's Apprentice Mickey, Disney 100
+coldis100-16	Stitch 626, Disney 100
+coldis100-18	The Queen, Disney 100
+coldis100-5	Tiana, Disney 100
 
 // 5004936-1	Iconic Cave
 col302	Cave Man - Iconic Cave
@@ -254,33 +272,41 @@ col303	Cave Woman - Iconic Cave
 
 # SPACE: CLASSIC
 
-// 9780241409695	COMPLETE
+// 9780241409695
 
-// 6701-1	COMPLETE
+// 6701-1	Minifigure Pack (1983)
+sp005	Classic Space - Red with Air Tanks
+sp006	Classic Space - White with Air Tanks
+sp007	Classic Space - Yellow with Air Tanks
 
 # SPACE: ALIEN CONQUEST
 
-// 7050-1	COMPLETE
+// 7050-1	Alien Defender (2011)
+ac001	Alien Defense Unit Soldier 1 - Dark Bluish Gray Hips
+ac002	Alien Pilot
 
 # CLASSIC TOWN
 
-// 6389-1
-firec002
-firec001
+// 6389-1	Fire Control Center (1990)
+firec002	Fire - Classic, Black Male Hair
+firec001	Fire - Classic, White Fire Helmet
+firec002	Fire - Classic, Black Male Hair	#MISSING
+firec001	Fire - Classic, White Fire Helmet	#MISSING
+firec003	Fire - Classic, White Helmet, Trans-Light Blue Visor	#MISSING
 
 # ADVENTURES
 
-// 5911-1	COMPLETE
+// 5911-1	Johnny Thunder's Plane (2000)
 
 # PHARAOH'S QUEST
 
-// 30090-1	COMPLETE
+// 30090-1	Desert Glider polybag (2011)
 
 # STUNTZ
 
-// 60310-1	COMPLETE
+// 60310-1	Chicken Stunt Bike (2021)
 
-// 60333-1	COMPLETE
+// 60333-1	Bathtub Stunt Bike (2022)
 
 # CITY
 
@@ -288,9 +314,15 @@ firec001
 cty1333	Child - Girl, White Halter Top with Green Apples and Lime Spots, Medium Blue Short Legs, Dark Brown Hair with Buns, Freckles, Reddish Brown Backpack
 cty1332	Skateboarder - Boy, Banana Shirt, Dark Azure Helmet, Backpack, Medium Blue Short Legs
 
-// 60283-1	COMPLETE
+// 60283-1	Holiday Camper Van (2021)
+cty1186	Baby - Dark Turquoise Body with Yellow Hands
+cty1261	Camper Van Owner - Male, Dark Tan Vest over Dark Azure Shirt, Dark Blue Legs, Reddish Brown Spiked Hair, Stubble
+cty1262	Holiday Camper Van Mother, Baby Carrier
 
-// 60314-1	COMPLETE
+// 60314-1	Ice Cream Truck Police Chase (2022)
+cty1384	Police - City Officer Female, Bright Light Blue Shirt with Badge and Radio, Dark Blue Legs, Medium Nougat Hair
+cty1385	Police - Crook Cream
+cty1383	Police - Crook Ice, Hair
 
 // 60347-1	Grocery Store
 cty1483	Forklift Driver - Female, Neon Yellow Safety Vest, Dark Blue Legs, White Cap with Bright Light Yellow Hair
@@ -299,18 +331,31 @@ cty1482	Grocery Store Customer - Male, Bright Light Yellow Shirt, Medium Nougat 
 cty1480	Mr. Produce
 cty1479	Peapod Costume Girl - Green Jacket
 
-// 60344-1	COMPLETE
+// 60344-1	Chicken Henhouse (2022)
 
-// 60287-1	COMPLETE
+// 60287-1	Tractor (2021)
+cty1226	Child - Girl, Blue Overalls over V-Neck Shirt, Blue Short Legs, Dark Orange Hair with Pigtails, Glasses, Freckles
+cty1227	Farmer - Overalls Green, Red Plaid Shirt, Reddish Brown Hair Swept Back Tousled
 
-// 60253-1	COMPLETE
+// 60253-1	Ice-cream Truck (2020)
+cty1139	Ice Cream Vendor - Female, Red Legs, Bright Light Yellow Hair
+cty1138	Skateboarder - Male, Lime Hoodie, Blue Legs, Dark Azure Helmet
 
-// 60315-1	COMPLETE
+// 60315-1	Police Mobile Command Truck (2022)
+cty1367	Police - Crook Snake Rattler, Green Overalls
+cty1368	Police - Jail Prisoner 50382 Prison Stripes, Female, Dark Tan Legs, Smirk with Peach Lips, and Bright Light Yellow Ponytail
+cty1365	Police - Officer Gracie Goodhart, Dark Blue Vest, Black Pants, Orange Goggles, and Dark Brown Hair with Bun
+cty1042	Police Officer - Male, Dark Blue Shirt with Harness, Black Legs, Black Coiled Hair, Sunglasses (Duke DeTain)
 
-// 60322-1	COMPLETE
+// 60322-1	Race Car (2022)
+cty1400	Race Car Driver - Male, White Racing Jacket and Helmet, Lime Legs
+cty1401	Race Car Mechanic - Female, White Racing Jacket and Legs, Dark Blue Cap with Dark Orange Hair
 
-// 60207-1
-cty0989
+// 60207-1	Sky Police Drone Chase (2019)
+cty0989	Statue - Pearl Gold with Metallic Gold Fire Helmet
+cty0988	Sky Police - Jail Prisoner 86753 Prison Stripes, Scowl with Open Mouth and Headset, Dark Red Knit Cap	#MISSING
+cty0980	Sky Police - Jet Pilot with Oxygen Mask	#MISSING
+cty0989	Statue - Pearl Gold with Metallic Gold Fire Helmet	#MISSING
 
 // 7279-1	Police Minifigure Collection
 cty0201	Police - Jail Prisoner Jacket over Prison Stripes, Dark Bluish Gray Legs, Dark Bluish Gray Knit Cap, Gold Tooth, Backpack	Missing part 92590
@@ -318,162 +363,326 @@ cty0027a	Police - City Leather Jacket with Gold Badge and 'POLICE' on Back, Whit
 cty0199	Police - City Suit with Blue Tie and Badge, Black Legs, White Short Bill Cap, Crooked Smile
 cty0200	Police - Jail Prisoner 50380 Prison Stripes, Dark Bluish Gray Legs, Black Knit Cap, Smirk and Stubble Beard
 
-// 7279-1
+// 7279-1	Police Minifigure Collection (2011)
 cty0201	Police - Jail Prisoner Jacket over Prison Stripes, Dark Bluish Gray Legs, Dark Bluish Gray Knit Cap, Gold Tooth, Backpack	Missing part 92590
 
-// 4203-1	COMPLETE
+// 4203-1	Excavator Transport (2012)
+cty0334	Flannel Shirt with Pocket and Belt, Dark Tan Legs, Mining Helmet, Safety Goggles
+cty0333	Miner - Shirt with Harness and Wrench, Sand Blue Legs, Red Short Bill Cap
 
-// 30570-1	COMPLETE
+// 30570-1	Wildlife Rescue Hovercraft polybag (2021)
 
-// 952211-1	COMPLETE
+// 952211-1	Policewoman with Bike and Crook foil pack (2022)
+cty1511	Police - City Bandit Crook, Black Leather Jacket, Dark Bluish Gray Knit Cap, Dark Tan Legs, Sweat Drops
+cty1510	Police - City Officer Female Bright Light Blue Shirt with Silver Stripe, Badge, and Radio, Dark Blue Legs, Dark Blue Dirt Bike Helmet, Splotches
 
-// 952204-1	COMPLETE
+// 952204-1	Worker with Tipper Truck foil pack (2022)
 
-// 952210-1	COMPLETE
+// 952210-1	Worker with Road Roller foil pack (2022)
 
-// 952104-1	COMPLETE
+// 952104-1	Bob's Fire Stand foil pack (2021)
 
-// 952209-1	COMPLETE
+// 952209-1	Firefighter Woman with Jet foil pack (2022)
 
-// 60268-1
-60268-3
-60268-20
+// 60268-1	Advent Calendar 2020, City (2020)
+60268-3	Advent Calendar 2020, City (Day  2) - Duke Detain
+60268-20	Advent Calendar 2020, City (Day 19) - Rooky Partnur
+60268-2	Advent Calendar 2020, City (Day  1) - Container Ship	#MISSING
+60268-3	Advent Calendar 2020, City (Day  2) - Duke Detain	#MISSING
+60268-4	Advent Calendar 2020, City (Day  3) - Police Station	#MISSING
+60268-5	Advent Calendar 2020, City (Day  4) - Truck	#MISSING
+60268-6	Advent Calendar 2020, City (Day  5) - Harl Hubbs	#MISSING
+60268-8	Advent Calendar 2020, City (Day  7) - Helicopter	#MISSING
+60268-9	Advent Calendar 2020, City (Day  8) - Christmas Tree	#MISSING
+60268-10	Advent Calendar 2020, City (Day  9) - Christmas Presents	#MISSING
+60268-11	Advent Calendar 2020, City (Day 10) - Freya McCloud	#MISSING
+60268-12	Advent Calendar 2020, City (Day 11) - Fire Truck	#MISSING
+60268-13	Advent Calendar 2020, City (Day 12) - Holiday Train	#MISSING
+60268-14	Advent Calendar 2020, City (Day 13) - Bank	#MISSING
+60268-15	Advent Calendar 2020, City (Day 14) - Monster Truck	#MISSING
+60268-16	Advent Calendar 2020, City (Day 15) - Police Truck	#MISSING
+60268-17	Advent Calendar 2020, City (Day 16) - Daisy Kaboom	#MISSING
+60268-18	Advent Calendar 2020, City (Day 17) - Airplane	#MISSING
+60268-19	Advent Calendar 2020, City (Day 18) - Race Car	#MISSING
+60268-20	Advent Calendar 2020, City (Day 19) - Rooky Partnur	#MISSING
+60268-21	Advent Calendar 2020, City (Day 20) - Heavy Hauler Cab	#MISSING
+60268-22	Advent Calendar 2020, City (Day 21) - Heavy Hauler Trailer	#MISSING
+60268-23	Advent Calendar 2020, City (Day 22) - Speed Boat	#MISSING
+60268-24	Advent Calendar 2020, City (Day 23) - Reindeer and Sled	#MISSING
+60268-25	Advent Calendar 2020, City (Day 24) - Wheeler (Santa)	#MISSING
+60268-7	Advent Calendar 2020, City (Day 6) - Gas Station	#MISSING
 
-// 60352-1	COMPLETE
+// 60352-1	Advent Calendar 2022, City (2022)
+60352-2	Advent Calendar 2022, City (Day  1) - Toy Airplane
+60352-3	Advent Calendar 2022, City (Day  2) - Billy with Letter
+60352-4	Advent Calendar 2022, City (Day  3) - Mailbox
+60352-5	Advent Calendar 2022, City (Day  4) - Piano and Cat
+60352-6	Advent Calendar 2022, City (Day  5) - Toy Train
+60352-7	Advent Calendar 2022, City (Day  6) - Tippy with Cookie
+60352-8	Advent Calendar 2022, City (Day  7) - Cookie Stand
+60352-9	Advent Calendar 2022, City (Day  8) - Cake Stand
+60352-10	Advent Calendar 2022, City (Day  9) - Birdhouse
+60352-11	Advent Calendar 2022, City (Day 10) - Raze with Broom
+60352-12	Advent Calendar 2022, City (Day 11) - Santa's Cart
+60352-13	Advent Calendar 2022, City (Day 12) - Ice Skates and Snowman
+60352-14	Advent Calendar 2022, City (Day 13) - Festive Nest with Chicken and Egg
+60352-15	Advent Calendar 2022, City (Day 14) - Maddy with Lantern
+60352-16	Advent Calendar 2022, City (Day 15) - Scarecrow
+60352-17	Advent Calendar 2022, City (Day 16) - Checkerboard
+60352-18	Advent Calendar 2022, City (Day 17) - Christmas Tree
+60352-19	Advent Calendar 2022, City (Day 18) - Rocking Horse and Toy Rocket
+60352-20	Advent Calendar 2022, City (Day 19) - Mr. Produce with Apple
+60352-21	Advent Calendar 2022, City (Day 20) - Campfire and Marshmallows
+60352-22	Advent Calendar 2022, City (Day 21) - Lampost
+60352-23	Advent Calendar 2022, City (Day 22) - Horse Foal and Present
+60352-24	Advent Calendar 2022, City (Day 23) - Sleigh
+60352-25	Advent Calendar 2022, City (Day 24) - Santa with Carrot
 
-// 31012-1
-twn186
+// 31012-1	Family House (2013)
+twn186	Dark Blue Jacket, Light Blue Shirt, Dark Tan Legs, Black Male Hair
+twn186	Dark Blue Jacket, Light Blue Shirt, Dark Tan Legs, Black Male Hair	#MISSING
+twn185	Orange Halter Top with Medium Blue Trim and Flowers Pattern, Dark Blue Legs, Reddish Brown Ponytail and Swept Sideways Fringe	#MISSING
 
 # HOLIDAY / EVENT / PROMO
 
-// 5005233-1	COMPLETE
+// 5005233-1	{Royal Guard polybag} (2018)
 
-// 40308-1	COMPLETE
+// 40308-1	Lester polybag (2017)
 
-// 5004421-1	COMPLETE
+// 5004421-1	Minifigure Collection, Musicians (TRU Exclusive) (2016)
+col265	Musician - Female, Blouse with Gold Sash and Flowers, Lavender Skirt, Bright Light Yellow Hair
+col268	Musician - Female, White Top with Rainbow Stars, Red Legs, Dark Azure Ponytail and Swept Sideways Fringe, Blue Lips
+col266	Musician - Male, Vest with Fringe over Lime Top with Pink and Blue Swirl, Black Bushy Hair
+col267	Musician - Male, White Vest with Dark Purple Open Shirt, Dark Purple Pants with Silver Trim
 
-// 40565-1	COMPLETE
+// 40565-1	Santa's Workshop (2022)
+hol295	Elf - Green Scalloped Collar with Bells, Closed Mouth with Freckles
+hol246	Santa, Red Legs, Black Boots Fur Lined Jacket with Button and Candy Cane on Back, Gray Bushy Eyebrows
 
 # CREATOR
 
-// 10278-1	COMPLETE
+// 10278-1	Police Station (2021)
+twn403	Donut / Doughnut Shop Clerk
+twn402	Newsstand Operator
+twn406	Police Officer, Female
+twn404	Police Officer, Moustache (1940s Era)
+twn405	Police Officer, Smirk (1940s Era)
 
-// 10270-1	COMPLETE
+// 10270-1	Bookshop (2020)
+twn383	Child - Boy, Flannel Vest over Shirt with Banana, Dark Green Short Legs, Dark Azure Beanie, Freckles, Lime Scarf
+twn385	Female, Bushy Black Hair, Medium Lavender Jacket on Lavender Shirt, Medium Blue Legs
+twn384	Female, Short Reddish Brown Hair, Medium Nougat Glasses and Shirt, Dark Blue Legs
+twn386	Male, Medium Nougat Hair, Red Shirt, Tan Tie, Dark Blue Suspenders, Dark Orange Legs
+twn387	Male, Red Flannel Shirt, Light Bluish Gray Legs, Light Bluish Gray Hair, Dark Bluish Gray Beard
 
 # JURASSIC PARK / WORLD
 
-// 75926-1	COMPLETE
+// 75926-1	Pteranodon Chase (2018)
+jw042	ACU Tracker - Female, Black Aviator Cap with Trans-Brown Visor, Light Nougat Head
+jw023	Owen Grady
 
-// 122116-1	COMPLETE
+// 122116-1	Sinjin Prescott with Buggy foil pack (2021)
 
-// 75915-1
-jw003
+// 75915-1	Pteranodon Capture (2015)
+jw003	Simon Masrani - Sand Blue Jumper
+jw004	ACU Trooper - Male, Black Aviator Cap with Trans-Brown Visor, Light Nougat Head, Sand Blue Body Armor Vest	#MISSING
+jw003	Simon Masrani - Sand Blue Jumper	#MISSING
 
-// 76940-1	COMPLETE
+// 76940-1	T. rex Dinosaur Fossil Exhibition (2021)
+jw075	Darius
 
 # MARVEL
 
-// 40525-1	COMPLETE
+// 40525-1	Endgame Battle blister pack (2022)
+sh730	Chitauri - Dark Bluish Gray
+sh810	Korg - Shoulder Armor Pad
+sh808	Miek - Mech Body
+sh734	Thor - Long Dark Tan Hair
+sh748	Valkyrie - Pearl Dark Gray Suit
 
-// 242215-1	COMPLETE
+// 242215-1	Thanos paper bag (2022)
 
-// 242212-1	COMPLETE
+// 242212-1	Captain America foil pack #2 (2022)
 
-// 242216-1	COMPLETE
+// 242216-1	Carnage paper bag (2022)
 
-// 682303-1	COMPLETE
+// 682303-1	Miles Morales with Skateboard paper bag (2023)
 
 # STAR WARS
 
-// 75322-1	COMPLETE
+// 75322-1	Hoth AT-ST (2022)
+sw1184	Chewbacca - Snow
+sw1185	Hoth Rebel Trooper Dark Tan Uniform and Helmet, White Legs and Backpack, Female
+sw1183	Imperial AT-ST Driver, Hoth - Helmet with Molded Goggles, White Jacket
+sw1190	Imperial Probe Droid
 
-// 75267-1
-sw1078
+// 75267-1	Mandalorian Battle Pack (2020)
+sw1078	Mandalorian Tribe Warrior - Female, Dark Brown Cape, Green Helmet with Antenna / Rangefinder
+sw1077	Mandalorian Tribe Warrior - Female, Black Cape, Light Bluish Gray Helmet with Antenna / Rangefinder	#MISSING
+sw1078	Mandalorian Tribe Warrior - Female, Dark Brown Cape, Green Helmet with Antenna / Rangefinder	#MISSING
+sw1079	Mandalorian Tribe Warrior - Male, Dark Brown Cape, Dark Orange Helmet	#MISSING
+sw1080	Mandalorian Tribe Warrior - Male, Olive Green Cape, Dark Azure Helmet	#MISSING
 
-// 75245-1
+// 75245-1	Advent Calendar 2019, Star Wars (2019)
 75245-8	Advent Calendar 2019, Star Wars (Day  7) - Chewbacca	Missing fire
+75245-2	Advent Calendar 2019, Star Wars (Day  1) - First Order Star Destroyer	#MISSING
+75245-3	Advent Calendar 2019, Star Wars (Day  2) - Kylo Ren's Command Shuttle	#MISSING
+75245-4	Advent Calendar 2019, Star Wars (Day  3) - First Order Stormtrooper	#MISSING
+75245-5	Advent Calendar 2019, Star Wars (Day  4) - Blaster Cannon	#MISSING
+75245-6	Advent Calendar 2019, Star Wars (Day  5) - Poe's X-Wing Fighter	#MISSING
+75245-7	Advent Calendar 2019, Star Wars (Day  6) - Resistance Troop Transport	#MISSING
+75245-9	Advent Calendar 2019, Star Wars (Day  8) - Ahch-To Island	#MISSING
+75245-10	Advent Calendar 2019, Star Wars (Day  9) - Luke Skywalker	#MISSING
+75245-11	Advent Calendar 2019, Star Wars (Day 10) - Jakku Quadjumper	#MISSING
+75245-12	Advent Calendar 2019, Star Wars (Day 11) - Death Star Gun Turret	#MISSING
+75245-13	Advent Calendar 2019, Star Wars (Day 12) - Imperial Gunner	#MISSING
+75245-14	Advent Calendar 2019, Star Wars (Day 13) - Mouse Droid (MSE-6-series Repair Droid)	#MISSING
+75245-15	Advent Calendar 2019, Star Wars (Day 14) - Corporate Alliance Tank Droid	#MISSING
+75245-16	Advent Calendar 2019, Star Wars (Day 15) - Battle Droid	#MISSING
+75245-17	Advent Calendar 2019, Star Wars (Day 16) - Trade Federation MTT	#MISSING
+75245-18	Advent Calendar 2019, Star Wars (Day 17) - Escape Pod	#MISSING
+75245-19	Advent Calendar 2019, Star Wars (Day 18) - Rebel Fleet Trooper	#MISSING
+75245-20	Advent Calendar 2019, Star Wars (Day 19) - Mynock	#MISSING
+75245-21	Advent Calendar 2019, Star Wars (Day 20) - Ion Cannon	#MISSING
+75245-22	Advent Calendar 2019, Star Wars (Day 21) - Twin-Pod Cloud Car	#MISSING
+75245-23	Advent Calendar 2019, Star Wars (Day 22) - Cloud Car Pilot	#MISSING
+75245-24	Advent Calendar 2019, Star Wars (Day 23) - Festive Gonk Droid (GNK Power Droid)	#MISSING
+75245-25	Advent Calendar 2019, Star Wars (Day 24) - Santa Porg	#MISSING
 
-// 75034-1
+// 75034-1	Death Star Troopers (2014)
 sw0521	Royal Guard with Dark Red Arms and Hands	Only one, missing the other
+sw0529	Imperial Gunner (Closed Mouth, Silver Imperial Logo)	#MISSING
+sw0520	Imperial Gunner (Open Mouth, Silver Imperial Logo)	#MISSING
 
-// 912289-1	COMPLETE
+// 912289-1	Princess Leia foil pack (2022)
 
-// 911943-1	COMPLETE
+// 911943-1	Luke Skywalker foil pack #1 (2019)
 
-// 912291-1	COMPLETE
+// 912291-1	Luke Skywalker paper bag (2022)
 
-// 8092-1
-sw0161a
-sw0217
-sw0273
-sw0274
+// 8092-1	Luke's Landspeeder (2010)
+sw0161a	C-3PO - Pearl Gold with Pearl Gold Hands
+sw0217	Astromech Droid, R2-D2, Light Bluish Gray Head
+sw0273	Luke Skywalker - Light Nougat, Long Hair, White Tunic, Tan Legs, White Glints
+sw0274	Obi-Wan Kenobi - Old, Light Nougat, White Pupils
+sw0217	Astromech Droid, R2-D2, Light Bluish Gray Head	#MISSING
+sw0161a	C-3PO - Pearl Gold with Pearl Gold Hands	#MISSING
+sw0273	Luke Skywalker - Light Nougat, Long Hair, White Tunic, Tan Legs, White Glints	#MISSING
+sw0274	Obi-Wan Kenobi - Old, Light Nougat, White Pupils	#MISSING
+sw0271	Sandtrooper - Black Pauldron (Solid), Survival Backpack, No Dirt Stains, Helmet with Dotted Mouth Pattern and Solid Black Head	#MISSING
+sw0270	Sentry Droid	#MISSING
 
-// 8037-1	COMPLETE
+// 8037-1	Anakin's Y-wing Starfighter (2009)
+sw0192	Ahsoka Tano (Padawan) - Tube Top and Belt
+sw0183	Anakin Skywalker - Large Eyes, Reddish Brown Arms
+sw0255	Astromech Droid, R2-D2, Clone Wars
 
-// 8018-1
-sw0219
-sw0201
+// 8018-1	Armored Assault Tank (AAT) (2009)
+sw0219	Yoda - Clone Wars, Light Bluish Gray Hair
+sw0201	Clone Trooper (Phase 1) - Large Eyes
+sw0001b	Battle Droid Tan without Back Plate	#MISSING
+sw0201	Clone Trooper (Phase 1) - Large Eyes	#MISSING
+sw0230	Super Battle Droid with Blaster Arm	#MISSING
+sw0219	Yoda - Clone Wars, Light Bluish Gray Hair	#MISSING
 
-// 9515-1
-sw0183
-sw0224
+// 9515-1	The Malevolence (2012)
+sw0183	Anakin Skywalker - Large Eyes, Reddish Brown Arms
+sw0224	Count Dooku - Large Eyes
+sw0415	Battle Droid Commander with Straight Arm	#MISSING
+sw0001c	Battle Droid with One Straight Arm	#MISSING
+sw0224	Count Dooku - Large Eyes	#MISSING
+sw0254	General Grievous - Bent Legs, Tan Armor	#MISSING
+sw0411	Padme Amidala - Senator, Large Eyes	#MISSING
 
-// 7869-1
-sw0310
+// 7869-1	Battle for Geonosis (2011)
+sw0310	Luminara Unduli
+sw0314	Clone Trooper Captain Rex, 501st Legion (Phase 1) - Dark Bluish Gray Rangefinder, Pauldron, and Kama, Large Eyes	#MISSING
+sw0310	Luminara Unduli	#MISSING
 
-// 8093-1	COMPLETE
+// 8093-1	Plo Koon's Jedi Starfighter (2010)
+sw0119	Astromech Droid, R7-D4
+sw0198	Plo Koon
 
-// 8089-1
-sw0260
+// 8089-1	Hoth Wampa Cave (2010)
+sw0260	Zev Senesca
 sw0098	Luke Skywalker (Hoth)	Needs part 64567
+gen019	Skeleton, Fantasy Era Torso with Standard Skull, Mechanical Arms Straight	#MISSING
+sw0260	Zev Senesca	#MISSING
 
-// 75089-1
+// 75089-1	Geonosis Troopers (2015)
 sw0605	Clone Airborne Trooper (Phase 2) - Geonosis Camouflage, Smirk	Missing parts 15391c01 and 4073 from both.
 sw0606	Clone Trooper (Phase 2) - Geonosis Camouflage, Scowl	Missing parts 15391c01 and 4073 from both.
 
 # SUPER HEROES
 
-// 76220-1	COMPLETE
+// 76220-1	Batman versus Harley Quinn (2022)
+sh513	Batman - Juniors Cape
+sh838	Harley Quinn - Pigtails, Dark Azure and Dark Pink Eye Shadow
 
-// 212224-1	COMPLETE
+// 212224-1	Batman with Jet Ski foil pack (2022)
 
-// 212221-1	COMPLETE
+// 212221-1	Robin foil pack #3 (2022)
 
 # MINECRAFT
 
-// 21165-1	COMPLETE
+// 21165-1	The Bee Farm (2020)
+min091	Beekeeper
+min092	Villager - Dark Tan Pouch
 
 # HARRY POTTER
 
-// b22hp04uk	COMPLETE
+// b22hp04uk
 
 # NINJAGO
 
-// 112220-1	COMPLETE
+// 112220-1	Kai vs. Ghoultar blister pack (2022)
+njo646	Ghost - Legacy, Shoulder Armor, Conical Hat, Skull Face
+njo745	Kai - Core
 
-// 112219-1	COMPLETE
+// 112219-1	Jay vs. Nindroid blister pack (2022)
+njo786	Jay - Core
+njo788	Nindroid, Dual Sided Head - Legacy
 
-// 892184-1	COMPLETE
+// 892184-1	Scuba Kai foil pack (2022)
 
-// 892177-1	COMPLETE
+// 892177-1	Kai foil pack #8 (2021)
 
-// 892296-1	COMPLETE
+// 892296-1	Vengestone Guard paper bag (2022)
 
-// 892288-1	COMPLETE
+// 892288-1	Zane foil pack #8 (2022)
 
-// 892295-1	COMPLETE
+// 892295-1	Cole paper bag (2022)
 
-// 892297-1	COMPLETE
+// 892297-1	Golden Oni Lloyd paper bag (2022)
 
-// 892302-1	COMPLETE
+// 892302-1	Golden Dragon Jay paper bag (2023)
 
 # OTHER
 
-// 76989-1	COMPLETE
+// 76989-1	Horizon Forbidden West: Tallneck (2022)
+hfw001	Aloy
+hfw002	Watcher
 
-// 40516-1	COMPLETE
+// 40516-1	Everyone is Awesome (2021)
+tls100	Everyone is Awesome Black (Monochrome)
+tls106	Everyone is Awesome Blue (Monochrome)
+tls105	Everyone is Awesome Bright Green (Monochrome)
+tls108	Everyone is Awesome Bright Light Blue (Monochrome)
+tls110	Everyone is Awesome Dark Pink (Monochrome)
+tls107	Everyone is Awesome Dark Purple (Monochrome)
+tls103	Everyone is Awesome Orange (Monochrome)
+tls102	Everyone is Awesome Red (Monochrome)
+tls101	Everyone is Awesome Reddish Brown (Monochrome)
+tls109	Everyone is Awesome White (Monochrome)
+tls104	Everyone is Awesome Yellow (Monochrome)
 
-// 10228-1
-gen046
+// 10228-1	Haunted House (2012)
+gen046	Ghost with Pointed Top Shroud with 1 x 2 Plate and 1 x 2 Brick as Legs
+gen046	Ghost with Pointed Top Shroud with 1 x 2 Plate and 1 x 2 Brick as Legs	#MISSING
+mof007	Lord Vampyre with Cape	#MISSING
+mof008	Lord Vampyre's Bride	#MISSING
+mof020	Monster Butler (Frankenstein)	#MISSING
+mof019	Zombie Chef	#MISSING
 
-// 40515-1	COMPLETE
+// 40515-1	Pirates and Treasure VIP Add On Pack polybag (2022)
+gen047	Skeleton - Standard Skull, Bent Arms Vertical Grip
