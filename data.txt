@@ -262,6 +262,20 @@ col303	Cave Woman - Iconic Cave
 
 // 7050-1	COMPLETE
 
+# CLASSIC TOWN
+
+// 6389-1
+firec002
+firec001
+
+# ADVENTURES
+
+// 5911-1	COMPLETE
+
+# PHARAOH'S QUEST
+
+// 30090-1	COMPLETE
+
 # STUNTZ
 
 // 60310-1	COMPLETE
@@ -274,11 +288,9 @@ col303	Cave Woman - Iconic Cave
 cty1333	Child - Girl, White Halter Top with Green Apples and Lime Spots, Medium Blue Short Legs, Dark Brown Hair with Buns, Freckles, Reddish Brown Backpack
 cty1332	Skateboarder - Boy, Banana Shirt, Dark Azure Helmet, Backpack, Medium Blue Short Legs
 
-// 7279-1	Police Minifigure Collection
-cty0201	Police - Jail Prisoner Jacket over Prison Stripes, Dark Bluish Gray Legs, Dark Bluish Gray Knit Cap, Gold Tooth, Backpack	Missing part 92590
-cty0027a	Police - City Leather Jacket with Gold Badge and 'POLICE' on Back, White Helmet, Trans-Brown Visor, Silver Sunglasses
-cty0199	Police - City Suit with Blue Tie and Badge, Black Legs, White Short Bill Cap, Crooked Smile
-cty0200	Police - Jail Prisoner 50380 Prison Stripes, Dark Bluish Gray Legs, Black Knit Cap, Smirk and Stubble Beard
+// 60283-1	COMPLETE
+
+// 60314-1	COMPLETE
 
 // 60347-1	Grocery Store
 cty1483	Forklift Driver - Female, Neon Yellow Safety Vest, Dark Blue Legs, White Cap with Bright Light Yellow Hair
@@ -286,3 +298,182 @@ cty1481	Girl - Dark Orange Hair, Bright Pink Hoodie, Sand Blue Short Legs
 cty1482	Grocery Store Customer - Male, Bright Light Yellow Shirt, Medium Nougat Hair, Prosthetic Leg
 cty1480	Mr. Produce
 cty1479	Peapod Costume Girl - Green Jacket
+
+// 60344-1	COMPLETE
+
+// 60287-1	COMPLETE
+
+// 60253-1	COMPLETE
+
+// 60315-1	COMPLETE
+
+// 60322-1	COMPLETE
+
+// 60207-1
+cty0989
+
+// 7279-1	Police Minifigure Collection
+cty0201	Police - Jail Prisoner Jacket over Prison Stripes, Dark Bluish Gray Legs, Dark Bluish Gray Knit Cap, Gold Tooth, Backpack	Missing part 92590
+cty0027a	Police - City Leather Jacket with Gold Badge and 'POLICE' on Back, White Helmet, Trans-Brown Visor, Silver Sunglasses
+cty0199	Police - City Suit with Blue Tie and Badge, Black Legs, White Short Bill Cap, Crooked Smile
+cty0200	Police - Jail Prisoner 50380 Prison Stripes, Dark Bluish Gray Legs, Black Knit Cap, Smirk and Stubble Beard
+
+// 7279-1
+cty0201	Police - Jail Prisoner Jacket over Prison Stripes, Dark Bluish Gray Legs, Dark Bluish Gray Knit Cap, Gold Tooth, Backpack	Missing part 92590
+
+// 4203-1	COMPLETE
+
+// 30570-1	COMPLETE
+
+// 952211-1	COMPLETE
+
+// 952204-1	COMPLETE
+
+// 952210-1	COMPLETE
+
+// 952104-1	COMPLETE
+
+// 952209-1	COMPLETE
+
+// 60268-1
+60268-3
+60268-20
+
+// 60352-1	COMPLETE
+
+// 31012-1
+twn186
+
+# HOLIDAY / EVENT / PROMO
+
+// 5005233-1	COMPLETE
+
+// 40308-1	COMPLETE
+
+// 5004421-1	COMPLETE
+
+// 40565-1	COMPLETE
+
+# CREATOR
+
+// 10278-1	COMPLETE
+
+// 10270-1	COMPLETE
+
+# JURASSIC PARK / WORLD
+
+// 75926-1	COMPLETE
+
+// 122116-1	COMPLETE
+
+// 75915-1
+jw003
+
+// 76940-1	COMPLETE
+
+# MARVEL
+
+// 40525-1	COMPLETE
+
+// 242215-1	COMPLETE
+
+// 242212-1	COMPLETE
+
+// 242216-1	COMPLETE
+
+// 682303-1	COMPLETE
+
+# STAR WARS
+
+// 75322-1	COMPLETE
+
+// 75267-1
+sw1078
+
+// 75245-1
+75245-8	Advent Calendar 2019, Star Wars (Day  7) - Chewbacca	Missing fire
+
+// 75034-1
+sw0521	Royal Guard with Dark Red Arms and Hands	Only one, missing the other
+
+// 912289-1	COMPLETE
+
+// 911943-1	COMPLETE
+
+// 912291-1	COMPLETE
+
+// 8092-1
+sw0161a
+sw0217
+sw0273
+sw0274
+
+// 8037-1	COMPLETE
+
+// 8018-1
+sw0219
+sw0201
+
+// 9515-1
+sw0183
+sw0224
+
+// 7869-1
+sw0310
+
+// 8093-1	COMPLETE
+
+// 8089-1
+sw0260
+sw0098	Luke Skywalker (Hoth)	Needs part 64567
+
+// 75089-1
+sw0605	Clone Airborne Trooper (Phase 2) - Geonosis Camouflage, Smirk	Missing parts 15391c01 and 4073 from both.
+sw0606	Clone Trooper (Phase 2) - Geonosis Camouflage, Scowl	Missing parts 15391c01 and 4073 from both.
+
+# SUPER HEROES
+
+// 76220-1	COMPLETE
+
+// 212224-1	COMPLETE
+
+// 212221-1	COMPLETE
+
+# MINECRAFT
+
+// 21165-1	COMPLETE
+
+# HARRY POTTER
+
+// b22hp04uk	COMPLETE
+
+# NINJAGO
+
+// 112220-1	COMPLETE
+
+// 112219-1	COMPLETE
+
+// 892184-1	COMPLETE
+
+// 892177-1	COMPLETE
+
+// 892296-1	COMPLETE
+
+// 892288-1	COMPLETE
+
+// 892295-1	COMPLETE
+
+// 892297-1	COMPLETE
+
+// 892302-1	COMPLETE
+
+# OTHER
+
+// 76989-1	COMPLETE
+
+// 40516-1	COMPLETE
+
+// 10228-1
+gen046
+
+// 40515-1	COMPLETE
