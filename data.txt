@@ -74,7 +74,23 @@ col21-3	col21 Shipwreck Survivor, Series 21
 col21-10	col21 Space Police Guy, Series 21
 col21-2	col21 Violin Kid, Series 21
 
-// 71025-2	COMPLETE
+// 71025-2	Minifigure, Series 19 (Complete Series of 16 Complete Minifigure Sets)
+col19-15	col19 Bear Costume Guy, Series 19
+col19-9	col19 Dog Sitter, Series 19
+col19-8	col19 Fire Fighter, Series 19
+col19-14	col19 Fox Costume Girl, Series 19
+col19-3	col19 Fright Knight, Series 19
+col19-11	col19 Galactic Bounty Hunter, Series 19
+col19-12	col19 Gardener, Series 19
+col19-7	col19 Jungle Explorer, Series 19
+col19-4	col19 Monkey King, Series 19
+col19-16	col19 Mountain Biker, Series 19
+col19-6	col19 Mummy Queen, Series 19
+col19-10	col19 Pizza Costume Guy, Series 19
+col19-5	col19 Programmer, Series 19
+col19-13	col19 Rugby Player, Series 19
+col19-2	col19 Shower Guy, Series 19
+col19-1	col19 Video Game Champ, Series 19
 
 // 71018-2	Minifigure, Series 17 (Complete Series of 16 Complete Minifigure Sets)
 col17-10	col17 Battle Dwarf, Series 17
@@ -185,12 +201,50 @@ colsim2-9	colsim2 Professor Frink, The Simpsons, Series 2
 colsim2-11	colsim2 Selma, The Simpsons, Series 2
 colsim2-15	colsim2 Waylon Smithers, The Simpsons, Series 2
 
-// 71022-2
-colhp-9
+// 71022-2	Minifigure, Harry Potter, Series 1 (Complete Series of 22 Complete Minifigure Sets)
+colhp-9	colhp Lord Voldemort, Harry Potter, Series 1
+colhp-16	colhp Albus Dumbledore, Harry Potter, Series 1	#MISSING
+colhp-12	colhp Cedric Diggory, Harry Potter, Series 1	#MISSING
+colhp-7	colhp Cho Chang, Harry Potter, Series 1	#MISSING
+colhp-21	colhp Credence Barebone, Harry Potter, Series 1	#MISSING
+colhp-8	colhp Dean Thomas, Harry Potter, Series 1	#MISSING
+colhp-10	colhp Dobby, Harry Potter, Series 1	#MISSING
+colhp-4	colhp Draco Malfoy, Harry Potter, Series 1	#MISSING
+colhp-15	colhp Harry Potter in Pajamas, Harry Potter, Series 1	#MISSING
+colhp-1	colhp Harry Potter in School Robes, Harry Potter, Series 1	#MISSING
+colhp-2	colhp Hermione Granger in School Robes, Harry Potter, Series 1	#MISSING
+colhp-19	colhp Jacob Kowalski, Harry Potter, Series 1	#MISSING
+colhp-9	colhp Lord Voldemort, Harry Potter, Series 1	#MISSING
+colhp-5	colhp Luna Lovegood, Harry Potter, Series 1	#MISSING
+colhp-14	colhp Mad-Eye Moody, Harry Potter, Series 1	#MISSING
+colhp-6	colhp Neville Longbottom, Harry Potter, Series 1	#MISSING
+colhp-17	colhp Newt Scamander, Harry Potter, Series 1	#MISSING
+colhp-22	colhp Percival Graves, Harry Potter, Series 1	#MISSING
+colhp-13	colhp Professor Flitwick, Harry Potter, Series 1	#MISSING
+colhp-11	colhp Professor Trelawney, Harry Potter, Series 1	#MISSING
+colhp-20	colhp Queenie Goldstein, Harry Potter, Series 1	#MISSING
+colhp-3	colhp Ron Weasley in School Robes, Harry Potter, Series 1	#MISSING
+colhp-18	colhp Tina Goldstein, Harry Potter, Series 1	#MISSING
 
-// 71028-2
-colhp2-8
-colhp2-11
+// 71028-2	Minifigure, Harry Potter, Series 2 (Complete Series of 16 Complete Minifigure Sets)
+colhp2-8	colhp2 James Potter, Harry Potter, Series 2
+colhp2-11	colhp2 George Weasley, Harry Potter, Series 2
+colhp2-12	colhp2 Bellatrix Lestrange, Harry Potter, Series 2	#MISSING
+colhp2-10	colhp2 Fred Weasley, Harry Potter, Series 2	#MISSING
+colhp2-11	colhp2 George Weasley, Harry Potter, Series 2	#MISSING
+colhp2-9	colhp2 Ginny Weasley, Harry Potter, Series 2	#MISSING
+colhp2-6	colhp2 Griphook, Harry Potter, Series 2	#MISSING
+colhp2-1	colhp2 Harry Potter, Harry Potter, Series 2	#MISSING
+colhp2-2	colhp2 Headmaster Albus Dumbledore, Harry Potter, Series 2	#MISSING
+colhp2-3	colhp2 Hermione Granger, Harry Potter, Series 2	#MISSING
+colhp2-8	colhp2 James Potter, Harry Potter, Series 2	#MISSING
+colhp2-13	colhp2 Kingsley Shacklebolt, Harry Potter, Series 2	#MISSING
+colhp2-7	colhp2 Lily Potter, Harry Potter, Series 2	#MISSING
+colhp2-5	colhp2 Luna Lovegood, Harry Potter, Series 2	#MISSING
+colhp2-14	colhp2 Moaning Myrtle, Harry Potter, Series 2	#MISSING
+colhp2-16	colhp2 Neville Longbottom, Harry Potter, Series 2	#MISSING
+colhp2-15	colhp2 Professor Sprout, Harry Potter, Series 2	#MISSING
+colhp2-4	colhp2 Ron Weasley, Harry Potter, Series 2	#MISSING
 
 // 5004936-1	Iconic Cave
 col302	Cave Man - Iconic Cave
