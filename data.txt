@@ -373,7 +373,6 @@ cty1502	Fire - Reflective Stripes, Bright Light Orange Suit, White Helmet, Breat
 60268-3	Advent Calendar 2020, City (Day  2) - Duke Detain
 60268-20	Advent Calendar 2020, City (Day 19) - Rooky Partnur
 60268-2	Advent Calendar 2020, City (Day  1) - Container Ship	#MISSING
-60268-3	Advent Calendar 2020, City (Day  2) - Duke Detain	#MISSING
 60268-4	Advent Calendar 2020, City (Day  3) - Police Station	#MISSING
 60268-5	Advent Calendar 2020, City (Day  4) - Truck	#MISSING
 60268-6	Advent Calendar 2020, City (Day  5) - Harl Hubbs	#MISSING
@@ -389,7 +388,6 @@ cty1502	Fire - Reflective Stripes, Bright Light Orange Suit, White Helmet, Breat
 60268-17	Advent Calendar 2020, City (Day 16) - Daisy Kaboom	#MISSING
 60268-18	Advent Calendar 2020, City (Day 17) - Airplane	#MISSING
 60268-19	Advent Calendar 2020, City (Day 18) - Race Car	#MISSING
-60268-20	Advent Calendar 2020, City (Day 19) - Rooky Partnur	#MISSING
 60268-21	Advent Calendar 2020, City (Day 20) - Heavy Hauler Cab	#MISSING
 60268-22	Advent Calendar 2020, City (Day 21) - Heavy Hauler Trailer	#MISSING
 60268-23	Advent Calendar 2020, City (Day 22) - Speed Boat	#MISSING
