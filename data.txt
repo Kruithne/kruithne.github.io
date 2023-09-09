@@ -423,7 +423,6 @@ cty1502	Fire - Reflective Stripes, Bright Light Orange Suit, White Helmet, Breat
 
 // 31012-1	Family House (2013)
 twn186	Dark Blue Jacket, Light Blue Shirt, Dark Tan Legs, Black Male Hair
-twn186	Dark Blue Jacket, Light Blue Shirt, Dark Tan Legs, Black Male Hair	#MISSING
 twn185	Orange Halter Top with Medium Blue Trim and Flowers Pattern, Dark Blue Legs, Reddish Brown Ponytail and Swept Sideways Fringe	#MISSING
 
 # HOLIDAY / EVENT / PROMO
