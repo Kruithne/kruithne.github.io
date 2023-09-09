@@ -790,6 +790,11 @@ njo495	Wu Sensei - Legacy, Black Robe
 njo791	Bone Warrior
 njo727	Lloyd - Core, Shoulder Pad
 
+# FIGHT KNIGHTS
+
+// 6037-1	Witch's Windship (1997)
+cas032	Fright Knights - Witch with Cape	Missing wand (ordered)
+
 # MONSTER FIGHTERS
 
 // 10228-1	Haunted House (2012)
