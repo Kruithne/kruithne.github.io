@@ -790,6 +790,16 @@ njo495	Wu Sensei - Legacy, Black Robe
 njo791	Bone Warrior
 njo727	Lloyd - Core, Shoulder Pad
 
+# MONSTER FIGHTERS
+
+// 10228-1	Haunted House (2012)
+gen046	Ghost with Pointed Top Shroud with 1 x 2 Plate and 1 x 2 Brick as Legs
+gen046	Ghost with Pointed Top Shroud with 1 x 2 Plate and 1 x 2 Brick as Legs
+mof007	Lord Vampyre with Cape	#MISSING
+mof008	Lord Vampyre's Bride	#MISSING
+mof020	Monster Butler (Frankenstein)	#MISSING
+mof019	Zombie Chef	#MISSING
+
 # OTHER
 
 // 76989-1	Horizon Forbidden West: Tallneck (2022)
@@ -807,14 +817,6 @@ tls102	Everyone is Awesome Red (Monochrome)
 tls101	Everyone is Awesome Reddish Brown (Monochrome)
 tls109	Everyone is Awesome White (Monochrome)
 tls104	Everyone is Awesome Yellow (Monochrome)
-
-// 10228-1	Haunted House (2012)
-gen046	Ghost with Pointed Top Shroud with 1 x 2 Plate and 1 x 2 Brick as Legs
-gen046	Ghost with Pointed Top Shroud with 1 x 2 Plate and 1 x 2 Brick as Legs
-mof007	Lord Vampyre with Cape	#MISSING
-mof008	Lord Vampyre's Bride	#MISSING
-mof020	Monster Butler (Frankenstein)	#MISSING
-mof019	Zombie Chef	#MISSING
 
 // 40515-1	Pirates and Treasure VIP Add On Pack polybag (2022)
 gen047	Skeleton - Standard Skull, Bent Arms Vertical Grip
