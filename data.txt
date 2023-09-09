@@ -795,6 +795,8 @@ hp105	Dobby (Elf) - Light Nougat
 hp094	Harry Potter - Gryffindor Stripe and Shield Torso, Black Legs
 hp104	Lucius Malfoy - Light Nougat
 
+// 76400-1	COMPLETE
+
 # NINJAGO
 
 // 112220-1	Kai vs. Ghoultar blister pack (2022)
