@@ -53,11 +53,24 @@ for (const line of lines) {
 
 			// Use parse to get the name from the #item-name-title element.
 			const root = parse(html);
-			const name = root.querySelector('#item-name-title')?.text;
+			let name = root.querySelector('#item-name-title')?.text;
 
 			if (name) {
-				parts.push(name);
 				console.log('Found name: %s', name);
+
+				// Find all .links elements.
+				const links = root.querySelectorAll('.links');
+
+				// Check each link and find one with a href that includes itemYear= in it.
+				for (const link of links) {
+					const href = link.attributes.href;
+					if (href.includes('itemYear=')) {
+						name += ' (' + link.textContent + ')';
+						break;
+					}
+				}
+
+				parts.push(name);
 			} else {
 				console.log('Failed to get name for %s', parts[0]);
 			}
