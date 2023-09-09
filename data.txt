@@ -252,6 +252,16 @@ colhp2-4	Ron Weasley, Harry Potter, Series 2	#MISSING
 col302	Cave Man - Iconic Cave
 col303	Cave Woman - Iconic Cave
 
+# SPACE: CLASSIC
+
+// 9780241409695	COMPLETE
+
+// 6701-1	COMPLETE
+
+# SPACE: ALIEN CONQUEST
+
+// 7050-1	COMPLETE
+
 # STUNTZ
 
 // 60310-1	COMPLETE
