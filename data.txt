@@ -535,6 +535,8 @@ col267	Musician - Male, White Vest with Dark Purple Open Shirt, Dark Purple Pant
 hol295	Elf - Green Scalloped Collar with Bells, Closed Mouth with Freckles
 hol246	Santa, Red Legs, Black Boots Fur Lined Jacket with Button and Candy Cane on Back, Gray Bushy Eyebrows
 
+// 40357-1	COMPLETE
+
 # CREATOR
 
 // 10278-1	Police Station (2021)
