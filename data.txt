@@ -555,12 +555,7 @@ sw0161a	C-3PO - Pearl Gold with Pearl Gold Hands
 sw0217	Astromech Droid, R2-D2, Light Bluish Gray Head
 sw0273	Luke Skywalker - Light Nougat, Long Hair, White Tunic, Tan Legs, White Glints
 sw0274	Obi-Wan Kenobi - Old, Light Nougat, White Pupils
-sw0217	Astromech Droid, R2-D2, Light Bluish Gray Head	#MISSING
-sw0161a	C-3PO - Pearl Gold with Pearl Gold Hands	#MISSING
-sw0273	Luke Skywalker - Light Nougat, Long Hair, White Tunic, Tan Legs, White Glints	#MISSING
-sw0274	Obi-Wan Kenobi - Old, Light Nougat, White Pupils	#MISSING
 sw0271	Sandtrooper - Black Pauldron (Solid), Survival Backpack, No Dirt Stains, Helmet with Dotted Mouth Pattern and Solid Black Head	#MISSING
-sw0270	Sentry Droid	#MISSING
 
 // 8037-1	Anakin's Y-wing Starfighter (2009)
 sw0192	Ahsoka Tano (Padawan) - Tube Top and Belt
@@ -571,23 +566,19 @@ sw0255	Astromech Droid, R2-D2, Clone Wars
 sw0219	Yoda - Clone Wars, Light Bluish Gray Hair
 sw0201	Clone Trooper (Phase 1) - Large Eyes
 sw0001b	Battle Droid Tan without Back Plate	#MISSING
-sw0201	Clone Trooper (Phase 1) - Large Eyes	#MISSING
 sw0230	Super Battle Droid with Blaster Arm	#MISSING
-sw0219	Yoda - Clone Wars, Light Bluish Gray Hair	#MISSING
 
 // 9515-1	The Malevolence (2012)
 sw0183	Anakin Skywalker - Large Eyes, Reddish Brown Arms
 sw0224	Count Dooku - Large Eyes
 sw0415	Battle Droid Commander with Straight Arm	#MISSING
 sw0001c	Battle Droid with One Straight Arm	#MISSING
-sw0224	Count Dooku - Large Eyes	#MISSING
 sw0254	General Grievous - Bent Legs, Tan Armor	#MISSING
 sw0411	Padme Amidala - Senator, Large Eyes	#MISSING
 
 // 7869-1	Battle for Geonosis (2011)
 sw0310	Luminara Unduli
 sw0314	Clone Trooper Captain Rex, 501st Legion (Phase 1) - Dark Bluish Gray Rangefinder, Pauldron, and Kama, Large Eyes	#MISSING
-sw0310	Luminara Unduli	#MISSING
 
 // 8093-1	Plo Koon's Jedi Starfighter (2010)
 sw0119	Astromech Droid, R7-D4
@@ -597,7 +588,6 @@ sw0198	Plo Koon
 sw0260	Zev Senesca
 sw0098	Luke Skywalker (Hoth)	Needs part 64567
 gen019	Skeleton, Fantasy Era Torso with Standard Skull, Mechanical Arms Straight	#MISSING
-sw0260	Zev Senesca	#MISSING
 
 // 75089-1	Geonosis Troopers (2015)
 sw0605	Clone Airborne Trooper (Phase 2) - Geonosis Camouflage, Smirk	Missing parts 15391c01 and 4073 from both.
