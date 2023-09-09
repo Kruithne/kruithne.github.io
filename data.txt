@@ -20,6 +20,8 @@ col05-9	Small Clown, Series 5	missing pies (ordered)
 col05-16	Snowboarder Guy, Series 5	#MISSING
 col05-7	Zookeeper, Series 5	#MISSING
 
+// 8827-2
+
 // 71037-2	Minifigure, Series 24 (Complete Series of 12 Complete Minifigure Sets) (2023)
 col24-3	Brown Astronaut and Spacebaby, Series 24
 col24-4	Carrot Mascot, Series 24
