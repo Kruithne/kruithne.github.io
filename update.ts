@@ -93,7 +93,7 @@ for (const line of lines) {
 							inventories.set(matches[1], link.attributes.href);
 					}
 
-					inventory_url = inventories.get('Minifigures') ?? inventories.get('Sets') ?? null;
+					inventory_url = inventories.get('Minifigures') ?? inventories.get('Minifigure') ?? inventories.get('Sets') ?? null;
 					break;
 				}
 			}
