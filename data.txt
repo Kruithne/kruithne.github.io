@@ -1,6 +1,22 @@
 # MINIFIGURE SERIES
 
-// 8804-2
+// 8804-2	Minifigure, Series 4 (Complete Series of 16 Complete Minifigure Sets) (2011)
+col04-14	Artist, Series 4	#MISSING
+col04-16	Crazy Scientist, Series 4	#MISSING
+col04-13	Hazmat Guy, Series 4	#MISSING
+col04-8	Hockey Player, Series 4	#MISSING
+col04-15	Ice Skater, Series 4	#MISSING
+col04-2	Kimono Girl, Series 4	#MISSING
+col04-1	Lawn Gnome, Series 4	#MISSING
+col04-3	Musketeer, Series 4	#MISSING
+col04-4	Punk Rocker, Series 4	#MISSING
+col04-10	Sailor, Series 4	#MISSING
+col04-11	Soccer Player, Series 4	#MISSING
+col04-9	Street Skater, Series 4	#MISSING
+col04-5	Surfer Girl, Series 4	#MISSING
+col04-7	The Monster, Series 4	#MISSING
+col04-6	Viking, Series 4	#MISSING
+col04-12	Werewolf, Series 4	#MISSING
 
 // 8805-2	Minifigure, Series 5 (Complete Series of 16 Complete Minifigure Sets) (2011)
 col05-13	Boxer, Series 5
@@ -20,7 +36,23 @@ col05-9	Small Clown, Series 5	missing pies (ordered)
 col05-16	Snowboarder Guy, Series 5	#MISSING
 col05-7	Zookeeper, Series 5	#MISSING
 
-// 8827-2
+// 8827-2	Minifigure, Series 6 (Complete Series of 16 Complete Minifigure Sets) (2012)
+col06-5	Bandit, Series 6	#MISSING
+col06-14	Butcher, Series 6	#MISSING
+col06-1	Classic Alien, Series 6	#MISSING
+col06-7	Clockwork Robot, Series 6	#MISSING
+col06-6	Flamenco Dancer, Series 6	#MISSING
+col06-16	Genie, Series 6	#MISSING
+col06-2	Highland Battler, Series 6	#MISSING
+col06-13	Intergalactic Girl, Series 6	#MISSING
+col06-4	Lady Liberty, Series 6	#MISSING
+col06-9	Leprechaun, Series 6	#MISSING
+col06-15	Mechanic, Series 6	#MISSING
+col06-8	Minotaur, Series 6	#MISSING
+col06-10	Roman Soldier, Series 6	#MISSING
+col06-12	Skater Girl, Series 6	#MISSING
+col06-3	Sleepyhead, Series 6	#MISSING
+col06-11	Surgeon, Series 6	#MISSING
 
 // 71037-2	Minifigure, Series 24 (Complete Series of 12 Complete Minifigure Sets) (2023)
 col24-3	Brown Astronaut and Spacebaby, Series 24
