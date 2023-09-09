@@ -336,7 +336,6 @@ cty1401	Race Car Mechanic - Female, White Racing Jacket and Legs, Dark Blue Cap 
 cty0989	Statue - Pearl Gold with Metallic Gold Fire Helmet
 cty0988	Sky Police - Jail Prisoner 86753 Prison Stripes, Scowl with Open Mouth and Headset, Dark Red Knit Cap	#MISSING
 cty0980	Sky Police - Jet Pilot with Oxygen Mask	#MISSING
-cty0989	Statue - Pearl Gold with Metallic Gold Fire Helmet	#MISSING
 
 // 7279-1	Police Minifigure Collection
 cty0201	Police - Jail Prisoner Jacket over Prison Stripes, Dark Bluish Gray Legs, Dark Bluish Gray Knit Cap, Gold Tooth, Backpack	Missing part 92590
