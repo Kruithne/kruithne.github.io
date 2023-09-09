@@ -290,8 +290,8 @@ adv010	Johnny Thunder (Desert)
 // 5948-1	Desert Expedition (1998)
 adv039	Baron Von Barron with Pith Helmet and White Epaulettes
 adv040	Dr. Charles Lightning with Backpack
-adv009	Harry Cane
-adv038	Lord Sam Sinister - Suit with 3 Buttons Black - Black Legs, Top Hat
+adv009	Harry Cane	#MISSING
+adv038	Lord Sam Sinister - Suit with 3 Buttons Black - Black Legs, Top Hat	missing tophat (ordered)
 gen001	Skeleton with Standard Skull
 
 # PHARAOH'S QUEST
