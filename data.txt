@@ -535,7 +535,7 @@ col267	Musician - Male, White Vest with Dark Purple Open Shirt, Dark Purple Pant
 hol295	Elf - Green Scalloped Collar with Bells, Closed Mouth with Freckles
 hol246	Santa, Red Legs, Black Boots Fur Lined Jacket with Button and Candy Cane on Back, Gray Bushy Eyebrows
 
-// 40357-1	COMPLETE
+// 40357-1	BYGGLEK (2020)
 
 # CREATOR
 
@@ -553,7 +553,9 @@ twn384	Female, Short Reddish Brown Hair, Medium Nougat Glasses and Shirt, Dark B
 twn386	Male, Medium Nougat Hair, Red Shirt, Tan Tie, Dark Blue Suspenders, Dark Orange Legs
 twn387	Male, Red Flannel Shirt, Light Bluish Gray Legs, Light Bluish Gray Hair, Dark Bluish Gray Beard
 
-// 31138-1	COMPLETE
+// 31138-1	Beach Camper Van (2023)
+twn462	Beach Tourist - Female, White Halter Top with Green Apples and Lime Spots, Blue Legs, Dark Brown Long Tousled Hair, Sunglasses
+twn461	Beach Tourist - Male, White Tank Top with Dark Azure Sailboat, Dark Azure Legs, Tan Hair
 
 # JURASSIC PARK / WORLD
 
@@ -613,7 +615,9 @@ sh802	Doctor Strange - Plastic Cape, Brooch
 // 242316-1	Black Panther with Jet paper bag (2023)
 sh807	Black Panther - Claw Necklace, Pearl Dark Gray Highlights
 
-// 76253-1	COMPLETE
+// 76253-1	Guardians of the Galaxy Headquarters (2023)
+sh874	Groot, Teen Groot - Dark Tan with Shoulder Armor
+sh873	Star-Lord - Dark Blue Suit
 
 # STAR WARS
 
@@ -780,9 +784,16 @@ min012	Creeper
 
 # INDIANA JONES
 
-// 77013-1	COMPLETE
+// 77013-1	Escape from the Lost Tomb (2023)
+iaj049	Indiana Jones - Dark Brown Jacket, Reddish Brown Dual Molded Hat with Hair, Dark Tan Hands
+iaj050	Marion Ravenwood - White Tattered Dress
+iaj052	Mummy
+iaj051	Sallah
 
-// 77012-1	COMPLETE
+// 77012-1	Fighter Plane Chase (2023)
+iaj048	Fighter Pilot
+iaj046	Indiana Jones - Dark Brown Jacket, Black Tie, Reddish Brown Dual Molded Hat with Hair, Light Nougat Hands
+iaj047	Professor Henry Jones Sr. - Dark Bluish Gray Pith Helmet
 
 # HARRY POTTER
 
@@ -797,7 +808,9 @@ hp105	Dobby (Elf) - Light Nougat
 hp094	Harry Potter - Gryffindor Stripe and Shield Torso, Black Legs
 hp104	Lucius Malfoy - Light Nougat
 
-// 76400-1	COMPLETE
+// 76400-1	Hogwarts Carriage and Thestrals (2022)
+hp346	Harry Potter - Dark Blue Open Jacket over Gryffindor Cardigan Sweater, Black Legs
+hp347	Luna Lovegood - Tan Dress
 
 # NINJAGO
 
