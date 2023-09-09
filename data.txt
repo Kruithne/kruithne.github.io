@@ -378,17 +378,24 @@ cty1287	Firefighter Bob without Air Tanks
 // 952209-1	Firefighter Woman with Jet foil pack (2022)
 cty1502	Fire - Reflective Stripes, Bright Light Orange Suit, White Helmet, Breathing Apparatus, Sunglasses
 
-// 952303-1	COMPLETE
+// 952303-1	Worker with Lawn Mower paper bag (2023)
+cty1574	Lawn Mower Operator - Male, Blue Jacket with Diagonal Lower Pockets and Orange Stripes, Dark Bluish Gray Legs, Black Coiled Hair, Stubble
 
-// 952305-1	COMPLETE
+// 952305-1	Building Team with Tools paper bag (2023)
+cty1600	Construction Worker - Female, Blue Open Jacket with Pockets and Orange Stripes, Orange Legs, Red Construction Helmet with Dark Brown Hair, Goggles
+cty1601	Construction Worker - Male, Blue Overalls over V-Neck Shirt, Blue Legs, Red Construction Helmet, Moustache
 
-// 952302-1	COMPLETE
+// 952302-1	Police Buggy paper bag (2023)
+cty1548	Police - City Shirt with Dark Blue Tie and Gold Badge, Dark Tan Belt with Radio, Dark Blue Legs, White Helmet, Sideburns
 
-// 952304-1	COMPLETE
+// 952304-1	Policeman and Crook with ATM paper bag (2023)
+cty1595	Police - Jail Prisoner 50382 Prison Stripes, Female, Dark Bluish Gray Legs, Open Mouth, Tan Ponytail
 
-// 952307-1	COMPLETE
+// 952307-1	Policeman with Jet paper bag (2023)
+cty1618	Police Officer - Lukas Looping, Jet Pilot
 
-// 952306-1	COMPLETE
+// 952306-1	Airport Worker with Service Car paper bag (2023)
+cty1602	Airport Worker - Male, Orange Safety Vest, Reflective Stripes, Reddish Brown Shirt, Sand Blue Legs, Red Construction Helmet, Dark Bluish Gray Beard
 
 // 60268-1	Advent Calendar 2020, City (2020)
 60268-3	Advent Calendar 2020, City (Day  2) - Duke Detain
@@ -496,13 +503,16 @@ jw004	ACU Trooper - Male, Black Aviator Cap with Trans-Brown Visor, Light Nougat
 // 76940-1	T. rex Dinosaur Fossil Exhibition (2021)
 jw075	Darius
 
-// 122328-1	COMPLETE
+// 122328-1	Owen with Jet Pack and Raptor paper bag (2023)
+jw102	Owen Grady - Open Neck Shirt, Neck Bracket
 
-// 122223-1	COMPLETE
+// 122223-1	Owen with Quad foil pack (2022)
+jw048	Owen Grady - Open Neck Shirt
 
-// 122331-1	COMPLETE
+// 122331-1	Owen with Swamp Speeder and Raptor paper bag (2023)
 
-// 30390-1	COMPLETE
+// 30390-1	Dinosaur Market polybag (2022)
+jw101	Dinosaur Market Stall Owner - Male, Light Bluish Gray Hoodie, Dark Brown Legs, Dark Bluish Gray Beanie
 
 # MARVEL
 
@@ -525,11 +535,14 @@ sh683	Carnage - Medium Appendages
 // 682303-1	Miles Morales with Skateboard paper bag (2023)
 sh679	Spider-Man (Miles Morales) - Dark Red Hood
 
-// 242318-1	COMPLETE
+// 242318-1	Mighty Thor paper bag (2023)
+sh815	Mighty Thor (Jane Foster)
 
-// 242317-1	COMPLETE
+// 242317-1	Doctor Strange paper bag (2023)
+sh802	Doctor Strange - Plastic Cape, Brooch
 
-// 242316-1	COMPLETE
+// 242316-1	Black Panther with Jet paper bag (2023)
+sh807	Black Panther - Claw Necklace, Pearl Dark Gray Highlights
 
 # STAR WARS
 
@@ -585,13 +598,17 @@ sw0778	Luke Skywalker (Tatooine, White Legs, Stern / Smile Face Print)
 // 912291-1	Luke Skywalker paper bag (2022)
 sw1143	Luke Skywalker (Hoth, Balaclava Head)
 
-// 912305-1	COMPLETE
+// 912305-1	Obi-Wan Kenobi paper bag (2023)
+sw1255	Obi-Wan Kenobi - Reddish Brown Robe and Hood
 
-// 912302-1	COMPLETE
+// 912302-1	Bo-Katan Kryze paper bag (2023)
+sw1163	Bo-Katan Kryze
 
-// 912303-1	COMPLETE
+// 912303-1	212th Clone Trooper paper bag (2023)
+sw1235	Clone Trooper, 212th Attack Battalion (Phase 2) - White Arms, Dirt Stains, Nougat Head, Helmet with Holes
 
-// 912307-1	COMPLETE
+// 912307-1	Scout Trooper paper bag (2023)
+sw1116	Imperial Scout Trooper - Male, Dual Molded Helmet, Light Nougat Head, Cheek Lines
 
 // 8092-1	Luke's Landspeeder (2010)
 sw0161a	C-3PO - Pearl Gold with Pearl Gold Hands
@@ -648,13 +665,15 @@ sh849	Batman - Light Bluish Gray Scuba Mask
 // 212221-1	Robin foil pack #3 (2022)
 sh822	Robin - Neck Bracket
 
-// 682305-1	COMPLETE
+// 682305-1	Venom paper bag (2023)
 
-// 682304-1	COMPLETE
+// 682304-1	Green Goblin paper bag (2023)
+sh813	Green Goblin - Bright Green Skin, Dark Purple Outfit, Small Yellow Eyes, Plain Legs
 
-// 212326-1	COMPLETE
+// 212326-1	Batman with Jet paper bag (2023)
 
-// 212327-1	COMPLETE
+// 212327-1	The Joker paper bag (2023)
+sh704	The Joker - Dark Pink Suit, Open Mouth Grin / Closed Mouth
 
 # MINECRAFT
 
@@ -662,13 +681,20 @@ sh822	Robin - Neck Bracket
 min091	Beekeeper
 min092	Villager - Dark Tan Pouch
 
-// 662305-1	COMPLETE
+// 662305-1	Nether Hero and Enderman paper bag (2023)
+min151	Enderman - Light Bluish Gray Block with Dark Bluish Gray Top
+min152	Nether Hero
 
-// 662303-1	COMPLETE
+// 662303-1	Adventurer with Drowned and Axolotl paper bag (2023)
+min088	Drowned Zombie
+min133	Zombie Hunter
 
-// 662309-1	COMPLETE
+// 662309-1	Knight with Chest and Anvil foil pack (2023)
+min146	Knight - Flat Silver Armor
 
-// 662302-1	COMPLETE
+// 662302-1	Cave Explorer, Creeper and Slime foil pack (2023)
+min132	Cave Explorer
+min012	Creeper
 
 # HARRY POTTER
 
@@ -709,30 +735,46 @@ njo796	Lloyd (Golden Oni) - Hair
 // 892302-1	Golden Dragon Jay paper bag (2023)
 njo755	Jay (Golden Dragon)
 
-// 892304-1	COMPLETE
+// 892304-1	Golden Dragon Cole paper bag (2023)
+njo781	Cole (Golden Dragon)
 
-// 892291-1	COMPLETE
+// 892291-1	Golden Dragon Kai foil pack (2022)
+njo757	Kai (Golden Dragon)
 
-// 112322-1	COMPLETE
+// 112322-1	Zane vs. Garmadon blister pack (2022)
+njo803	Lord Garmadon - Legacy, Silver Armor, Plain Legs
+njo719	Zane - Core, Shoulder Pad
 
 // 892308-1	Kai paper bag (2023)
 njo811	Kai - Dragons Rising	missing 68504 (ordered)
 
-// 892305-1	COMPLETE
+// 892305-1	Aspheera paper bag (2023)
+njo756	General Aspheera
 
-// 892309-1	COMPLETE
+// 892309-1	Lord Ras paper bag (2023)
+njo812	Lord Ras
 
-// 112324-1	COMPLETE
+// 112324-1	Kai vs. Bone King blister pack (2023)
+njo807	Bone King - Small Bone
+njo721	Kai - Core, Shoulder Pad
 
-// 892303-1	COMPLETE
+// 892303-1	Vangelis paper bag (2023)
+njo802	General Vangelis - Plain Black Head
 
-// 892306-1	COMPLETE
+// 892306-1	Zane paper bag (2023)
+njo806	Zane (Golden Ninja) - Crystalized, Hair
 
-// 112323-1	COMPLETE
+// 112323-1	Wu vs. Ghost Archer blister pack (2023)
+njo804	Ghost Archer
+njo805	Wu Sensei - Legacy, Tan Robe, Braided Ponytail
 
-// 112109-1	COMPLETE
+// 112109-1	Wu vs. Garmadon blister pack (2021)
+njo596	Lord Garmadon - Legacy
+njo495	Wu Sensei - Legacy, Black Robe
 
-// 112325-1	COMPLETE
+// 112325-1	Lloyd vs. Bone Warrior metal box (2023)
+njo791	Bone Warrior
+njo727	Lloyd - Core, Shoulder Pad
 
 # OTHER
 
