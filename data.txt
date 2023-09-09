@@ -683,6 +683,8 @@ gen019	Skeleton, Fantasy Era Torso with Standard Skull, Mechanical Arms Straight
 sw0605	Clone Airborne Trooper (Phase 2) - Geonosis Camouflage, Smirk	Missing parts 15391c01 and 4073 from both.
 sw0606	Clone Trooper (Phase 2) - Geonosis Camouflage, Scowl	Missing parts 15391c01 and 4073 from both.
 
+// 7133-1	COMPLETE
+
 # SUPER HEROES
 
 // 76220-1	Batman versus Harley Quinn (2022)
