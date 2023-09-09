@@ -24,8 +24,8 @@ for (const line of lines) {
 	}
 
 	// Skip empty lines.
-	if (line.trim().length === 0) {
-		lines_out.push('');
+	if (line.trim().length === 0 || line.startsWith('#')) {
+		lines_out.push(line);
 		continue;
 	}
 
@@ -191,6 +191,14 @@ for (const line of lines_out) {
 		html += '\t\t\t\t<th>' + parts[1] + '</th>\n';
 		html += '\t\t\t\t<th></th>\n';
 		html += '\t\t\t</tr>\n';
+	} else if (line.startsWith('#')) {
+		// Include header in a <h1> between tables.
+		if (table_open) {
+			html += '\t\t</table>\n';
+			table_open = false;
+		}
+
+		html += '\t\t<h1>' + line.substring(1).trim() + '</h1>\n';
 	} else {
 		if (line.trim().length === 0)
 			continue;
