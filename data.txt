@@ -297,17 +297,17 @@ firec003	Fire - Classic, White Helmet, Trans-Light Blue Visor	#MISSING
 
 # ADVENTURES
 
-// 5911-1	Johnny Thunder's Plane (2000)
+// 5911-1	COMPLETE
 
 # PHARAOH'S QUEST
 
-// 30090-1	Desert Glider polybag (2011)
+// 30090-1	COMPLETE
 
 # STUNTZ
 
-// 60310-1	Chicken Stunt Bike (2021)
+// 60310-1	COMPLETE
 
-// 60333-1	Bathtub Stunt Bike (2022)
+// 60333-1	COMPLETE
 
 # CITY
 
@@ -332,7 +332,7 @@ cty1482	Grocery Store Customer - Male, Bright Light Yellow Shirt, Medium Nougat 
 cty1480	Mr. Produce
 cty1479	Peapod Costume Girl - Green Jacket
 
-// 60344-1	Chicken Henhouse (2022)
+// 60344-1	COMPLETE
 
 // 60287-1	Tractor (2021)
 cty1226	Child - Girl, Blue Overalls over V-Neck Shirt, Blue Short Legs, Dark Orange Hair with Pigtails, Glasses, Freckles
@@ -371,19 +371,19 @@ cty0201	Police - Jail Prisoner Jacket over Prison Stripes, Dark Bluish Gray Legs
 cty0334	Flannel Shirt with Pocket and Belt, Dark Tan Legs, Mining Helmet, Safety Goggles
 cty0333	Miner - Shirt with Harness and Wrench, Sand Blue Legs, Red Short Bill Cap
 
-// 30570-1	Wildlife Rescue Hovercraft polybag (2021)
+// 30570-1	COMPLETE
 
 // 952211-1	Policewoman with Bike and Crook foil pack (2022)
 cty1511	Police - City Bandit Crook, Black Leather Jacket, Dark Bluish Gray Knit Cap, Dark Tan Legs, Sweat Drops
 cty1510	Police - City Officer Female Bright Light Blue Shirt with Silver Stripe, Badge, and Radio, Dark Blue Legs, Dark Blue Dirt Bike Helmet, Splotches
 
-// 952204-1	Worker with Tipper Truck foil pack (2022)
+// 952204-1	COMPLETE
 
-// 952210-1	Worker with Road Roller foil pack (2022)
+// 952210-1	COMPLETE
 
-// 952104-1	Bob's Fire Stand foil pack (2021)
+// 952104-1	COMPLETE
 
-// 952209-1	Firefighter Woman with Jet foil pack (2022)
+// 952209-1	COMPLETE
 
 // 60268-1	Advent Calendar 2020, City (2020)
 60268-3	Advent Calendar 2020, City (Day  2) - Duke Detain
@@ -446,9 +446,9 @@ twn185	Orange Halter Top with Medium Blue Trim and Flowers Pattern, Dark Blue Le
 
 # HOLIDAY / EVENT / PROMO
 
-// 5005233-1	{Royal Guard polybag} (2018)
+// 5005233-1	COMPLETE
 
-// 40308-1	Lester polybag (2017)
+// 40308-1	COMPLETE
 
 // 5004421-1	Minifigure Collection, Musicians (TRU Exclusive) (2016)
 col265	Musician - Female, Blouse with Gold Sash and Flowers, Lavender Skirt, Bright Light Yellow Hair
@@ -482,7 +482,7 @@ twn387	Male, Red Flannel Shirt, Light Bluish Gray Legs, Light Bluish Gray Hair, 
 jw042	ACU Tracker - Female, Black Aviator Cap with Trans-Brown Visor, Light Nougat Head
 jw023	Owen Grady
 
-// 122116-1	Sinjin Prescott with Buggy foil pack (2021)
+// 122116-1	COMPLETE
 
 // 75915-1	Pteranodon Capture (2015)
 jw003	Simon Masrani - Sand Blue Jumper
@@ -501,13 +501,13 @@ sh808	Miek - Mech Body
 sh734	Thor - Long Dark Tan Hair
 sh748	Valkyrie - Pearl Dark Gray Suit
 
-// 242215-1	Thanos paper bag (2022)
+// 242215-1	COMPLETE
 
-// 242212-1	Captain America foil pack #2 (2022)
+// 242212-1	COMPLETE
 
-// 242216-1	Carnage paper bag (2022)
+// 242216-1	COMPLETE
 
-// 682303-1	Miles Morales with Skateboard paper bag (2023)
+// 682303-1	COMPLETE
 
 # STAR WARS
 
@@ -555,11 +555,11 @@ sw0521	Royal Guard with Dark Red Arms and Hands	Only one, missing the other
 sw0529	Imperial Gunner (Closed Mouth, Silver Imperial Logo)	#MISSING
 sw0520	Imperial Gunner (Open Mouth, Silver Imperial Logo)	#MISSING
 
-// 912289-1	Princess Leia foil pack (2022)
+// 912289-1	COMPLETE
 
-// 911943-1	Luke Skywalker foil pack #1 (2019)
+// 911943-1	COMPLETE
 
-// 912291-1	Luke Skywalker paper bag (2022)
+// 912291-1	COMPLETE
 
 // 8092-1	Luke's Landspeeder (2010)
 sw0161a	C-3PO - Pearl Gold with Pearl Gold Hands
@@ -620,9 +620,9 @@ sw0606	Clone Trooper (Phase 2) - Geonosis Camouflage, Scowl	Missing parts 15391c
 sh513	Batman - Juniors Cape
 sh838	Harley Quinn - Pigtails, Dark Azure and Dark Pink Eye Shadow
 
-// 212224-1	Batman with Jet Ski foil pack (2022)
+// 212224-1	COMPLETE
 
-// 212221-1	Robin foil pack #3 (2022)
+// 212221-1	COMPLETE
 
 # MINECRAFT
 
@@ -645,19 +645,19 @@ njo745	Kai - Core
 njo786	Jay - Core
 njo788	Nindroid, Dual Sided Head - Legacy
 
-// 892184-1	Scuba Kai foil pack (2022)
+// 892184-1	COMPLETE
 
-// 892177-1	Kai foil pack #8 (2021)
+// 892177-1	COMPLETE
 
-// 892296-1	Vengestone Guard paper bag (2022)
+// 892296-1	COMPLETE
 
-// 892288-1	Zane foil pack #8 (2022)
+// 892288-1	COMPLETE
 
-// 892295-1	Cole paper bag (2022)
+// 892295-1	COMPLETE
 
-// 892297-1	Golden Oni Lloyd paper bag (2022)
+// 892297-1	COMPLETE
 
-// 892302-1	Golden Dragon Jay paper bag (2023)
+// 892302-1	COMPLETE
 
 # OTHER
 
