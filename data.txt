@@ -731,7 +731,7 @@ sw0059	Zam Wesell
 sw0021	Luke Skywalker (Tatooine)	#MISSING
 sw0023	Obi-Wan Kenobi with Light Gray Hair (Old)
 
-# SUPER HEROES
+# DC Super Heroes
 
 // 76220-1	Batman versus Harley Quinn (2022)
 sh513	Batman - Juniors Cape
