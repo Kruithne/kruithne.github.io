@@ -1,20 +1,20 @@
 # MINIFIGURE SERIES
 
 // 8805-2	Minifigure, Series 5 (Complete Series of 16 Complete Minifigure Sets) (2011)
-col05-13	Boxer, Series 5	#MISSING
+col05-13	Boxer, Series 5
 col05-5	Cave Woman, Series 5	#MISSING
 col05-11	Detective, Series 5	#MISSING
 col05-14	Egyptian Queen, Series 5	#MISSING
 col05-12	Evil Dwarf, Series 5	#MISSING
 col05-10	Fitness Instructor, Series 5	#MISSING
-col05-15	Gangster, Series 5	#MISSING
-col05-2	Gladiator, Series 5	#MISSING
+col05-15	Gangster, Series 5
+col05-2	Gladiator, Series 5
 col05-1	Graduate, Series 5	#MISSING
-col05-4	Ice Fisherman, Series 5	#MISSING
+col05-4	Ice Fisherman, Series 5
 col05-6	Lizard Man, Series 5	#MISSING
 col05-8	Lumberjack, Series 5	#MISSING
 col05-3	Royal Guard, Series 5	#MISSING
-col05-9	Small Clown, Series 5	#MISSING
+col05-9	Small Clown, Series 5	missing pies (ordered)
 col05-16	Snowboarder Guy, Series 5	#MISSING
 col05-7	Zookeeper, Series 5	#MISSING
 
