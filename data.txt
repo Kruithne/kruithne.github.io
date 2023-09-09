@@ -250,6 +250,12 @@ colhp2-4	colhp2 Ron Weasley, Harry Potter, Series 2	#MISSING
 col302	Cave Man - Iconic Cave
 col303	Cave Woman - Iconic Cave
 
+# STUNTZ
+
+// 60310-1
+
+// 60333-1
+
 # CITY
 
 // 30588-1	Kids' Playground polybag
