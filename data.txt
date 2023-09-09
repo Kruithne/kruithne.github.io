@@ -552,6 +552,8 @@ twn384	Female, Short Reddish Brown Hair, Medium Nougat Glasses and Shirt, Dark B
 twn386	Male, Medium Nougat Hair, Red Shirt, Tan Tie, Dark Blue Suspenders, Dark Orange Legs
 twn387	Male, Red Flannel Shirt, Light Bluish Gray Legs, Light Bluish Gray Hair, Dark Bluish Gray Beard
 
+// 31138-1	COMPLETE
+
 # JURASSIC PARK / WORLD
 
 // 75926-1	Pteranodon Chase (2018)
