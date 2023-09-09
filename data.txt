@@ -688,3 +688,4 @@ mof019	Zombie Chef	#MISSING
 
 // 40515-1	Pirates and Treasure VIP Add On Pack polybag (2022)
 gen047	Skeleton - Standard Skull, Bent Arms Vertical Grip
+gen047	Skeleton - Standard Skull, Bent Arms Vertical Grip
