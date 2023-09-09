@@ -245,7 +245,7 @@ coldis100-3	Jiminy Cricket, Disney 100
 coldis100-11	Miguel & Dante, Disney 100
 coldis100-9	Mulan, Disney 100
 coldis100-1	Oswald the Lucky Rabbit, Disney 100
-coldis100-2	Pinocchio, Disney 100	#MISSING
+coldis100-2	Pinocchio, Disney 100
 coldis100-12	Pocahontas, Disney 100	#MISSING
 coldis100-15	Prince John, Disney 100
 coldis100-7	Queen of Hearts, Disney 100
