@@ -510,6 +510,7 @@ jw102	Owen Grady - Open Neck Shirt, Neck Bracket
 jw048	Owen Grady - Open Neck Shirt
 
 // 122331-1	Owen with Swamp Speeder and Raptor paper bag (2023)
+jw048	Owen Grady - Open Neck Shirt
 
 // 30390-1	Dinosaur Market polybag (2022)
 jw101	Dinosaur Market Stall Owner - Male, Light Bluish Gray Hoodie, Dark Brown Legs, Dark Bluish Gray Beanie
@@ -666,11 +667,13 @@ sh849	Batman - Light Bluish Gray Scuba Mask
 sh822	Robin - Neck Bracket
 
 // 682305-1	Venom paper bag (2023)
+sh895	Venom - Teeth Parted, 4 Back Appendages Large
 
 // 682304-1	Green Goblin paper bag (2023)
 sh813	Green Goblin - Bright Green Skin, Dark Purple Outfit, Small Yellow Eyes, Plain Legs
 
 // 212326-1	Batman with Jet paper bag (2023)
+sh513	Batman - Juniors Cape
 
 // 212327-1	The Joker paper bag (2023)
 sh704	The Joker - Dark Pink Suit, Open Mouth Grin / Closed Mouth
