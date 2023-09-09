@@ -142,8 +142,12 @@ for (const line of lines) {
 		// https://www.bricklink.com/catalogItemInv.asp?S=71037-2&v=0&bt=0&sortBy=0&sortAsc=A&viewItemType=S
 	} else {
 		if (parsing_inventory) {
-			minifigure_count++;
 			const parts = line.split('\t');
+
+			// If not missing, add to included.
+			if (parts.length < 3 || parts[2] !== '#MISSING')
+				minifigure_count++;
+
 			if (parts.length === 1) {
 				// Get name from inventory.
 				const name = inventory.get(parts[0]);
