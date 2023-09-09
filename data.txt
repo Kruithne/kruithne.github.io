@@ -536,6 +536,8 @@ hol295	Elf - Green Scalloped Collar with Bells, Closed Mouth with Freckles
 hol246	Santa, Red Legs, Black Boots Fur Lined Jacket with Button and Candy Cane on Back, Gray Bushy Eyebrows
 
 // 40357-1	BYGGLEK (2020)
+ikea1	Bygglek minfigure 1
+ikea2	Bygglek minfigure 2
 
 # CREATOR
 
