@@ -657,6 +657,8 @@ min092	Villager - Dark Tan Pouch
 // b22hp04uk	Harry Potter - Official Yearbook 2023 (English - UK Edition)
 hp394	Hermione Granger - Striped Sweater, Dark Blue Legs
 
+// 30435-1	COMPLETE
+
 # NINJAGO
 
 // 112220-1	Kai vs. Ghoultar blister pack (2022)
