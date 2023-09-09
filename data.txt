@@ -509,7 +509,7 @@ jw102	Owen Grady - Open Neck Shirt, Neck Bracket
 // 122223-1	Owen with Quad foil pack (2022)
 jw048	Owen Grady - Open Neck Shirt
 
-// 122331-1	COMPLETE
+// 122331-1	Owen with Swamp Speeder and Raptor paper bag (2023)
 
 // 30390-1	Dinosaur Market polybag (2022)
 jw101	Dinosaur Market Stall Owner - Male, Light Bluish Gray Hoodie, Dark Brown Legs, Dark Bluish Gray Beanie
