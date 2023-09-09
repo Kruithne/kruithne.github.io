@@ -471,7 +471,6 @@ jw076	Sinjin Prescott
 // 75915-1	Pteranodon Capture (2015)
 jw003	Simon Masrani - Sand Blue Jumper
 jw004	ACU Trooper - Male, Black Aviator Cap with Trans-Brown Visor, Light Nougat Head, Sand Blue Body Armor Vest	#MISSING
-jw003	Simon Masrani - Sand Blue Jumper	#MISSING
 
 // 76940-1	T. rex Dinosaur Fossil Exhibition (2021)
 jw075	Darius
@@ -508,7 +507,6 @@ sw1190	Imperial Probe Droid
 // 75267-1	Mandalorian Battle Pack (2020)
 sw1078	Mandalorian Tribe Warrior - Female, Dark Brown Cape, Green Helmet with Antenna / Rangefinder
 sw1077	Mandalorian Tribe Warrior - Female, Black Cape, Light Bluish Gray Helmet with Antenna / Rangefinder	#MISSING
-sw1078	Mandalorian Tribe Warrior - Female, Dark Brown Cape, Green Helmet with Antenna / Rangefinder	#MISSING
 sw1079	Mandalorian Tribe Warrior - Male, Dark Brown Cape, Dark Orange Helmet	#MISSING
 sw1080	Mandalorian Tribe Warrior - Male, Olive Green Cape, Dark Azure Helmet	#MISSING
 
