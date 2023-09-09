@@ -246,6 +246,8 @@ colhp2-16	Neville Longbottom, Harry Potter, Series 2	#MISSING
 colhp2-15	Professor Sprout, Harry Potter, Series 2	#MISSING
 colhp2-4	Ron Weasley, Harry Potter, Series 2	#MISSING
 
+// 71038-2
+
 // 5004936-1	Iconic Cave
 col302	Cave Man - Iconic Cave
 col303	Cave Woman - Iconic Cave
