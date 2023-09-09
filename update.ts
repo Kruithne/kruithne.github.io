@@ -108,7 +108,7 @@ for (const line of lines) {
 					// item_id may be %d-%d, if that is the case, check that the first number
 					// does not appear at the start of item_name
 
-					const matches = item_id.match(/(\d+)-(\d+)/);
+					const matches = item_id.match(/(^[^-]+)/);
 					if (matches) {
 						const first_number = matches[1];
 						if (item_name.startsWith(first_number))
