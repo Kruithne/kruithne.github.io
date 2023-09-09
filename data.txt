@@ -343,9 +343,6 @@ cty0027a	Police - City Leather Jacket with Gold Badge and 'POLICE' on Back, Whit
 cty0199	Police - City Suit with Blue Tie and Badge, Black Legs, White Short Bill Cap, Crooked Smile
 cty0200	Police - Jail Prisoner 50380 Prison Stripes, Dark Bluish Gray Legs, Black Knit Cap, Smirk and Stubble Beard
 
-// 7279-1	Police Minifigure Collection (2011)
-cty0201	Police - Jail Prisoner Jacket over Prison Stripes, Dark Bluish Gray Legs, Dark Bluish Gray Knit Cap, Gold Tooth, Backpack	Missing part 92590
-
 // 4203-1	Excavator Transport (2012)
 cty0334	Flannel Shirt with Pocket and Belt, Dark Tan Legs, Mining Helmet, Safety Goggles
 cty0333	Miner - Shirt with Harness and Wrench, Sand Blue Legs, Red Short Bill Cap
