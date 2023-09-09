@@ -204,7 +204,7 @@ for (const line of lines_out) {
 
 		const parts = line.substring(3).split('\t');
 		html += '\t\t\t<tr>\n';
-		html += '\t\t\t\t<th><a href="https://www.bricklink.com/v2/catalog/catalogitem.page?S=' + parts[0] + '">' + parts[0] + '</a></th>\n';
+		html += '\t\t\t\t<th><a target="_blank" href="https://www.bricklink.com/v2/catalog/catalogitem.page?S=' + parts[0] + '">' + parts[0] + '</a></th>\n';
 		html += '\t\t\t\t<th>' + parts[1] + '</th>\n';
 		html += '\t\t\t\t<th></th>\n';
 		html += '\t\t\t</tr>\n';
@@ -221,7 +221,7 @@ for (const line of lines_out) {
 			continue;
 		const parts = line.split('\t');
 		html += '\t\t\t<tr' + (parts.length === 3 ? (parts[2] === '#MISSING' ? ' class="missing"' : ' class="partial"') : '') + '>\n';
-		html += '\t\t\t\t<td><a href="https://www.bricklink.com/v2/catalog/catalogitem.page?S=' + parts[0] + '">' + parts[0] + '</a></td>\n';
+		html += '\t\t\t\t<td><a target="_blank" href="https://www.bricklink.com/v2/catalog/catalogitem.page?S=' + parts[0] + '">' + parts[0] + '</a></td>\n';
 		html += '\t\t\t\t<td>' + (parts[1] ?? '') + '</td>\n';
 
 		const notes = parts[2] !== undefined && parts[2] !== '#MISSING' ? parts[2] : '';
