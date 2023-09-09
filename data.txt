@@ -680,7 +680,7 @@ tls104	Everyone is Awesome Yellow (Monochrome)
 
 // 10228-1	Haunted House (2012)
 gen046	Ghost with Pointed Top Shroud with 1 x 2 Plate and 1 x 2 Brick as Legs
-gen046	Ghost with Pointed Top Shroud with 1 x 2 Plate and 1 x 2 Brick as Legs	#MISSING
+gen046	Ghost with Pointed Top Shroud with 1 x 2 Plate and 1 x 2 Brick as Legs
 mof007	Lord Vampyre with Cape	#MISSING
 mof008	Lord Vampyre's Bride	#MISSING
 mof020	Monster Butler (Frankenstein)	#MISSING
