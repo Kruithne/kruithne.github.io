@@ -1,3 +1,4 @@
+# MINIFIGURE SERIES
 // 71037-2	Minifigure, Series 24 (Complete Series of 12 Complete Minifigure Sets)
 col24-1	col24 Football Referee, Series 24
 col24-12	col24 Newspaper Kid, Series 24
@@ -73,7 +74,7 @@ col21-3	col21 Shipwreck Survivor, Series 21
 col21-10	col21 Space Police Guy, Series 21
 col21-2	col21 Violin Kid, Series 21
 
-// 71025-2	 COMPLETE
+// 71025-2	COMPLETE
 
 // 71018-2	Minifigure, Series 17 (Complete Series of 16 Complete Minifigure Sets)
 col17-10	col17 Battle Dwarf, Series 17
@@ -184,9 +185,18 @@ colsim2-9	colsim2 Professor Frink, The Simpsons, Series 2
 colsim2-11	colsim2 Selma, The Simpsons, Series 2
 colsim2-15	colsim2 Waylon Smithers, The Simpsons, Series 2
 
+// 71022-2
+colhp-9
+
+// 71028-2
+colhp2-8
+colhp2-11
+
 // 5004936-1	Iconic Cave
 col302	Cave Man - Iconic Cave
 col303	Cave Woman - Iconic Cave
+
+# CITY
 
 // 30588-1	Kids' Playground polybag
 cty1333	Child - Girl, White Halter Top with Green Apples and Lime Spots, Medium Blue Short Legs, Dark Brown Hair with Buns, Freckles, Reddish Brown Backpack
@@ -204,28 +214,3 @@ cty1481	Girl - Dark Orange Hair, Bright Pink Hoodie, Sand Blue Short Legs
 cty1482	Grocery Store Customer - Male, Bright Light Yellow Shirt, Medium Nougat Hair, Prosthetic Leg
 cty1480	Mr. Produce
 cty1479	Peapod Costume Girl - Green Jacket
-
-// 71022-2	Minifigure, Harry Potter, Series 1 (Complete Series of 22 Complete Minifigure Sets)
-colhp-16	colhp Albus Dumbledore, Harry Potter, Series 1	#MISSING
-colhp-12	colhp Cedric Diggory, Harry Potter, Series 1	#MISSING
-colhp-7	colhp Cho Chang, Harry Potter, Series 1	#MISSING
-colhp-21	colhp Credence Barebone, Harry Potter, Series 1	#MISSING
-colhp-8	colhp Dean Thomas, Harry Potter, Series 1	#MISSING
-colhp-10	colhp Dobby, Harry Potter, Series 1	#MISSING
-colhp-4	colhp Draco Malfoy, Harry Potter, Series 1	#MISSING
-colhp-15	colhp Harry Potter in Pajamas, Harry Potter, Series 1	#MISSING
-colhp-1	colhp Harry Potter in School Robes, Harry Potter, Series 1	#MISSING
-colhp-2	colhp Hermione Granger in School Robes, Harry Potter, Series 1	#MISSING
-colhp-19	colhp Jacob Kowalski, Harry Potter, Series 1	#MISSING
-colhp-9	colhp Lord Voldemort, Harry Potter, Series 1	#MISSING
-colhp-5	colhp Luna Lovegood, Harry Potter, Series 1	#MISSING
-colhp-14	colhp Mad-Eye Moody, Harry Potter, Series 1	#MISSING
-colhp-6	colhp Neville Longbottom, Harry Potter, Series 1	#MISSING
-colhp-17	colhp Newt Scamander, Harry Potter, Series 1	#MISSING
-colhp-22	colhp Percival Graves, Harry Potter, Series 1	#MISSING
-colhp-13	colhp Professor Flitwick, Harry Potter, Series 1	#MISSING
-colhp-11	colhp Professor Trelawney, Harry Potter, Series 1	#MISSING
-colhp-20	colhp Queenie Goldstein, Harry Potter, Series 1	#MISSING
-colhp-3	colhp Ron Weasley in School Robes, Harry Potter, Series 1	#MISSING
-colhp-18	colhp Tina Goldstein, Harry Potter, Series 1	#MISSING
-colhp-9	Lord Voldemort, Harry Potter, Series 1 (Complete Set with Stand and Accessories)
