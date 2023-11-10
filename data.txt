@@ -359,10 +359,12 @@ adv010	Johnny Thunder (Desert)
 adv039	Baron Von Barron with Pith Helmet and White Epaulettes
 adv040	Dr. Charles Lightning with Backpack
 adv009	Harry Cane	#MISSING
-adv038	Lord Sam Sinister - Suit with 3 Buttons Black - Black Legs, Top Hat	missing tophat (ordered)
+adv038	Lord Sam Sinister - Suit with 3 Buttons Black - Black Legs, Top Hat	missing tophat
 gen001	Skeleton with Standard Skull
 
 # PHARAOH'S QUEST
+
+// 30091-1	COMPLETED
 
 // 30090-1	Desert Glider polybag (2011)
 pha001	Jake Raines - Aviator Jacket, Aviator Cap
