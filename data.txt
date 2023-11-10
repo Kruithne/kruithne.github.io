@@ -1,6 +1,18 @@
 # MINIFIGURE SERIES
 
-// 71031-2
+// 71031-2	Minifigure, Marvel Studios, Series 1 (Complete Series of 12 Complete Minifigure Sets) (2021)
+colmar-5	Captain America, Marvel Studios, Series 1	#MISSING
+colmar-10	Captain Carter, Marvel Studios, Series 1	#MISSING
+colmar-12	Gamora with Blade of Thanos, Marvel Studios, Series 1	#MISSING
+colmar-6	Loki, Marvel Studios, Series 1	#MISSING
+colmar-3	Monica Rambeau, Marvel Studios, Series 1	#MISSING
+colmar-7	Sylvie, Marvel Studios, Series 1	#MISSING
+colmar-11	T'Challa Star-Lord, Marvel Studios, Series 1	#MISSING
+colmar-1	The Scarlet Witch, Marvel Studios, Series 1	#MISSING
+colmar-2	The Vision, Marvel Studios, Series 1	#MISSING
+colmar-4	Winter Soldier, Marvel Studios, Series 1	#MISSING
+colmar-9	Zombie Captain America, Marvel Studios, Series 1	#MISSING
+colmar-8	Zombie Hunter Spidey, Marvel Studios, Series 1	#MISSING
 
 // 8804-2	Minifigure, Series 4 (Complete Series of 16 Complete Minifigure Sets) (2011)
 col04-14	Artist, Series 4	#MISSING
