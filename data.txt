@@ -274,13 +274,13 @@ colhp-19	Jacob Kowalski, Harry Potter, Series 1	#MISSING
 colhp-9	Lord Voldemort, Harry Potter, Series 1	#MISSING
 colhp-5	Luna Lovegood, Harry Potter, Series 1	#MISSING
 colhp-14	Mad-Eye Moody, Harry Potter, Series 1	#MISSING
-colhp-6	Neville Longbottom, Harry Potter, Series 1	#MISSING
-colhp-17	Newt Scamander, Harry Potter, Series 1	#MISSING
+colhp-6	Neville Longbottom, Harry Potter, Series 1
+colhp-17	Newt Scamander, Harry Potter, Series 1
 colhp-22	Percival Graves, Harry Potter, Series 1	#MISSING
 colhp-13	Professor Flitwick, Harry Potter, Series 1	#MISSING
 colhp-11	Professor Trelawney, Harry Potter, Series 1	#MISSING
 colhp-20	Queenie Goldstein, Harry Potter, Series 1	#MISSING
-colhp-3	Ron Weasley in School Robes, Harry Potter, Series 1	#MISSING
+colhp-3	Ron Weasley in School Robes, Harry Potter, Series 1
 colhp-18	Tina Goldstein, Harry Potter, Series 1	#MISSING
 
 // 71028-2	Minifigure, Harry Potter, Series 2 (Complete Series of 16 Complete Minifigure Sets)
