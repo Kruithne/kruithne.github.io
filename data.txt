@@ -46,7 +46,7 @@ col05-4	Ice Fisherman, Series 5
 col05-6	Lizard Man, Series 5	#MISSING
 col05-8	Lumberjack, Series 5	#MISSING
 col05-3	Royal Guard, Series 5	#MISSING
-col05-9	Small Clown, Series 5	missing pies (ordered)
+col05-9	Small Clown, Series 5
 col05-16	Snowboarder Guy, Series 5	#MISSING
 col05-7	Zookeeper, Series 5	#MISSING
 
