@@ -872,7 +872,7 @@ njo803	Lord Garmadon - Legacy, Silver Armor, Plain Legs
 njo719	Zane - Core, Shoulder Pad
 
 // 892308-1	Kai paper bag (2023)
-njo811	Kai - Dragons Rising	missing 68504 (ordered)
+njo811	Kai - Dragons Rising
 
 // 892305-1	Aspheera paper bag (2023)
 njo756	General Aspheera
