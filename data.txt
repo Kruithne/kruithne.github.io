@@ -430,7 +430,7 @@ cty0988	Sky Police - Jail Prisoner 86753 Prison Stripes, Scowl with Open Mouth a
 cty0980	Sky Police - Jet Pilot with Oxygen Mask	#MISSING
 
 // 7279-1	Police Minifigure Collection
-cty0201	Police - Jail Prisoner Jacket over Prison Stripes, Dark Bluish Gray Legs, Dark Bluish Gray Knit Cap, Gold Tooth, Backpack	Missing part 92590
+cty0201	Police - Jail Prisoner Jacket over Prison Stripes, Dark Bluish Gray Legs, Dark Bluish Gray Knit Cap, Gold Tooth, Backpack
 cty0027a	Police - City Leather Jacket with Gold Badge and 'POLICE' on Back, White Helmet, Trans-Brown Visor, Silver Sunglasses
 cty0199	Police - City Suit with Blue Tie and Badge, Black Legs, White Short Bill Cap, Crooked Smile
 cty0200	Police - Jail Prisoner 50380 Prison Stripes, Dark Bluish Gray Legs, Black Knit Cap, Smirk and Stubble Beard
