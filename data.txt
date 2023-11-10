@@ -905,7 +905,7 @@ njo727	Lloyd - Core, Shoulder Pad
 # FIGHT KNIGHTS
 
 // 6037-1	Witch's Windship (1997)
-cas032	Fright Knights - Witch with Cape	Missing wand (ordered)
+cas032	Fright Knights - Witch with Cape
 
 # MONSTER FIGHTERS
 
