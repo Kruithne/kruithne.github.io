@@ -383,6 +383,8 @@ cty1476	Sudsy Simon Tub Racer - Stuntz Driver
 
 # CITY
 
+// 951809-1	COMPLETED
+
 // 60376-1	Arctic Explorer Snowmobile (2023)
 cty1614	Arctic Explorer - Female, Orange Jacket, Dark Orange Braids with Dark Blue Beanie, Freckles, Backpack
 
