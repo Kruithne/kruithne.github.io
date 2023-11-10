@@ -350,6 +350,10 @@ firec002	Fire - Classic, Black Male Hair
 firec001	Fire - Classic, White Fire Helmet
 firec003	Fire - Classic, White Helmet, Trans-Light Blue Visor	#MISSING
 
+# WESTERN
+
+// 6765-1	COMPLETED
+
 # ADVENTURES
 
 // 5911-1	Johnny Thunder's Plane (2000)
