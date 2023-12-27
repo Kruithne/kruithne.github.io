@@ -398,6 +398,11 @@
 
 ## CITY
 
+| | 60384-1 | Penguin Slushy Van (2023) |
+| --- | --- | --- |
+| ✅ | cty1520 | Child - Girl, White Collared Shirt with Fruit, Dark Turquoise Short Legs, Dark Brown Hair with Buns |
+| ✅ | cty1519 | Penguin Slushy Vendor |
+
 | | 951809-1 | Garbage Man foil pack (2018) |
 | --- | --- | --- |
 | ✅ | cty0945 | Overalls with Safety Stripe Orange, Orange Legs, Blue Short Bill Cap, Dark Tan Angular Beard |
