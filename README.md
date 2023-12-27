@@ -403,6 +403,10 @@
 | ✅ | cty1520 | Child - Girl, White Collared Shirt with Fruit, Dark Turquoise Short Legs, Dark Brown Hair with Buns |
 | ✅ | cty1519 | Penguin Slushy Vendor |
 
+| | 952309-1 | Explorer with Water Scooter paper bag |
+| --- | --- | --- |
+| ✅ | cty1687 | Water Scooter Driver - Male, Dark Blue Diving Suit and Dirt Bike Helmet, Orange Life Jacket, Lopsided Smirk |
+
 | | 951809-1 | Garbage Man foil pack (2018) |
 | --- | --- | --- |
 | ✅ | cty0945 | Overalls with Safety Stripe Orange, Orange Legs, Blue Short Bill Cap, Dark Tan Angular Beard |
