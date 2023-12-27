@@ -1032,6 +1032,14 @@
 
 ## NINJAGO
 
+| | 892286-1 | Lloyd foil pack #8 |
+| --- | --- | --- |
+| ✅ | njo702 | Lloyd - Seabound, Scuba Gear |
+
+| | 892311-1 | Imperium Claw Hunter paper bag |
+| --- | --- | --- |
+| ✅ | njo817 | Imperium Claw Hunter |
+
 | | 892310-1 | Arin paper bag |
 | --- | --- | --- |
 | ✅ | njo822 | Arin - Hood |
