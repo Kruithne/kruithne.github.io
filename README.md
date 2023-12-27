@@ -1040,6 +1040,11 @@
 
 ## NINJAGO
 
+| | 112327-1 | Jay vs. Bone Hunter metal box |
+| --- | --- | --- |
+| ✅ | njo794 | Bone Hunter / Bone Scorpio |
+| ✅ | njo722 | Jay - Core, Shoulder Pad |
+
 | | 892312-1 | Sora paper bag |
 | --- | --- | --- |
 | ✅ | njo820 | Sora - White and Coral Racing Suit, Dark Blue Hood |
