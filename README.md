@@ -734,6 +734,10 @@
 | ✅ | sh734 | Thor - Long Dark Tan Hair |
 | ✅ | sh748 | Valkyrie - Pearl Dark Gray Suit |
 
+| | 682306-1 | Spider-Man paper bag |
+| --- | --- | --- |
+| ✅ | sh??? | Spider-Man |
+
 | | 242319-1 | Groot paper bag |
 | --- | --- | --- |
 | ✅ | sh743 | Groot, Teen Groot - Dark Tan |
