@@ -995,6 +995,11 @@
 
 ## NINJAGO
 
+| | 112326-1 | Cole vs. Bone Knight metal box |
+| --- | --- | --- |
+| ✅ | njo793 | Bone Knight |
+| ✅ | njo720 | Cole - Core, Shoulder Pad |
+
 | | 112328-1 | Pixal vs. Viper Flyer metal box |
 | --- | --- | --- |
 | ✅ | njo??? | Pixal |
