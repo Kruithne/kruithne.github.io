@@ -403,6 +403,14 @@
 | ✅ | cty1520 | Child - Girl, White Collared Shirt with Fruit, Dark Turquoise Short Legs, Dark Brown Hair with Buns |
 | ✅ | cty1519 | Penguin Slushy Vendor |
 
+| | 952208-1 | Police Diver with Underwater Scooter foil pack |
+| --- | --- | --- |
+| ✅ | cty1477 | Police - City Officer Dark Blue Diving Suit with Yellowish Green Harness, Bright Light Yellow Flippers, White Helmet and Air Tanks, Scuff Mark |
+
+| | 952311-1 | Diver with Underwater Scooter paper bag |
+| --- | --- | --- |
+| ✅ | cty1689 | Diver - Female, Red Helmet, Air Tanks, and Flippers |
+
 | | 952310-1 | Builder with Digger paper bag |
 | --- | --- | --- |
 | ✅ | cty1688 | Construction Worker - Male, Orange Overalls with Reflective Stripe and Buckles over Blue Shirt, Orange Legs, Red Construction Helmet, Open Mouth Smile |
