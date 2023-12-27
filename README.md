@@ -1008,6 +1008,12 @@
 | ✅ | hp346 | Harry Potter - Dark Blue Open Jacket over Gryffindor Cardigan Sweater, Black Legs |
 | ✅ | hp347 | Luna Lovegood - Tan Dress |
 
+## DREAMSZZZ
+
+| | 552301-1 | Mateo and Z-Blob paper bag |
+| --- | --- | --- |
+| ✅ | drm003 | Mateo - Bright Green Utility Belt |
+
 ## NINJAGO
 
 | | 892313-1 | Lloyd paper bag |
