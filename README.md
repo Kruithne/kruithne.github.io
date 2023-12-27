@@ -626,6 +626,17 @@
 
 ## CREATOR
 
+| | 10312-1 | Jazz Club (2023) |
+| --- | --- | --- |
+| ✅ | twn453 | Bass Player / Bassist |
+| ✅ | twn454 | Club Owner / Manager - Female, Bright Light Blue Jacket over White Shirt with Coral Flowers, Dark Orange Legs, Dark Brown Hair with Bun |
+| ✅ | twn451 | Drummer |
+| ✅ | twn456 | Jazz Singer |
+| ✅ | twn457 | Magician - Female, Black Suit Jacket with White Button Up Shirt, Black Legs, Bright Light Yellow Hair |
+| ✅ | twn452 | Pizza Chef |
+| ✅ | twn458 | Pizza Delivery Driver |
+| ✅ | twn455 | Tailor |
+
 | | 10278-1 | Police Station (2021) |
 | --- | --- | --- |
 | ✅ | twn403 | Donut / Doughnut Shop Clerk |
