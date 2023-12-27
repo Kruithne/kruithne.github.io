@@ -563,6 +563,16 @@
 | --- | --- | --- |
 | ✅ | cty1602 | Airport Worker - Male, Orange Safety Vest, Reflective Stripes, Reddish Brown Shirt, Sand Blue Legs, Red Construction Helmet, Dark Bluish Gray Beard |
 
+| | 60381-1 | Advent Calendar 2023, City |
+| --- | --- | --- |
+| ✅ | 60381-5 | Advent Calendar 2023, City (Day 4) - Ice Hockey Player with Stick and Puck |
+| ✅ | 60381-8 | Advent Calendar 2023, City (Day 7) - Ice Sculptor with Tools |
+| ✅ | 60381-10 | Advent Calendar 2023, City (Day 9) - Carol Singer with Candle |
+| ✅ | 60381-12 | Advent Calendar 2023, City (Day 11) - Video Game Player with Controller |
+| ✅ | 60381-15 | Advent Calendar 2023, City (Day 14) - Tik Tok Fan with Cell Phone / Smartphone and Dog Treat |
+| ✅ | 60381-22 | Advent Calendar 2023, City (Day 21) - Mrs. Claus on Snowboard |
+| ✅ | 60381-25 | Advent Calendar 2023, City (Day 24) - Mr. Claus / Santa with Gift Bag |
+
 | | 60268-1 | Advent Calendar 2020, City (2020) |
 | --- | --- | --- |
 | ✅ | 60268-3 | Advent Calendar 2020, City (Day 2) - Duke Detain |
