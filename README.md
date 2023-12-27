@@ -799,6 +799,15 @@
 | ⛔ | sw1079 | Mandalorian Tribe Warrior - Male, Dark Brown Cape, Dark Orange Helmet |
 | ⛔ | sw1080 | Mandalorian Tribe Warrior - Male, Olive Green Cape, Dark Azure Helmet |
 
+| | 75366-1 | Advent Calendar 2023, Star Wars |
+| --- | --- | --- |
+| ✅ | 75366-2 | Advent Calendar 2023, Star Wars (Day 1) - Omega with Sled |
+| ✅ | 75366-7 | Advent Calendar 2023, Star Wars (Day 6) - 212th Clone Trooper |
+| ✅ | 75366-9 | Advent Calendar 2023, Star Wars (Day 8) - B-1 Battle Droid |
+| ✅ | 75366-15 | Advent Calendar 2023, Star Wars (Day 14) - Princess Leia |
+| ✅ | 75366-21 | Advent Calendar 2023, Star Wars (Day 20) - Emperor Palpatine in Holiday Outfit |
+| ✅ | 75366-25 | Advent Calendar 2023, Star Wars (Day 24) - Ewok in Holiday Outfit |
+
 | | 75245-1 | Advent Calendar 2019, Star Wars (2019) |
 | --- | --- | --- |
 | ✅ | 75245-8 | Advent Calendar 2019, Star Wars (Day 7) - Chewbacca - Missing fire |
