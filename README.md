@@ -398,6 +398,15 @@
 
 ## CITY
 
+| | 60392-1 | Police Bike Car Chase (2023) |
+| --- | --- | --- |
+| ✅ | cty1558 | Police - City Bandit Crook Male, White Shirt with Dark Bluish Gray Prison Stripes, Black Legs, Black Knit Cap, Sunglasses |
+| ✅ | cty1557 | Police - City Motorcyclist Female, Safety Vest with Police Badge, Dark Blue Legs, White Helmet, Trans-Clear Visor |
+
+| | 30589-1 | Go-Kart Racer polybag (2022) |
+| --- | --- | --- |
+| ✅ | cty1432 | Go-Kart Racer, Coral Racing Suit, Black Helmet and Legs |
+
 | | 60384-1 | Penguin Slushy Van (2023) |
 | --- | --- | --- |
 | ✅ | cty1520 | Child - Girl, White Collared Shirt with Fruit, Dark Turquoise Short Legs, Dark Brown Hair with Buns |
