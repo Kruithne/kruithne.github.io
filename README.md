@@ -1016,6 +1016,10 @@
 
 ## NINJAGO
 
+| | 892310-1 | Arin paper bag |
+| --- | --- | --- |
+| ✅ | njo822 | Arin - Hood |
+
 | | 892313-1 | Lloyd paper bag |
 | --- | --- | --- |
 | ✅ | njo813 | Lloyd - Dragons Rising |
