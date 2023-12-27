@@ -718,11 +718,11 @@
 | ✅ | sh734 | Thor - Long Dark Tan Hair |
 | ✅ | sh748 | Valkyrie - Pearl Dark Gray Suit |
 
-| | 242215-1 | Thanos paper bag |
+| | 242215-1 | Thanos paper bag (2022) |
 | --- | --- | --- |
 | ✅ | sh696 | Thanos - Dark Blue Legs Plain, Dark Blue Arms, Pearl Gold Helmet |
 
-| | 242321-1 | Captain Marvel paper bag |
+| | 242321-1 | Captain Marvel paper bag (2023) |
 | --- | --- | --- |
 | ✅ | sh911 | Captain Marvel (Carol Danvers) - Tan Hair over Shoulder |
 
