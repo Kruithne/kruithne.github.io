@@ -982,6 +982,13 @@
 
 ## HARRY POTTER
 
+| | 5005254-1 | Bricktober Minifigure Collection 1/4 - Harry Potter (2018 Toys "R" Us Exclusive) |
+| --- | --- | --- |
+| ✅ | hp171 | Horace Slughorn - Dark Tan Vest |
+| ✅ | hp170 | Madam Rolanda Hooch - Black Outfit, Light Nougat Head, Spongy Cape |
+| ✅ | hp172 | Professor Dolores Umbridge - Dark Pink Dress |
+| ✅ | hp173 | Severus Snape Boggart |
+
 | | b22hp04uk | Harry Potter - Official Yearbook 2023 (English - UK Edition) |
 | --- | --- |
 | ✅ | hp394 | Hermione Granger - Striped Sweater, Dark Blue Legs |
