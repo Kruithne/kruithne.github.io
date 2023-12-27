@@ -670,6 +670,10 @@
 
 ## JURASSIC PARK / WORLD
 
+| | 122332-1 | Jetpack Ranger + Raptor paper bag |
+| --- | --- | --- |
+| ✅ | jw118 | Jetpack Ranger |
+
 | | 122334-1 | Alan with Dino Skeleton paper bag |
 | --- | --- | --- |
 | ✅ | jw081 | Dr. Alan Grant - Blue Shirt, Dark Brown Fedora |
