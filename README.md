@@ -718,6 +718,10 @@
 | ✅ | sh734 | Thor - Long Dark Tan Hair |
 | ✅ | sh748 | Valkyrie - Pearl Dark Gray Suit |
 
+| | 242320-1 | Iron Man paper bag |
+| --- | --- | --- |
+| ✅ | sh904 | Iron Man - Mark 85 Armor, Large Helmet Visor |
+
 | | 242321-1 | Captain Marvel paper bag (2023) |
 | --- | --- | --- |
 | ✅ | sh911 | Captain Marvel (Carol Danvers) - Tan Hair over Shoulder |
