@@ -670,6 +670,10 @@
 
 ## JURASSIC PARK / WORLD
 
+| | 122334-1 | Alan with Dino Skeleton paper bag |
+| --- | --- | --- |
+| ✅ | jw081 | Dr. Alan Grant - Blue Shirt, Dark Brown Fedora |
+
 | | 75926-1 | Pteranodon Chase (2018) |
 | --- | --- | --- |
 | ✅ | jw042 | ACU Tracker - Female, Black Aviator Cap with Trans-Brown Visor, Light Nougat Head |
