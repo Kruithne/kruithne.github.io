@@ -890,6 +890,14 @@
 
 ## DC Super Heroes
 
+| | 212330-1 | Batman paper bag |
+| --- | --- | --- |
+| ✅ | sh880 | Batman - One Piece Cowl and Cape with Simple Bat Logo (1992) |
+
+| | 212113-1 | Batman with Rocket Pack foil pack |
+| --- | --- | --- |
+| ✅ | sh688 | Batman - Rocket Pack |
+
 | | 76220-1 | Batman versus Harley Quinn (2022) |
 | --- | --- | --- |
 | ✅ | sh513 | Batman - Juniors Cape |
