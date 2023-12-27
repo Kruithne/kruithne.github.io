@@ -1034,6 +1034,10 @@
 | --- | --- | --- |
 | ✅ | drm003 | Mateo - Bright Green Utility Belt |
 
+| | 552302-1 | Cooper with Robot Arms paper bag |
+| --- | --- | --- |
+| ✅ | drm034 | Cooper - Red Racing Suit, Blue Utility Belt, Helmet, Robot Arms |
+
 ## NINJAGO
 
 | | 892312-1 | Sora paper bag |
