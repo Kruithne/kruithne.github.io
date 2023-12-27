@@ -700,6 +700,11 @@
 
 ## JURASSIC PARK / WORLD
 
+| | b22jw06 | Jurassic World - Owen vs. Delacourt (Box Set) |
+| --- | --- | --- |
+| ✅ | jw117 | Owen Grady - Open Neck Shirt, Backpack |
+| ✅ | jw077 | Rainn Delacourt - Dark Blue and White Shirt |
+
 | | 122333-1 | Owen with Motorcycle paper bag |
 | --- | --- | --- |
 | ✅ | jw??? | Owen |
