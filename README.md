@@ -403,6 +403,10 @@
 | ✅ | cty1520 | Child - Girl, White Collared Shirt with Fruit, Dark Turquoise Short Legs, Dark Brown Hair with Buns |
 | ✅ | cty1519 | Penguin Slushy Vendor |
 
+| | 952310-1 | Builder with Digger paper bag |
+| --- | --- | --- |
+| ✅ | cty1688 | Construction Worker - Male, Orange Overalls with Reflective Stripe and Buckles over Blue Shirt, Orange Legs, Red Construction Helmet, Open Mouth Smile |
+
 | | 952309-1 | Explorer with Water Scooter paper bag |
 | --- | --- | --- |
 | ✅ | cty1687 | Water Scooter Driver - Male, Dark Blue Diving Suit and Dirt Bike Helmet, Orange Life Jacket, Lopsided Smirk |
