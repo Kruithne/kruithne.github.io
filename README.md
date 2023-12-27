@@ -1061,6 +1061,11 @@
 
 ## NINJAGO
 
+| | 30650-1 | Kai and Rapton's Temple Battle polybag |
+| --- | --- | --- |
+| ✅ | njo811 | Kai - Dragons Rising |
+| ✅ | njo821 | Rapton |
+
 | | 112327-1 | Jay vs. Bone Hunter metal box |
 | --- | --- | --- |
 | ✅ | njo794 | Bone Hunter / Bone Scorpio |
