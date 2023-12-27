@@ -807,6 +807,14 @@
 
 ## STAR WARS
 
+| | 75344-1 | Boba Fett's Starship Microfighter {Slave I} |
+| --- | --- | --- |
+| ✅ | sw1245 | Boba Fett - Repainted Beskar Armor, Jet Pack |
+
+| | b23sw02 | Scouting Time! |
+| --- | --- | --- |
+| ✅ | sw??? | Scout Trooper |
+
 | | 75322-1 | Hoth AT-ST (2022) |
 | --- | --- | --- |
 | ✅ | sw1184 | Chewbacca - Snow |
