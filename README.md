@@ -756,6 +756,10 @@
 | ✅ | sh734 | Thor - Long Dark Tan Hair |
 | ✅ | sh748 | Valkyrie - Pearl Dark Gray Suit |
 
+| | b23sh02 | Marvel - Visual Dictionary (Hardcover) |
+| --- | --- | --- |
+| ✅ | sh914 | Iron Man - Mark 64 Armor |
+
 | | 682306-1 | Spider-Man paper bag |
 | --- | --- | --- |
 | ✅ | sh??? | Spider-Man |
