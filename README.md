@@ -1048,6 +1048,10 @@
 | ✅ | hp172 | Professor Dolores Umbridge - Dark Pink Dress |
 | ✅ | hp173 | Severus Snape Boggart |
 
+| | b21hp08uk | Harry Potter - Hogwarts at Christmas (Hardcover) (English - UK Edition) |
+| --- | --- | --- |
+| ✅ | hp184 | Harry Potter - Black Suit, White Bow Tie, Medium Legs |
+
 | | b22hp04uk | Harry Potter - Official Yearbook 2023 (English - UK Edition) |
 | --- | --- |
 | ✅ | hp394 | Hermione Granger - Striped Sweater, Dark Blue Legs |
