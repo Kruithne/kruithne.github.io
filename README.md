@@ -722,6 +722,10 @@
 | ✅ | sh734 | Thor - Long Dark Tan Hair |
 | ✅ | sh748 | Valkyrie - Pearl Dark Gray Suit |
 
+| | 242319-1 | Groot paper bag |
+| --- | --- | --- |
+| ✅ | sh743 | Groot, Teen Groot - Dark Tan |
+
 | | 242320-1 | Iron Man paper bag |
 | --- | --- | --- |
 | ✅ | sh904 | Iron Man - Mark 85 Armor, Large Helmet Visor |
