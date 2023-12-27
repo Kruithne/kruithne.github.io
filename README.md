@@ -818,6 +818,10 @@
 | ⛔ | 75245-24 | Advent Calendar 2019, Star Wars (Day 23) - Festive Gonk Droid (GNK Power Droid) |
 | ⛔ | 75245-25 | Advent Calendar 2019, Star Wars (Day 24) - Santa Porg |
 
+| | 912310-1 | C-3PO and Gonk Droid paper bag |
+| --- | --- | --- |
+| ✅ | sw1201 | C-3PO - Printed Legs, Toes and Arms |
+
 | | 912289-1 | Princess Leia foil pack (2022) |
 | --- | --- | --- |
 | ✅ | sw1036 | Princess Leia (White Dress, Detailed Belt, Skirt Part) |
