@@ -690,6 +690,10 @@
 
 ## JURASSIC PARK / WORLD
 
+| | 122333-1 | Owen with Motorcycle paper bag |
+| --- | --- | --- |
+| ✅ | jw??? | Owen |
+
 | | 122332-1 | Jetpack Ranger + Raptor paper bag |
 | --- | --- | --- |
 | ✅ | jw118 | Jetpack Ranger |
