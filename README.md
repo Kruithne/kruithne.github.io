@@ -983,6 +983,11 @@
 
 ## NINJAGO
 
+| | 112328-1 | Pixal vs. Viper Flyer metal box |
+| --- | --- | --- |
+| ✅ | njo??? | Pixal |
+| ✅ | njo??? | Viper Flyer |
+
 | | 112220-1 | Kai vs. Ghoultar blister pack (2022) |
 | --- | --- |
 | ✅ | njo646 | Ghost - Legacy, Shoulder Armor, Conical Hat, Skull Face |
