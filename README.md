@@ -1032,6 +1032,10 @@
 
 ## NINJAGO
 
+| | 892312-1 | Sora paper bag |
+| --- | --- | --- |
+| ✅ | njo820 | Sora - White and Coral Racing Suit, Dark Blue Hood |
+
 | | 892286-1 | Lloyd foil pack #8 |
 | --- | --- | --- |
 | ✅ | njo702 | Lloyd - Seabound, Scuba Gear |
