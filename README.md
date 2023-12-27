@@ -710,6 +710,10 @@
 
 ## MARVEL
 
+| | 242215-1 | Thanos paper bag |
+| --- | --- | --- |
+| ✅ | sh696 | Thanos - Dark Blue Legs Plain, Dark Blue Arms, Pearl Gold Helmet |
+
 | | 242321-1 | Captain Marvel paper bag |
 | --- | --- | --- |
 | ✅ | sh911 | Captain Marvel (Carol Danvers) - Tan Hair over Shoulder |
