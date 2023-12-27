@@ -710,14 +710,6 @@
 
 ## MARVEL
 
-| | 242215-1 | Thanos paper bag |
-| --- | --- | --- |
-| ✅ | sh696 | Thanos - Dark Blue Legs Plain, Dark Blue Arms, Pearl Gold Helmet |
-
-| | 242321-1 | Captain Marvel paper bag |
-| --- | --- | --- |
-| ✅ | sh911 | Captain Marvel (Carol Danvers) - Tan Hair over Shoulder |
-
 | | 40525-1 | Endgame Battle blister pack (2022) |
 | --- | --- | --- |
 | ✅ | sh730 | Chitauri - Dark Bluish Gray |
@@ -725,6 +717,14 @@
 | ✅ | sh808 | Miek - Mech Body |
 | ✅ | sh734 | Thor - Long Dark Tan Hair |
 | ✅ | sh748 | Valkyrie - Pearl Dark Gray Suit |
+
+| | 242215-1 | Thanos paper bag |
+| --- | --- | --- |
+| ✅ | sh696 | Thanos - Dark Blue Legs Plain, Dark Blue Arms, Pearl Gold Helmet |
+
+| | 242321-1 | Captain Marvel paper bag |
+| --- | --- | --- |
+| ✅ | sh911 | Captain Marvel (Carol Danvers) - Tan Hair over Shoulder |
 
 | | 242215-1 | Thanos paper bag (2022) |
 | --- | --- | --- |
