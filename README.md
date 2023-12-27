@@ -706,6 +706,10 @@
 
 ## MARVEL
 
+| | 242321-1 | Captain Marvel paper bag |
+| --- | --- | --- |
+| ✅ | sh911 | Captain Marvel (Carol Danvers) - Tan Hair over Shoulder |
+
 | | 40525-1 | Endgame Battle blister pack (2022) |
 | --- | --- | --- |
 | ✅ | sh730 | Chitauri - Dark Bluish Gray |
