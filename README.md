@@ -411,6 +411,10 @@
 | --- | --- | --- |
 | ✅ | cty0945 | Overalls with Safety Stripe Orange, Orange Legs, Blue Short Bill Cap, Dark Tan Angular Beard |
 
+| | 952312-1 | Polar Expedition paper bag |
+| --- | --- | --- |
+| ✅ | cty1690 | Arctic Explorer - Female, Orange Jacket, Dark Blue Ushanka Hat, Medium Azure Goggles |
+
 | | 30589-1 | Go-Kart Racer polybag (2022) |
 | --- | --- | --- |
 | ✅ | cty1432 | Go-Kart Racer, Coral Racing Suit, Black Helmet and Legs |
