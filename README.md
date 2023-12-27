@@ -604,6 +604,11 @@
 
 ## HOLIDAY / EVENT / PROMO
 
+| | 40586-1 | Moving Truck (2023) |
+| --- | --- | --- |
+| ✅ | twn459 | Mover - Female, Blue Overalls over V-Neck Shirt, Blue Legs, Dark Orange Ponytail |
+| ✅ | twn460 | Mover - Male, Green V-Neck Sweater, Dark Bluish Gray Legs, Dark Brown Hair |
+
 | | 5005233-1 | Royal Guard polybag (2018) |
 | --- | --- | --- |
 | ✅ | gen098 | Royal Guard |
