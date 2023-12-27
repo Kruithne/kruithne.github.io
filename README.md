@@ -995,6 +995,10 @@
 
 ## NINJAGO
 
+| | 892313-1 | Lloyd paper bag |
+| --- | --- | --- |
+| ✅ | njo813 | Lloyd - Dragons Rising |
+
 | | 112326-1 | Cole vs. Bone Knight metal box |
 | --- | --- | --- |
 | ✅ | njo793 | Bone Knight |
