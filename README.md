@@ -1,5 +1,20 @@
 ## Minifigure Series
 
+| | col26 | Minifigure, Collectible Series 26 (Complete Series of 12 Complete Minifigure Sets) (2024) |
+| --- | --- | --- |
+| ✅ | col26-10 | Alien Beetlezoid, Series 26 |
+| ✅ | col26-3 | Alien Tourist, Series 26 |
+| ✅ | col26-12 | Blacktron Mutant, Series 26 |
+| ✅ | col26-7 | Flying Saucer Costume Fan, Series 26 |
+| ✅ | col26-8 | Ice Planet Explorer, Series 26 |
+| ✅ | col26-2 | Imposter, Series 26 |
+| ✅ | col26-5 | M-Tron Powerlifter, Series 26 |
+| ✅ | col26-6 | Nurse Android, Series 26 |
+| ✅ | col26-11 | Orion, Series 26 |
+| ✅ | col26-4 | Retro Space Heroine, Series 26 |
+| ✅ | col26-9 | Robot Butler, Series 26 |
+| ✅ | col26-1 | Spacewalking Astronaut, Series 26 |
+
 | | 71031-2 | Minifigure, Marvel Studios, Series 1 (Complete Series of 12 Complete Minifigure Sets) (2021) |
 | --- | --- | --- |
 | ✅ | colmar-5 | Captain America, Marvel Studios, Series 1 |
