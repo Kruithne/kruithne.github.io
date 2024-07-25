@@ -15,6 +15,21 @@
 | ✅ | col26-9 | Robot Butler, Series 26 |
 | ✅ | col26-1 | Spacewalking Astronaut, Series 26 |
 
+| | 71045-2 | Minifigure, Series 25 (Complete Series of 12 Complete Minifigure Sets) (2024) |
+| --- | --- | --- |
+| ✅ | col25-2 | E-Sports Gamer, Series 25 |
+| ✅ | col25-11 | Fierce Barbarian, Series 25 |
+| ✅ | col25-1 | Film Noir Detective, Series 25 |
+| ✅ | col25-7 | Fitness Instructor, Series 25 |
+| ✅ | col25-5 | Goatherd, Series 25 |
+| ✅ | col25-9 | Harpy, Series 25 |
+| ✅ | col25-6 | Mushroom Sprite, Series 25 |
+| ✅ | col25-12 | Pet Groomer, Series 25 |
+| ✅ | col25-4 | Sprinter, Series 25 |
+| ✅ | col25-10 | Train Kid, Series 25 |
+| ✅ | col25-8 | Triceratops Costume Fan, Series 25 |
+| ✅ | col25-3 | Vampire Knight, Series 25 |
+
 | | 71031-2 | Minifigure, Marvel Studios, Series 1 (Complete Series of 12 Complete Minifigure Sets) (2021) |
 | --- | --- | --- |
 | ✅ | colmar-5 | Captain America, Marvel Studios, Series 1 |
@@ -413,6 +428,26 @@
 
 ## CITY
 
+| | 30664-1 | Police Off-Road Buggy Car polybag (2023) |
+| --- | --- | --- |
+| ✅ | cty1730 | Police - City Officer Male, Neon Yellow Safety Vest, White Helmet, Trans-Clear Visor |
+
+| | 60400-1 | Go-Karts and Race Drivers (2023) |
+| --- | --- | --- |
+| ✅ | cty1711 | Race Car Driver - Female, White, Dark Blue and Bright Light Orange Racing Suit, Dark Blue Legs, Red Helmet |
+| ✅ | cty1712 | Race Car Driver - Male, Racing Suit with Hawk Head Logo, Black Legs, Black Helmet, Trans-Clear Visor, Goatee |
+
+| | 60373-1 | Fire Rescue Boat (2023) |
+| --- | --- | --- |
+| ✅ | cty1551 | Fire - Female, Reflective Stripes with Utility Belt and Flashlight, Red Cap with Reddish Brown Ponytail, Orange Life Jacket |
+| ✅ | cty1549 | Fire - Male, Black Jacket and Legs with Reflective Stripes and Red Collar, White Helmet, Trans-Light Blue Visor, Orange Life Jacket |
+| ✅ | cty1550 | Speedboat Raft Driver - Female, White Jacket with Dolphin, Dark Purple Legs, Black Helmet, Trans-Clear Visor, Orange Life Jacket |
+
+| | 60404-1 | Burger Truck (2024) |
+| --- | --- | --- |
+| ✅ | twn496 | Burger Truck Customer |
+| ✅ | twn495 | Burger Truck Vendor |
+
 | | 60392-1 | Police Bike Car Chase (2023) |
 | --- | --- | --- |
 | ✅ | cty1558 | Police - City Bandit Crook Male, White Shirt with Dark Bluish Gray Prison Stripes, Black Legs, Black Knit Cap, Sunglasses |
@@ -658,6 +693,23 @@
 
 ## HOLIDAY / EVENT / PROMO
 
+| | 40584-1 | Birthday Diorama (2023) |
+| --- | --- | --- |
+| ✅ | hol323 | Boy - White Shirt, Dark Azure Short Legs, Dark Purple Top Hat |
+| ✅ | hol324 | Girl - Bright Pink Top with Butterflies and Flowers, Tan Short Legs, Dark Azure Hair |
+
+
+
+| | 40261-1 | Thanksgiving (2017) |
+| --- | --- | --- |
+| ✅ | hol100 | Farmer - Green Overalls over Red Plaid Shirt, Green Legs, Tan Fedora, Moustache |
+| ✅ | hol101 | Sweater Cropped with Bow, Heart Necklace, Dark Red Short Legs, Dark Orange Ponytail Long with Side Bangs |
+
+| | 40121-1 | Painting Easter Eggs (2015) |
+| --- | --- | --- |
+| ✅ | hol056 | Classic Space Minifigure Floating Pattern, Blue Short Legs, Dark Orange Short Tousled Hair |
+| ✅ | hol055 | Medium Blue Female Shirt with Two Buttons and Shell Pendant, Dark Blue Legs, Reddish Brown Ponytail and Swept Sideways Fringe |
+
 | | 40586-1 | Moving Truck (2023) |
 | --- | --- | --- |
 | ✅ | twn459 | Mover - Female, Blue Overalls over V-Neck Shirt, Blue Legs, Dark Orange Ponytail |
@@ -689,6 +741,11 @@
 | ✅ | ikea2 | Bygglek minfigure 2 |
 
 ## CREATOR
+
+| | 40602-1 | Winter Market Stall (2023) |
+| --- | --- | --- |
+| ✅ | hol332 | Child - Boy, Bright Green Sweater with Bright Light Yellow Zigzag Lines, Dark Tan Short Legs, Black Tousled Hair, Freckles |
+| ✅ | hol331 | Winter Market Stall Vendor - Female, Bright Light Blue Knit Fair Isle Sweater, Dark Blue Legs, Tan Ponytail |
 
 | | 10312-1 | Jazz Club (2023) |
 | --- | --- | --- |
@@ -776,6 +833,12 @@
 | ✅ | jw101 | Dinosaur Market Stall Owner - Male, Light Bluish Gray Hoodie, Dark Brown Legs, Dark Bluish Gray Beanie |
 
 ## MARVEL
+
+| | 10793-1 | Spidey vs. Green Goblin (2023) |
+| --- | --- | --- |
+| ✅ | sh949 | Ghost-Spider - Medium Legs, Arms with Wings |
+| ✅ | sh957 | Green Goblin - Lime Skin, Dark Purple Outfit, Medium Legs |
+| ✅ | sh955 | Spidey (Spider-Man) - Medium Legs, Gold Spider Logo |
 
 | | 40525-1 | Endgame Battle blister pack (2022) |
 | --- | --- | --- |
@@ -1033,6 +1096,11 @@
 
 ## MINECRAFT
 
+| | 21240-1 | The Swamp Adventure (2023) |
+| --- | --- | --- |
+| ✅ | min017 | Alex - Reddish Brown Legs |
+| ✅ | min010 | Zombie - Dark Purple Legs |
+
 | | 21165-1 | The Bee Farm (2020) |
 | --- | --- | --- |
 | ✅ | min091 | Beekeeper |
@@ -1264,7 +1332,90 @@
 | ⛔ | mof020 | Monster Butler (Frankenstein) |
 | ⛔ | mof019 | Zombie Chef |
 
+## DISNEY
+
+| | 40659-1 | Mini Steamboat Willie (2023) |
+| --- | --- | --- |
+| ✅ | dis147 | Mickey Mouse - Vintage, Light Bluish Gray Legs, White Hat with Black Top |
+
+## CASTLE
+
+| | 40601-1 | Majisto's Magical Workshop (2023) |
+| --- | --- | --- |
+| ✅ | cas581 | Dragon Knight - Female, Black Legs, Flat Silver Helmet and Armor |
+| ✅ | cas580 | Majisto Wizard - Skirt |
+
+## SYSTEM
+
+| | 6389-1 | Fire Control Center (1990) |
+| --- | --- | --- |
+| ✅ | firec002 | Fire - Classic, Black Male Hair |
+| ✅ | firec002 | Fire - Classic, Black Male Hair |
+| ✅ | firec001 | Fire - Classic, White Fire Helmet |
+| ✅ | firec003 | Fire - Classic, White Helmet, Trans-Light Blue Visor |
+
+| | 6401-1 | Seaside Cabana (1992) |
+| --- | --- | --- |
+| ✅ | par025 | Horizontal Blue and Light Green Stripes, Yellow Legs, Brown Male Hair, Life Jacket |
+| ✅ | par009 | Red Halter Top - Yellow Legs, Black Ponytail Hair, Open Mouth |
+
+| | 6402-1 | Sidewalk Cafe (1992) |
+| --- | --- | --- |
+| ✅ | par004 | Blue Flowers - Yellow Legs, Black Ponytail Hair |
+| ✅ | par027 | Horizontal Blue and Light Green Stripes, Yellow Legs, Blue Cap |
+
+| | 3055-1 | Adventurers Car (1998) |
+| --- | --- | --- |
+| ✅ | adv010 | Johnny Thunder (Desert) |
+
+| | 6765-1 | Gold City Junction (1996) |
+| --- | --- | --- |
+| ✅ | ww007 | Bandit 1 (Black Bart) |
+| ✅ | ww020 | Banker |
+| ✅ | ww006 | Cavalry Soldier - White Bandana |
+| ✅ | ww013 | Cowboy (Flatnose Curry) |
+| ✅ | ww012 | Deputy (Zack) |
+| ✅ | ww021 | Sheriff (Wild Wyatt West / Duke) |
+
+| | 3056-1 | Go-Kart (1998) |
+| --- | --- | --- |
+| ✅ | oct044 | Octan - Race Team, White Legs, Green Helmet, Trans-Light Blue Visor |
+
+## LEGOLAND
+
+| | 40347-1 | LEGOLAND Driving School (2019) |
+| --- | --- | --- |
+| ✅ | LLP024 | Child - Girl, White Halter Top with Green Apples and Lime Spots, Dark Azure Short Legs, Black Bob Cut Hair, Freckles |
+| ✅ | LLP023 | LEGOLAND Park Boy with Dark Brown Hair, Lime Sleeveless Hoodie, Dark Green Short Legs |
+| ✅ | LLP021 | LEGOLAND Park Female with Reddish Brown Ponytail, Bright Pink Shirt, White Legs |
+| ✅ | LLP022 | LEGOLAND Park Police Officer with Shirt with Dark Blue Tie and Gold Badge, Dark Tan Belt with Radio, Dark Blue Legs, Red Cap, Lopsided Smile |
+
+| | 10320-1 | Eldorado Fortress (2024) |
+| --- | --- | --- |
+| ✅ | pi192 | Imperial Soldier IV - Female, Black Shako Hat, Red Epaulettes, Backpack |
+| ✅ | pi191 | Imperial Soldier IV - Governor, Male, Black and White Bicorne, Red Plume, Gold Epaulettes |
+| ✅ | pi193 | Imperial Soldier IV - Male, Black Shako Hat, Red Epaulettes, Reddish Brown Moustache, Backpack |
+| ✅ | pi196 | Imperial Soldier IV - Male, Reddish Brown Sideburns, Black Shako Hat, Red Epaulettes, Backpack |
+| ✅ | pi194 | Imperial Soldier IV - Officer, Female, Black Tricorne, Reddish Brown Hair, Red Plume, Pearl Gold Epaulettes |
+| ✅ | pi188 | Imperial Soldier IV - Officer, Female, Black Tricorne, Tan Hair, Red Epaulettes and Plume |
+| ✅ | pi189 | Pirate - Female, Black Legs, Red Vest over White Shirt, Black Hair |
+| ✅ | pi190 | Pirate - Male, Red Bandana, White Shirt with Red Stripes, Green Legs, Eye Patch |
+| ✅ | pi195 | Skeleton - Standard Skull, Bent Arms Vertical Grip, Red Bandana with Double Tail in Back |
+
+## IDEAS
+
+| | 21343-1 | Viking Village (2024) |
+| --- | --- | --- |
+| ✅ | idea168 | Viking Archer - Male, Olive Green Tunic, Dark Orange Legs with Loincloth, Pearl Dark Gray Helmet, Quiver |
+| ✅ | idea167 | Viking Blacksmith - Female, Dark Red Overalls, Dark Red Legs with Trim, Dark Orange Hair |
+| ✅ | idea169 | Viking Chieftain - Male, Leather Armor, Dark Tan Legs with Tunic, Pearl Dark Gray Helmet, Shoulder Armor |
+| ✅ | idea170 | Viking Shield-Maiden - Dark Bluish Gray and Silver Armor, Dark Blue Legs with Trim, Tan Hair |
+
 ## OTHER
+
+| | 40579-1 | Eiffel's Apartment (2023) |
+| --- | --- | --- |
+| ✅ | gen171 | Gustave Eiffel |
 
 | | 76989-1 | Horizon Forbidden West: Tallneck (2022) |
 | --- | --- | --- |
