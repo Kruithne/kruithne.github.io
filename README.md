@@ -384,6 +384,12 @@
 | --- | --- | --- |
 | ✅ | cty1005 | Fire - Reflective Stripes, Sweat Drops, Red Helmet, Breathing Neck Gear with Blue Air Tanks |
 
+| | 6385 | Fire House-I |
+| --- | --- | --- |
+| | firec001 | Fire - Classic, White Fire Helmet |
+| | firec018 | Fire - Classic, White Fire Helmet, White Air Tanks |
+| | hor007 | Horizontal Lines Blue - White Arms - Blue Legs, Brown Female Hair |
+
 ## DISNEY
 
 | | 40659 | Mini Steamboat Willie |
@@ -578,6 +584,12 @@
 | ✅ | sp002 | Blacktron 2 |
 | ✅ | sp002 | Blacktron 2 |
 
+| | 6957 | Solar Snooper |
+| --- | --- | --- |
+| ✅ | sp037 | Space Police 2 |
+| ✅ | sp037 | Space Police 2 |
+| ✅ | sp002 | Blacktron 2 |
+
 | | 7050 | Alien Defender |
 | --- | --- | --- |
 | ✅ | ac002 | Alien Pilot |
@@ -598,6 +610,23 @@
 | | 9780241409695 | LEGO Minifigure: A Visual History (New Edition) (Hardcover) |
 | --- | --- | --- |
 | ✅ | sp130 | Classic Space - Orange with Air Tanks and Updated Helmet |
+
+| | 6846 | Tri-Star Voyager |
+| --- | --- | --- |
+| | sp005 | Classic Space - Red with Air Tanks |
+
+| | 6870 | Space Probe Launcher |
+| --- | --- | --- |
+| | sp005 | Classic Space - Red with Air Tanks |
+
+| | 6880 | Surface Explorer |
+| --- | --- | --- |
+| | sp007 | Classic Space - Yellow with Air Tanks |
+
+| | 6956 | Stellar Recon Voyager |
+| --- | --- | --- |
+| | sp033 | M:Tron with Air Tanks |
+| | sp033 | M:Tron with Air Tanks |
 
 ## Minifigure Series
 
@@ -1795,4 +1824,13 @@
 | | 5911 | Johnny Thunder's Plane |
 | --- | --- | --- |
 | ✅ | adv010 | Johnny Thunder (Desert) |
+
+## THE HOBBIT AND THE LORD OF THE RINGS
+
+| | 79001 | Escape from Mirkwood Spiders |
+| --- | --- | --- |
+| ✅ | lor035 | Legolas - Reddish Brown and Gold Robe |
+| ✅ | lor036 | Fili the Dwarf |
+| ✅ | lor037 | Kili the Dwarf |
+| ✅ | lor034 | Tauriel, Dark Green and Dark Brown Outfit |
 
